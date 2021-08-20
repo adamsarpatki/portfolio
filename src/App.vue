@@ -19,7 +19,7 @@
             >LinkedIn</a
           >.
         </div>
-      <button class="btn btn:hover" type="button">Contact Me</button>
+      <button class="btn btn:hover" type="button" onclick="window.location.href='https://www.linkedin.com/in/adamsarpatki/'">Contact Me</button>
     </div>
   </div>
   <!-- </main> -->
