@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+
+.cs-heading {
+    @apply font-heading desktop:text-5xl font-medium
+}
+
+.btn {
+    @apply h-20 w-184 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md
+}
+
+.btn:hover {
+    @apply bg-blue-800 text-gray-50
+}
+
+@tailwind utilities;
