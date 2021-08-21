@@ -1,14 +1,14 @@
 <template>
   <!-- <main class="h-screen bg-gray-50"> -->
   <div class="mx-32 h-full">
-    <div class="pt-20 flex-col justify-center items-start desktop:flex">
+    <div class="pt-16 flex-col justify-center items-start flex">
       <div class="text-xl font-bold leading-relaxed text-blue-900 font-body">
         Ádám Sárpátki
       </div>
       <div class="leading-normal text-gray-800 font-body">UX Designer</div>
     </div>
 
-    <div class="flex-col justify-center items-center desktop:flex h-full">
+    <div class="-m-24 flex-col justify-center items-center flex h-full">
       <div class="mb-4 cs-heading text-blue-800">My website is coming soon.</div>
       <div class="cs-heading text-blue-800">
         Until then, feel free to contact me on
