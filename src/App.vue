@@ -1,7 +1,7 @@
 <template>
   <!-- <main class="h-screen bg-gray-50"> -->
   <div class="mx-32 h-full">
-    <div class="mt-20 flex-col justify-center items-start desktop:flex">
+    <div class="pt-20 flex-col justify-center items-start desktop:flex">
       <div class="text-xl font-bold leading-relaxed text-blue-900 font-body">
         Ádám Sárpátki
       </div>
@@ -32,7 +32,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  /* margin-top: 60px; */
   height: 100%;
 }
 </style>
