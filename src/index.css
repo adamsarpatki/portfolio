@@ -2,11 +2,11 @@
 @tailwind components;
 
 .cs-heading {
-    @apply font-heading desktop:text-5xl font-medium
+    @apply font-heading text-5xl md:text-4xl sm:text-4xl font-medium
 }
 
 .btn {
-    @apply h-20 w-184 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md
+    @apply h-20 desktop:w-184 md:w-162 sm:w-296 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md
 }
 
 .btn:hover {

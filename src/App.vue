@@ -1,6 +1,6 @@
 <template>
   <!-- <main class="h-screen bg-gray-50"> -->
-  <div class="mx-32 h-full">
+  <div class="desktop:mx-32 md:mx-6 sm:mx-4 h-full">
     <div class="pt-16 flex-col justify-center items-start flex">
       <div class="text-xl font-bold leading-relaxed text-blue-900 font-body">
         Ádám Sárpátki
@@ -8,7 +8,7 @@
       <div class="leading-normal text-gray-800 font-body">UX Designer</div>
     </div>
 
-    <div class="-m-24 flex-col justify-center items-center flex h-full">
+    <div class="-my-24 flex-col justify-center items-center flex h-full flex-wrap">
       <div class="mb-4 cs-heading text-blue-800">My website is coming soon.</div>
       <div class="cs-heading text-blue-800">
         Until then, feel free to contact me on
@@ -19,7 +19,7 @@
           >LinkedIn</a
         >.
       </div>
-      <button class="btn btn:hover my-8" type="button" onclick="window.location.href='https://www.linkedin.com/in/adamsarpatki/'">Contact Me</button>
+      <button class="btn desktop:btn:hover my-8" type="button" onclick="window.location.href='https://www.linkedin.com/in/adamsarpatki/'">Contact Me</button>
     </div>
   </div>
   <!-- </main> -->

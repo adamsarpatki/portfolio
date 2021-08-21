@@ -4,16 +4,6 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    screens: {
-      'mobile': '640px',
-      // => @media (min-width: 640px) { ... }
-
-      'tablet': '768px',
-      // => @media (min-width: 768px) { ... }
-
-      'desktop': '1440px',
-      // => @media (min-width: 1440px) { ... }
-    },
     fontFamily: {
       'display': ['Montserrat'],
       'heading': ['Montserrat'],
@@ -42,11 +32,17 @@ module.exports = {
       blue: colors.sky,
       yellow: colors.amber,
     },
-    
+
     extend: {
+      screens: {
+        'desktop': '1440px',
+        // => @media (min-width: 1440px) { ... }
+      },
       spacing: {
         '184': '11.5rem',
-        '54' : '3.375rem',
+        '54': '3.375rem',
+        '162': '10.125rem',
+        '296': '18.5rem',
       },
     },
   },
