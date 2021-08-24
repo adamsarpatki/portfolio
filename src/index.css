@@ -5,6 +5,18 @@
     @apply font-heading text-4xl desktop:text-5xl md:text-5xl sm:text-4xl font-medium
 }
 
+.nav-link {
+    @apply font-subheading desktop:text-xl font-normal text-gray-50
+}
+
+.nav-link:hover {
+    @apply text-yellow-400
+}
+
+.nav-link:active {
+    @apply text-yellow-400
+}
+
 .btn {
     @apply h-20 w-296 desktop:w-184 md:w-162 sm:w-296 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md
 }

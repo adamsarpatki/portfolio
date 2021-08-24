@@ -8,8 +8,10 @@ module.exports = {
       'display': ['Montserrat'],
       'heading': ['Montserrat'],
       'body': ['Raleway'],
+      'subheading': ['Raleway']
     },
     fontSize: {
+      'footer': '.625rem',
       'xs': '.75rem',
       'sm': '.875rem',
       'tiny': '.875rem',
@@ -38,11 +40,17 @@ module.exports = {
         'desktop': '1440px',
         // => @media (min-width: 1440px) { ... }
       },
+
       spacing: {
         '184': '11.5rem',
         '54': '3.375rem',
         '162': '10.125rem',
         '296': '18.5rem',
+        '10%': '10%',
+      },
+
+      dropShadow: {
+        'navbar': '0 4px 45px rgba(0, 0, 0, 0.25)',
       },
     },
   },

@@ -1,28 +1,42 @@
 <template>
-  <!-- <main class="h-screen bg-gray-50"> -->
-  <div class="mx-4 desktop:mx-32 md:mx-6 sm:mx-4 h-full">
-    <div class="pt-4 sm:pt-16 md:pt-16 desktop:pt-16 flex-col justify-center items-center sm:items-start md:items-start desktop:items-start flex">
-      <div class="text-xl font-bold leading-relaxed text-blue-900 font-body">
-        Ádám Sárpátki
-      </div>
-      <div class="leading-normal text-gray-800 font-body">UX Designer</div>
+  <!-- Navbar -->
+  <nav
+    class="
+      px-4
+      desktop:px-32
+      md:px-6
+      sm:px-4
+      h-10%
+      bg-blue-900
+      flex
+      justify-between
+      items-center
+      filter
+      drop-shadow-navbar
+    "
+  >
+    <a href="/index.html" class="nav-link">Ádám Sárpátki</a>
+    <div class="flex flex-row text-center">
+      <a href="" class="nav-link nav-link:hover w-20 mx-2.5">Work</a>
+      <a href="" class="nav-link nav-link:hover w-20 mx-2.5">About</a>
+      <a href="" class="nav-link nav-link:hover w-20 mx-2.5">Contact</a>
     </div>
+  </nav>
 
-    <div class="-my-6 sm:-my-24 md:-my-24 desktop:-my-24 flex-col justify-center items-center flex h-full flex-wrap">
-      <div class="mb-4 cs-heading text-blue-800">My website is coming soon.</div>
-      <div class="cs-heading text-blue-800">
-        Until then, feel free to contact me on
-        <a
-          href="https://www.linkedin.com/in/adamsarpatki/"
-          target="_blank"
-          class="text-blue-600"
-          >LinkedIn</a
-        >.
-      </div>
-      <button class="btn desktop:btn:hover my-8" type="button" onclick="window.location.href='https://www.linkedin.com/in/adamsarpatki/'">Contact Me</button>
+  <!-- Body Content -->
+  <div
+    class="px-4 desktop:px-32 md:px-6 sm:px-4 h-full grid grid-cols-12 gap-4"
+  ></div>
+
+  <!-- Footer -->
+  <footer class="h-10% flex flex-row flex-wrap">
+    <div class="bg-blue-800 w-full items-center justify-center px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-row">
+      <a href="" class="mx-2.5 font-body text-base text-gray-50">LinkedIn</a>
+      <a href="" class="mx-2.5 font-body text-base text-gray-50">Instagram</a>
+      <a href="" class="mx-2.5 font-body text-base text-gray-50">Twitter</a>
     </div>
-  </div>
-  <!-- </main> -->
+    <div class="h-6 w-full bg-blue-900 flex-row font-body text-footer text-gray-50 justify-center">2021 © All rights reserved by Ádám Sárpátki</div>
+  </footer>
 </template>
 
 <style>
@@ -33,6 +47,5 @@
   text-align: center;
   color: #2c3e50;
   /* margin-top: 60px; */
-  height: 100%;
 }
 </style>
