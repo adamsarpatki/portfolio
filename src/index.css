@@ -5,6 +5,14 @@
     @apply font-heading text-4xl desktop:text-5xl md:text-5xl sm:text-4xl font-medium
 }
 
+.h1-bold {
+    @apply font-heading text-h1 font-bold
+}
+
+.subheading-regular {
+    @apply font-subheading text-xl
+}
+
 .nav-link {
     @apply font-subheading desktop:text-xl font-normal text-gray-50
 }

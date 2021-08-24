@@ -24,6 +24,7 @@ module.exports = {
       '5xl': '3rem',
       '6xl': '4rem',
       '7xl': '5rem',
+      'h1': '3.051875rem',
     },
     colors: {
       // Build your palette here
@@ -47,6 +48,7 @@ module.exports = {
         '162': '10.125rem',
         '296': '18.5rem',
         '10%': '10%',
+        '696': '43.5rem',
       },
 
       dropShadow: {

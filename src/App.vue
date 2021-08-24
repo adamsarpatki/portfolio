@@ -24,19 +24,23 @@
   </nav>
 
   <!-- Body Content -->
-  <div
-    class="px-4 desktop:px-32 md:px-6 sm:px-4 h-full grid grid-cols-12 gap-4"
-  ></div>
+  <div class="h-696 px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-col">
+        <div class="px-72">
+          <h1 class="h1-bold text-blue-900 mt-44 mb-11">Hi, I'm Ádám Sárpátki,</h1>
+          <p class="subheading-regular text-gray-700 mb-14">an enthusiastic UX designer based in Budapest, Hungary, with a background in library and information science, customer service and translation.</p>
+          <button class="btn ">Contact Me</button>
+        </div>
+  </div>
 
   <!-- Footer -->
-  <footer class="h-10% flex flex-row flex-wrap">
+  <!-- <footer class="h-10% flex flex-row flex-wrap">
     <div class="bg-blue-800 w-full items-center justify-center px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-row">
       <a href="" class="mx-2.5 font-body text-base text-gray-50">LinkedIn</a>
       <a href="" class="mx-2.5 font-body text-base text-gray-50">Instagram</a>
       <a href="" class="mx-2.5 font-body text-base text-gray-50">Twitter</a>
     </div>
     <div class="h-6 w-full bg-blue-900 flex-row font-body text-footer text-gray-50 justify-center">2021 © All rights reserved by Ádám Sárpátki</div>
-  </footer>
+  </footer> -->
 </template>
 
 <style>
