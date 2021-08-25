@@ -9,8 +9,20 @@
     @apply font-heading text-h1 font-bold
 }
 
+.h1-medium {
+    @apply font-heading text-h1 font-medium
+}
+
 .subheading-regular {
     @apply font-subheading text-xl
+}
+
+.subheading-italic {
+    @apply font-subheading text-xl italic
+}
+
+.display-medium {
+    @apply font-heading text-display font-medium
 }
 
 .nav-link {
