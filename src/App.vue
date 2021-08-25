@@ -13,6 +13,7 @@
       items-center
       filter
       drop-shadow-navbar
+      sticky z-50 top-0
     "
   >
     <a href="/index.html" class="nav-link">Ádám Sárpátki</a>
