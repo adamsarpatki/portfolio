@@ -2,14 +2,13 @@
   <!-- Navbar -->
   <header class="
       bg-blue-900
-      sm:h-24
       filter
       drop-shadow-navbar
       sticky z-50 top-0
       sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3
     ">
     <div class="
-      flex items-center justify-between px-4 py-3 sm:p-0
+      flex items-center justify-between px-4 py-3 sm:p-0 h-24
     ">
       <div class="nav-link">
         Ádám Sárpátki
