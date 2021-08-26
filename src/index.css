@@ -30,6 +30,10 @@
     @apply font-heading text-display font-medium
 }
 
+.display-smaller-medium {
+    @apply font-heading text-display-smaller font-medium
+}
+
 a {
     @apply hover:text-yellow-400
 }
