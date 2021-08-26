@@ -13,6 +13,11 @@
     @apply font-heading text-h1 font-medium
 }
 
+.h2-medium {
+    @apply font-heading text-h2 font-medium
+}
+
+
 .subheading-regular {
     @apply font-subheading text-xl
 }
@@ -25,12 +30,12 @@
     @apply font-heading text-display font-medium
 }
 
-.nav-link {
-    @apply font-subheading desktop:text-xl font-normal text-gray-50
+a {
+    @apply hover:text-yellow-400
 }
 
-.nav-link:hover {
-    @apply text-yellow-400
+.nav-link {
+    @apply font-subheading desktop:text-xl md:text-base font-normal text-gray-50
 }
 
 .nav-link:active {

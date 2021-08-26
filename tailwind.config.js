@@ -25,6 +25,7 @@ module.exports = {
       '6xl': '4rem',
       '7xl': '5rem',
       'h1': '3.051875rem',
+      'h2': '2.44125rem',
       'display': '4.768125rem',
     },
     colors: {
@@ -58,6 +59,11 @@ module.exports = {
         '409': '25.5625rem',
         '344.5': '21.53125rem',
         '82': '5.125rem',
+        '68': '4.25rem',
+        '720': '45rem',
+        '333': '20.8125rem',
+        '124': '7.75rem',
+        '90': '5.625rem',
       },
 
       dropShadow: {
@@ -67,6 +73,7 @@ module.exports = {
 
       backgroundImage: theme => ({
         'rulebook-card-desktop': "url('/src/assets/dnd-rulebook-card-background.png')",
+        'rulebook-card-tablet': "url('/src/assets/dnd-rulebook-card-background-tablet.png')"
        })
     },
   },
