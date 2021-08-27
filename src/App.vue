@@ -5,14 +5,14 @@
       filter
       drop-shadow-navbar
       sticky z-50 top-0
-      sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3
+      sm:flex sm:justify-between sm:items-center 
     ">
     <div class="
-      flex items-center justify-between px-4 py-3 sm:p-0 h-24
+      flex items-center justify-between px-4 py-3 sm:py-0 h-24
     ">
-      <div class="nav-link">
+      <a href="" class="nav-link">
         Ádám Sárpátki
-      </div>
+      </a>
       <div class="sm:hidden">
         <button @click="isOpen = !isOpen" type="button" class="flex flex-row items-center text-gray-50 hover:text-yellow-400 focus:text-yellow-400 focus:outline-none">
           <span class="font-subheading desktop:text-xl md:text-base font-normal mr-2">Menu</span>
