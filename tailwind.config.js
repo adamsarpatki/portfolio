@@ -28,6 +28,7 @@ module.exports = {
       'h2': '2.44125rem',
       'display': '4.768125rem',
       'display-smaller': '3.815rem',
+      '38': '2.375rem',
     },
     colors: {
       // Build your palette here
@@ -70,7 +71,12 @@ module.exports = {
         '276': '17.25rem',
         '496': '31rem',
         '470': '29.375rem',
-        '27': '1.6875',
+        '27': '1.6875rem',
+        '770': '48.125rem',
+        '56': '3.5rem',
+        '177': '11.0625rem',
+        '72': '4.5rem',
+        '166': '10.375rem',
       },
 
       dropShadow: {

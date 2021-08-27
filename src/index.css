@@ -17,6 +17,13 @@
     @apply font-heading text-h2 font-medium
 }
 
+.paragraph-regular {
+    @apply font-body text-base leading-6 font-normal text-gray-800
+}
+
+.paragraph-mobile {
+    @apply font-body text-xl leading-8 font-normal text-gray-800
+}
 
 .subheading-regular {
     @apply font-subheading text-xl
