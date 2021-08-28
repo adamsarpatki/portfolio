@@ -1,5 +1,23 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import "./index.css"
 
-createApp(App).mount('#app')
+import { createRouter, createWebHashHistory } from 'vue-router'
+import "./index.css"
+import Index from "./Index.vue"
+import AboutMe from "./AboutMe.vue"
+import Contact from "./Contact.vue"
+
+const routes = [
+    { path: '/', component: Index },
+    { path: '/about-me', component: AboutMe },
+    { path: '/contact', component: Contact },
+  ]
+
+const router = createRouter({
+    history: createWebHashHistory(),
+    routes
+})
+
+const app = createApp(App);
+app.use(router);
+app.mount('#app');
