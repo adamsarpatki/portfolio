@@ -26,10 +26,13 @@ module.exports = {
       '7xl': '5rem',
       'h1': '3.051875rem',
       'h2': '2.44125rem',
+      'h3': '1.953125rem',
+      'h4': '1.5625rem',
       'display': '4.768125rem',
       'display-smaller': '3.815rem',
       '38': '2.375rem',
       '12.8': '0.8rem',
+
     },
     colors: {
       // Build your palette here
@@ -79,6 +82,10 @@ module.exports = {
         '166': '10.375rem',
         '382': '23.875rem',
       },
+
+      lineHeight: {
+        '48': '3rem',
+       },
 
       dropShadow: {
         'navbar': '0 4px 45px rgba(0, 0, 0, 0.25)',
