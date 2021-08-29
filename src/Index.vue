@@ -1,6 +1,6 @@
 <template>
     <!-- Hero -->
-    <div class="h-696 sm:h-496 px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-col items-center justify-center">
+    <div class="h-696 sm:h-496 px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-col items-center mt-44">
         <div class="desktop:px-72 md:px-68 sm:px-27">
           <h1 class="h1-bold text-blue-900 mb-11">Hi, I'm Ádám Sárpátki,</h1>
           <p class="subheading-regular text-gray-700 mb-14">an enthusiastic UX designer based in Budapest, Hungary, with a background in library and information science, customer service and translation.</p>
@@ -15,14 +15,17 @@
       <p class="subheading-italic text-gray-900">A mobile-based solution for the players of Dungeons & Dragons.</p>
     </div>
   </div>
+
+  <WorkTogether/>
 </template>
 
 <script>
+import WorkTogether from './WorkTogether.vue'
 
 export default ({
     name: "Index",
-    setup() {
-        
+    components: {
+      WorkTogether
     },
 })
 </script>

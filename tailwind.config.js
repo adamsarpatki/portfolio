@@ -46,7 +46,6 @@ module.exports = {
         'desktop': '1440px',
         // => @media (min-width: 1440px) { ... }
       },
-
       spacing: {
         '184': '11.5rem',
         '54': '3.375rem',

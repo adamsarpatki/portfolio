@@ -80,11 +80,16 @@
         <p class="paragraph-regular">Good and constant communication is key in any situation, although I think some uninterrupted time can be beneficial, too.</p>
       </div>
     </div>
-
+<WorkTogether/>
 </template>
 
 <script>
+import WorkTogether from './WorkTogether.vue'
+
 export default ({
-    name: "AboutMe"
+    name: "AboutMe",
+    components: {
+      WorkTogether
+    },
 })
 </script>
