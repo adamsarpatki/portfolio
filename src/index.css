@@ -29,8 +29,20 @@
     @apply font-heading text-h4 font-normal leading-8
 }
 
+.h4-medium {
+    @apply font-heading text-h4 font-medium leading-8
+}
+
+.h5-bold {
+    @apply font-heading text-xl font-bold leading-6
+}
+
 .paragraph-regular {
     @apply font-body text-base leading-6 font-normal text-gray-800 mb-4
+}
+
+.paragraph-regular-bold {
+    @apply font-body text-base leading-6 font-bold text-gray-800 mb-4
 }
 
 .paragraph-regular-small {
@@ -49,12 +61,24 @@
     @apply font-subheading text-xl italic
 }
 
+.subheading-bold {
+    @apply font-subheading text-xl font-bold
+}
+
 .display-medium {
     @apply font-heading text-display font-medium
 }
 
 .display-smaller-medium {
     @apply font-heading text-display-smaller font-medium
+}
+
+td {
+    @apply font-body text-base font-normal
+}
+
+th {
+    @apply font-heading text-lg font-medium
 }
 
 a {

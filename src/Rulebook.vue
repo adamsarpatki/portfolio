@@ -216,7 +216,7 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-8 desktop:col-end-13 text-left">
+    <div class="desktop:col-start-7 desktop:col-end-13 text-left">
       <h3 class="h3-bold text-gray-900 mb-7">The Solution</h3>
       <div class="px-3 pl-8 pr-4">
         <p class="paragraph-regular">
@@ -289,63 +289,640 @@
         </p>
       </div>
     </div>
-    <div class="desktop:col-start-8 desktop:col-end-13 mt-12 text-left row-span-full">
-        <div class="">
-            <h4 class="h4-regular text-gray-900">Research questions</h4>
-            <div class="px-3 pl-8 pr-4 mt-2">
-            <p class="paragraph-regular">
-                First, I decided on some overarching questions I wanted to answer by
-                my user interviews. These were:
-            </p>
+    <div
+      class="
+        desktop:col-start-7 desktop:col-end-13
+        mt-12
+        text-left
+        row-span-full
+      "
+    >
+      <div class="">
+        <h4 class="h4-medium text-gray-900">Research questions</h4>
+        <div class="px-3 pl-8 pr-4 mt-2">
+          <p class="paragraph-regular">
+            First, I decided on some overarching questions I wanted to answer by
+            my user interviews. These were:
+          </p>
+          <div class="pl-6">
             <ul class="paragraph-regular list-disc">
-                <li>What is essential for playing D&D?
-                    <ul class="list-disc list-inside">
-                        <li>What are the users' current pain points?</li>
-                    </ul>
-                </li>
-                <li>How do players currently use the tools available for D&D?
-                    <ul class="list-disc list-inside">
-                        <li>How do they interact with existing digital products?</li>
-                    </ul>
-                </li>
-                
-                <li>Do users need another tool for D&D?
-                    <ul class="list-disc list-inside">
-                        <li>How do users feel about existing products?</li>
-                    </ul>
-                </li>
-            </ul>
-            </div>
-        </div>
-        
-        <div class="mt-4">
-            <h4 class="h4-regular text-gray-900">Method</h4>
-            <div class="px-3 pl-8 pr-4 mt-2">
-            <p class="paragraph-regular">
-                30-minute semi-structured interviews on Zoom to gather in-depth qualitative data.
-            </p>
-            </div>
-        </div>
+              <li>
+                What is essential for playing D&D?
+                <ul class="list-disc list-inside">
+                  <li>What are the users' current pain points?</li>
+                </ul>
+              </li>
+              <li>
+                How do players currently use the tools available for D&D?
+                <ul class="list-disc list-inside">
+                  <li>How do they interact with existing digital products?</li>
+                </ul>
+              </li>
 
-        <div class="">
-            <h4 class="h4-regular text-gray-900">Recruiting</h4>
-            <div class="px-3 pl-8 pr-4 mt-2">
-            <p class="paragraph-regular">
-                I have recruited 5 participants from my friends and acquaintances who are...
-            </p>
-            <ul class="paragraph-regular list-disc">
-                <li>Between the ages 26 and 35</li>
-                <li>Play D&D at least once a month</li>
-                <li>Use digital tools during game sessions</li>
+              <li>
+                Do users need another tool for D&D?
+                <ul class="list-disc list-inside">
+                  <li>How do users feel about existing products?</li>
+                </ul>
+              </li>
             </ul>
-            </div>
+          </div>
         </div>
+      </div>
+
+      <div class="mt-4">
+        <h4 class="h4-medium text-gray-900">Method</h4>
+        <div class="px-3 pl-8 pr-4 mt-2">
+          <p class="paragraph-regular">
+            30-minute semi-structured interviews on Zoom to gather in-depth
+            qualitative data.
+          </p>
+        </div>
+      </div>
+
+      <div class="">
+        <h4 class="h4-medium text-gray-900">Recruiting</h4>
+        <div class="px-3 pl-8 pr-4 mt-2">
+          <p class="paragraph-regular">
+            I have recruited 5 participants from my friends and acquaintances
+            who are...
+          </p>
+          <div class="pl-6">
+            <ul class="paragraph-regular list-disc">
+              <li>Between the ages 26 and 35</li>
+              <li>Play D&D at least once a month</li>
+              <li>Use digital tools during game sessions</li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
+
+  <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-12">
+    <table class="bg-gray-50 col-span-full border-collapse">
+      <thead class="bg-gray-300 border text-center h-16">
+        <tr>
+          <th></th>
+          <th>Started playing...</th>
+          <th>Playing frequency nowadays</th>
+          <th>Digital products they currently use</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="border border-gray-300 h-12">Participant 1</td>
+          <td class="border border-gray-300 h-12">15 years ago</td>
+          <td class="border border-gray-300 h-12">Once a week</td>
+          <td class="border border-gray-300 h-12">
+            D&D Beyond, Kobold Fight Club, 5etools, Roll20
+          </td>
+        </tr>
+        <tr>
+          <td class="border border-gray-300 h-12">Participant 2</td>
+          <td class="border border-gray-300 h-12">20 years ago</td>
+          <td class="border border-gray-300 h-12">Once a week</td>
+          <td class="border border-gray-300 h-12">D&D Beyond</td>
+        </tr>
+        <tr>
+          <td class="border border-gray-300 h-12">Participant 3</td>
+          <td class="border border-gray-300 h-12">January 2021</td>
+          <td class="border border-gray-300 h-12">Once a week</td>
+          <td class="border border-gray-300 h-12">D&D Beyond, Roll20</td>
+        </tr>
+        <tr>
+          <td class="border border-gray-300 h-12">Participant 4</td>
+          <td class="border border-gray-300 h-12">2-3 years ago</td>
+          <td class="border border-gray-300 h-12">Once or twice a month</td>
+          <td class="border border-gray-300 h-12">
+            D&D Beyond, 5th Edition Spellbook, Owlbear Rodeo
+          </td>
+        </tr>
+        <tr>
+          <td class="border border-gray-300 h-12">Participant 5</td>
+          <td class="border border-gray-300 h-12">20 years ago</td>
+          <td class="border border-gray-300 h-12">Bi- or triweekly</td>
+          <td class="border border-gray-300 h-12">
+            D&D Beyond, Roll20, Owlbear Rodeo
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-12">
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+      <h3 class="h3-bold text-gray-900 mb-7">Define</h3>
+      <div class="px-3 pl-8 pr-4">
+        <p class="paragraph-regular">
+          After the interviews, I took the insights gathered, arranged them by
+          participants on a Miro board, using <b>affinity mapping</b>, then
+          started clustering them based on similarities. This was a
+          time-consuming process — as it should be. By iterating, I've managed
+          to narrow down the prevalent themes of my findings. I could then start
+          identifying problems and discoveries.
+        </p>
+        <p class="paragraph-regular">
+          Based on this, I have asked myself the question:
+        </p>
+        <div class="mt-3 px-12 py-4 bg-gray-50 text-center">
+          <p class="subheading-bold">
+            How might we provide information about game mechanics for the
+            players of Dungeons and Dragons 5th edition, so they can find
+            answers to their questions more easily?
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="
+        desktop:col-start-7 desktop:col-end-13
+        mt-12
+        text-left
+        row-span-full
+      "
+    >
+      <div class="">
+        <h4 class="h4-medium text-gray-900">Key Findings / Pain Points</h4>
+        <div class="px-3 pl-8 pr-4 mt-2">
+          <div class="pl-6">
+            <ul class="paragraph-regular list-disc">
+              <li>It's difficult to find every rule and explanation.</li>
+              <li>The rules are sometimes vague or confusing.</li>
+              <li>Current tools are too manual.</li>
+            </ul>
+          </div>
+        </div>
+        <div class="">
+          <h4 class="h4-medium text-gray-900">Key Findings / User Behavior</h4>
+          <div class="px-3 pl-8 pr-4 mt-2">
+            <div class="pl-6">
+              <ul class="paragraph-regular list-disc">
+                <li>
+                  There is an increasing need for digital tools among players.
+                </li>
+                <li>
+                  Players use multiple digital tools to be able to do
+                  everything.
+                </li>
+                <li>
+                  Players mostly use Google to find answers to their questions.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="">
+          <h4 class="h4-medium text-gray-900">Key Findings / Needs</h4>
+          <div class="px-3 pl-8 pr-4 mt-2">
+            <div class="pl-6">
+              <ul class="paragraph-regular list-disc">
+                <li>
+                  Players would love to be able to see multiple resources in one
+                  place.
+                </li>
+                <li>Users would love to search resources by keywords.</li>
+                <li>
+                  Players would like it if they could find often used rules
+                  easily.
+                </li>
+                <li>Clear visual explanations are needed to help beginners.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-12 gap-4 px-32 h-auto">
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+      <h3 class="h3-bold text-gray-900 mb-7">Develop</h3>
+      <div class="">
+        <h4 class="h4-medium text-gray-900">Ideation</h4>
+        <div class="px-3 pl-8 pr-4 mt-2">
+          <p class="paragraph-regular">
+            Based on this HMW question I've started to ideate on some possible
+            features. All in all, I've gathered 11 possibilities, some more
+            difficult than others, then arranged them on a Complexity-Value
+            matrix, making sure I had a balance between features that are
+            strategic and that are low-hanging fruit, to make sure I would have
+            some features that are unique in the field, and some that are more
+            easily built.
+          </p>
+        </div>
+      </div>
+      <div class="">
+        <h4 class="h4-medium text-gray-900">Priorization</h4>
+        <div class="px-3 pl-8 pr-4 mt-2">
+          <p class="paragraph-regular">
+            I've then prioritized these features in a way that would make sense
+            from a developing standpoint. For this whole process, I've asked the
+            help of a developer to make sure my plans were realistic and
+            technically doable.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-16">
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+      <h4 class="h4-medium text-gray-900">MVP</h4>
+      <div class="px-3 pl-8 pr-4 mt-2">
+        <p class="paragraph-regular">
+          Next, I've determined what the Minimum Viable Product would be — what
+          features the most basic version of the app should have. These features
+          lay the groundwork for future updates while ensuring that D&D Rulebook
+          already has tremendous value over its competitors.
+        </p>
+        <p class="paragraph-regular">The chosen features are:</p>
+        <ol type="1" class="list-decimal pl-6">
+          <li class="paragraph-regular-bold">
+            Browse official resources
+            <ul class="paragraph-regular">
+              <li>
+                A more manual way to find answers, but a highly valuable and
+                less complex starting place to get resources into the app.
+              </li>
+            </ul>
+          </li>
+          <li class="paragraph-regular-bold">
+            Keyword search
+            <ul class="paragraph-regular">
+              <li>
+                Players stated that they would like the option to search D&D
+                resources by keywords. Complex to implement, but will lay the
+                foundation for further options.
+              </li>
+            </ul>
+          </li>
+          <li class="paragraph-regular-bold">
+            Free-text search
+            <ul class="paragraph-regular">
+              <li>
+                Players like using Google to find answers. Free-text search
+                shouldn't be too difficult to implement, and it's a logical next
+                step.
+              </li>
+            </ul>
+          </li>
+          <li class="paragraph-regular-bold">
+            Customizable FAQ
+            <ul class="paragraph-regular">
+              <li>
+                Players indicated they would be interested in an FAQ
+                functionality, but since every player has different problem
+                areas, a customizable FAQ would be more practical. Developing it
+                is a slightly complex process and not a direct continuation of
+                the previous features, but it ultimately would bring more value
+                than a pre-defined set of questions and answers.
+              </li>
+            </ul>
+          </li>
+        </ol>
+      </div>
+    </div>
+    <div class="desktop:col-start-7 desktop:col-end-13">
+      <img src="src/assets/complexity-value-matrix.png" alt="" />
+    </div>
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+      <h4 class="h4-medium text-gray-900">Early sketches</h4>
+      <div class="px-3 pl-8 pr-4 mt-2">
+        <p class="paragraph-regular">
+          With this in place, my next step was to sketch some ideas, first by
+          using the <b>Crazy Eights</b> method, then by creating
+          <b>a very low-fidelity prototype</b> in Figma. I’ve iterated on it a
+          few times, then conducted some usability studies, and iterated a few
+          times, again, cleaning up some of the UI to better represent its
+          intended functionality.
+        </p>
+        <p class="paragraph-regular">
+          I have started my prototype with the two main features of the app —
+          browsing and searching —, trying to get a feel for the design.
+        </p>
+        <p class="paragraph-regular">
+          Needless to say, this changed tremendously over each iteration,
+          especially since this was my first ever project, so I was learning a
+          lot about UX/UI design as I went.
+        </p>
+      </div>
+    </div>
+    <div class="desktop:col-start-7 desktop:col-end-13">
+      <img
+        src="src/assets/crazy-8-dnd-postits.png"
+        alt="An image of sketches for the application"
+      />
+    </div>
+  </div>
+
+  <div class="grid grid-cols-12 gap-4 h-full mb-16">
+    <div class="col-span-full">
+      <img
+        src="src/assets/lo-fi-prototypes.png"
+        alt="An image of low-fidelity prototypes"
+      />
+    </div>
+  </div>
+
+  <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-16">
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+      <h3 class="h3-bold text-gray-900 mb-7">Deliver</h3>
+      <div class="">
+        <h4 class="h4-medium text-gray-900">Prototyping</h4>
+        <div class="px-3 pl-8 pr-4 mt-2">
+          <p class="paragraph-regular">
+            Once I thought I was happy with the low-fidelity wireframes, it was
+            time to create a <b>high-fidelity prototype</b> and a
+            <b>design system</b> to go with it.
+          </p>
+          <p class="paragraph-regular">
+            For the design system, I've created color styles, a typography
+            guide, fields, buttons, templates, and multiple variants of every
+            component. I went the extra mile, and I’ve even designed error
+            messages, even though I’ve yet to use them.
+          </p>
+          <p class="paragraph-regular">
+            During this process, I've started to familiarize myself with
+            <b>Apple's Human Interface Guidelines</b> to make sure my designs
+            were as accurate as possible, and if I'm breaking any rules, I'm
+            conscious of it.
+          </p>
+        </div>
+      </div>
+      <div class="">
+        <h4 class="h4-medium text-gray-900">Accessibility</h4>
+        <div class="px-3 pl-8 pr-4 mt-2">
+          <p class="paragraph-regular">
+            After finishing the first version of the high-fidelity prototype, I
+            started looking at it critically with accessibility in mind. I
+            wanted to make sure as many people could use it as possible. So I
+            have made changes to the color scheme, using WebAIM, to give more
+            contrast to the pages, as well as making the font size larger,
+            therefore making the text more legible.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="desktop:col-start-7 desktop:col-end-13">
+      <img
+        src="src/assets/accessibility.png"
+        alt="An image of how accessibility changed the design of the app"
+      />
+    </div>
+  </div>
+
+  <div class="grid grid-cols-12 gap-4 h-full mb-16">
+    <div class="col-span-full">
+      <img
+        src="src/assets/hi-fi-accessibility.png"
+        alt="Screens of the app before and after accessibility"
+      />
+    </div>
+  </div>
+  <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-16">
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+      <h4 class="h4-medium text-gray-900">Testing</h4>
+      <div class="px-3 pl-8 pr-4 mt-2">
+        <p class="paragraph-regular">
+          The next step was to test the prototype on some users and get
+          qualitative feedback on the app’s current usability. After testing,
+          I've once again employed affinity mapping to arrange user insights,
+          just like in the research phase.
+        </p>
+        <p class="paragraph-regular">
+          Most of the feedback was positive, however, some areas needed
+          improvement.
+        </p>
+        <div class="paragraph-regular">
+          <ul class="list-disc pl-6">
+            <li>
+              The animation of the Search Result Modal wasn’t clear enough,
+              users got confused about why the tab bar disappeared.
+            </li>
+            <li>
+              The icon of the Browse screen did not communicate the screen’s
+              functionality clearly, so users had trouble locating it.
+            </li>
+            <li>
+              Some of the users felt that the functionality and design of the
+              Browse screen could be clearer, especially since its “table of
+              contents” looked drastically different than the following screen.
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="
+        desktop:col-start-8 desktop:col-end-13
+        h-288
+        py-4
+        mt-10
+        mr-100
+        text-left
+        bg-gray-200
+      "
+    >
+      <h4
+        class="
+          font-heading
+          text-xl
+          font-medium
+          leading-6
+          text-gray-900 text-center
+          mb-4
+        "
+      >
+        Overview
+      </h4>
+      <div class="pr-3 pl-5 mt-2 paragraph-regular">
+        <ul class="list-disc list-inside">
+          <li>7 <b>unmoderated interviews</b></li>
+          <li>
+            The participants were given <b>6 tasks</b> to complete in the
+            prototype, and they needed to record their reactions via a
+            microphone and, if possible, a webcam.
+          </li>
+          <li>Tools: <b>Lookback</b> and <b>Zoom</b></li>
+          <li>5 participants had a software engineering/testing background</li>
+          <li>2 participants were UX/UI designer students</li>
+        </ul>
+      </div>
+    </div>
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+      <h4 class="h4-medium text-gray-900">Iteration</h4>
+      <div class="px-3 pl-8 pr-4 mt-2">
+        <p class="paragraph-regular">
+          Based on the feedback from the usability testing, I decided I will
+          implement some changes.
+        </p>
+        <p class="paragraph-regular">
+          However, some of these meant that I had to find new ways to present
+          information, so this was the perfect opportunity for me to make quite
+          a few adjustments to almost every screen of the app. Since I've
+          started working on this project, I've learned a lot about design, and
+          I wanted my prototype to show this.
+        </p>
+      </div>
+    </div>
+
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left pl-8">
+      <h4 class="h5-bold text-gray-900">Better Design System</h4>
+      <div class="pr-4 mt-2">
+        <p class="paragraph-regular">
+          I have started to rework my design system. Some of my adjustments only
+          meant reorganizing things, e.g. labeling elements differently, while
+          others meant revamping buttons, fields, the tab bar, and the nav bar —
+          to follow Apple's guidelines more closely. This remained a continuous
+          process as I started working on other areas of the app.
+        </p>
+      </div>
+    </div>
+
+    <div class="desktop:col-start-7 desktop:col-end-13 text-left pl-8">
+      <h4 class="h5-bold text-gray-900">New browsing</h4>
+      <div class="pr-4 mt-2">
+        <p class="paragraph-regular">
+          Redesigned the Browse screen experience to be more like a table of
+          contents, and be more compact and usable even with a large amount of
+          reading material. For this, I went back to my low-fidelity prototype
+          to first create a simplified version.
+        </p>
+      </div>
+    </div>
+
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left pl-8">
+      <h4 class="h5-bold text-gray-900">Onboarding</h4>
+      <div class="pr-4 mt-2">
+        <p class="paragraph-regular">
+          I wanted to make the process of signing up or signing in as easy as
+          possible, and provide some useful tips for new users about how to use
+          D&D Rulebook's most basic features.
+        </p>
+      </div>
+    </div>
+
+    <div class="desktop:col-start-7 desktop:col-end-13 text-left pl-8">
+      <h4 class="h5-bold text-gray-900">New name</h4>
+      <div class="pr-4 mt-2">
+        <p class="paragraph-regular">
+          I have renamed the app, because "Lorebook" was misleading.
+        </p>
+      </div>
+    </div>
+
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left pl-8">
+      <h4 class="h5-bold text-gray-900">Better Animation</h4>
+      <div class="pr-4 mt-2">
+        <p class="paragraph-regular">
+          Altered the animation of the Search Result Modal to indicate more
+          clearly that it’s a modal.
+        </p>
+      </div>
+    </div>
+
+    <div
+      class="desktop:col-start-7 desktop:col-end-13 row-span-2 text-left pl-8"
+    >
+      <h4 class="h5-bold text-gray-900">Cleaner Search page</h4>
+      <div class="pr-4 mt-2">
+        <p class="paragraph-regular">
+          The previous version didn't follow Apple's guidelines very closely,
+          and I had to figure out a better way to handle keywords and search
+          results from multiple sources. I opted for table views to do this —
+          it's a solution that's native to iOS, and is capable of presenting
+          large amounts of list-style information.
+        </p>
+        <p class="paragraph-regular">
+          The new "Selected keywords" section's height would be fixed, making it
+          so that the user can add only 3 or 4 keywords — this is something I
+          haven't specified in earlier versions. Since keywords would have an
+          AND relation between them, combined with the free-text search, it
+          should be more than enough.
+        </p>
+      </div>
+    </div>
+
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left pl-8">
+      <h4 class="h5-bold text-gray-900">New tab bar</h4>
+      <div class="pr-4 mt-2">
+        <p class="paragraph-regular">
+          Swapped out the icon of the Browse screen from “building blocks” to an
+          “open book”, indicating that it’s a more book-like function. Added
+          labels to the icons of the tab bar.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-12 gap-4 h-full mb-16">
+    <div class="col-span-full">
+      <img
+        src="src/assets/final-app.png"
+        alt="Screens of the finished application"
+      />
+    </div>
+  </div>
+
+  <div class="grid grid-cols-12 gap-4 px-32 bg-gray-300 h-40 mb-12">
+    <h2 class="col-span-full self-center h2-bold text-gray-900">Conclusion</h2>
+  </div>
+
+  <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-12">
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+      <h3 class="h3-bold text-gray-900 mb-7">What I’ve Learned</h3>
+      <div class="px-3 pl-8 pr-4">
+        <p class="paragraph-regular">
+          Designing D&D Rulebook from start to finish was a thoroughly
+          enjoyable, but not always easy process. It taught me a lot about the
+          process of user-centered design, about the value of proper research
+          and user testing, about listening to one's guts, and not being afraid
+          to change something if it results in a better product.
+        </p>
+      </div>
+    </div>
+
+    <div class="desktop:col-start-7 desktop:col-end-13 text-left">
+      <h3 class="h3-bold text-gray-900 mb-7">Next Steps</h3>
+      <div class="px-3 pl-8 pr-4">
+        <p class="paragraph-regular">
+          I’m not done with this project yet. It still needs a lot of work and a
+          lot of testing until I am willing to say it’s finished (as much as a
+          project like this can ever be finished). However, I am confident that
+          should I have the necessary resources to make it more than just a
+          concept, it would solve a lot of problems for D&D players.
+        </p>
+      </div>
+    </div>
+  </div>
+
+<WorkTogether/>
+
+<div class="grid grid-cols-12 gap-4 px-32 bg-gray-300 h-40 mb-12">
+    <h2 class="col-span-full self-center h2-bold text-gray-900">Resources</h2>
+</div>
+
+<div class="flex flex-row px-32 mb-16 self-center text-left">
+  <div class="paragraph-regular m-auto px-80">
+    <p>Sample text: <a href="https://dnd.wizards.com/articles/features/systems-reference-document-srd" target="_blank">System Reference Document</a></p>
+    <p>Icons: <a href="https://www.figma.com/community/file/878585965681562011" target="_blank">Material Design Icons by smrkv</a>, <a href="https://developer.apple.com/sf-symbols/" target="_blank">SF Symbols 2</a></p>
+    <p>iOS UI elements: <a href="https://www.figma.com/community/file/858143367356468985" target="_blank">(Variants) iOS & iPadOS 14 UI Kit for Figma by Joey Banks</a></p>
+    <p>Blinking cursor: <a href="https://www.figma.com/community/file/905067239318782670" target="_blank">Cursors by The Human Interface</a></p>
+    <p>Apple icon: <a href="https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple/overview/introduction/" target="_blank">"Sign in with Apple"</a></p>
+    <p>Facebook icon: <a href="https://en.facebookbrand.com/facebookapp/" target="_blank">"Brand Resources"</a></p>
+    <p>Google icon:<a href="https://developers.google.com/identity/branding-guidelines" target="_blank"> "Sign-In Branding Guidelines"</a></p>
+  </div>
+</div>
+
 </template>
 
 <script>
+import WorkTogether from './WorkTogether.vue'
+
 export default {
   name: "Rulebook",
+  components: {
+    WorkTogether
+  },
 };
 </script>
