@@ -1,5 +1,6 @@
 <template>
-  
+    <div class="flex flex-col">
+
     <RulebookHeader/>
     <RulebookAbout/>
     <RulebookProcess/>
@@ -8,6 +9,7 @@
     <RulebookDevelop/>
     <RulebookDeliver/>
     <RulebookConclusion/>
+    </div>
 
 
 </template>
