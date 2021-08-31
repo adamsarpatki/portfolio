@@ -9,6 +9,7 @@ import Contact from "./Contact.vue"
 import WorkTogether from "./WorkTogether.vue"
 import Rulebook from "./Rulebook.vue"
 
+
 const routes = [
     { path: '/', component: Index },
     { path: '/about-me', component: AboutMe },
