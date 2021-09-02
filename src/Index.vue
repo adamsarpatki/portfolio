@@ -11,7 +11,7 @@
   <!-- Case Studies -->
   <div class="desktop:h-496 md:h-496 sm:h-470 px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-row items-end justify-center">
     <div class="desktop:pl-8 md:pl-4 sm:pl-4 desktop:pt-245 md:pt-124 md:pr-80 sm:pt-162 sm:pr-276 h-456 desktop:w-984 md:w-720 sm:w-608 flex flex-col items-start text-left desktop:bg-rulebook-card-desktop md:bg-rulebook-card-tablet sm:bg-rulebook-card-mobile filter bg-cover drop-shadow-card">
-      <router-link to="/rulebook"><h2 class="display-smaller-medium text-gray-900">D&D Rulebook</h2></router-link>
+      <router-link to="/rulebook"><h2 class="display-medium-smaller text-gray-900">D&D Rulebook</h2></router-link>
       <p class="subheading-italic text-gray-900">A mobile-based solution for the players of Dungeons & Dragons.</p>
     </div>
   </div>

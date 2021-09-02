@@ -5,72 +5,75 @@
     @apply font-heading text-4xl desktop:text-5xl md:text-5xl sm:text-4xl font-medium
 }
 
-.h1-bold {
-    @apply font-heading text-h1 font-bold
-}
+@responsive {
+    .display-medium {
+        @apply font-heading text-display font-medium
+        
+    }
+    .display-medium-smaller {
+        @apply font-heading text-display-smaller font-medium        
+    }
 
-.h1-medium {
-    @apply font-heading text-h1 font-medium
-}
-
-.h2-medium {
-    @apply font-heading text-h2 font-medium
-}
-
-.h2-bold {
-    @apply font-heading text-h2 font-bold
-}
-
-.h3-bold {
-    @apply font-heading text-h3 font-bold leading-48
-}
-
-.h4-regular {
-    @apply font-heading text-h4 font-normal leading-8
-}
-
-.h4-medium {
-    @apply font-heading text-h4 font-medium leading-8
-}
-
-.h5-bold {
-    @apply font-heading text-xl font-bold leading-6
-}
-
-.paragraph-regular {
-    @apply font-body text-base leading-6 font-normal text-gray-800 mb-4
-}
-
-.paragraph-regular-bold {
-    @apply font-body text-base leading-6 font-bold text-gray-800 mb-4
-}
-
-.paragraph-regular-small {
-    @apply font-body text-12.8 leading-4 font-normal text-gray-800
-}
-
-.paragraph-mobile {
-    @apply font-body text-xl leading-8 font-normal text-gray-800
-}
-
-.subheading-regular {
-    @apply font-subheading text-xl
-}
-
-.subheading-italic {
-    @apply font-subheading text-xl italic
-}
-
-.subheading-bold {
-    @apply font-subheading text-xl font-bold
-}
-
-.display-medium {
-    @apply font-heading text-display font-medium
-}
-
-.display-smaller-medium {
-    @apply font-heading text-display-smaller font-medium
+    .h1-bold {
+        @apply font-heading text-h1 font-bold
+    }
+    
+    .h1-medium {
+        @apply font-heading text-h1 font-medium
+    }
+    
+    .h2-medium {
+        @apply font-heading text-h2 font-medium
+    }
+    
+    .h2-bold {
+        @apply font-heading text-h2 font-bold
+    }
+    
+    .h3-bold {
+        @apply font-heading text-h3 font-bold leading-48
+    }
+    
+    .h4-regular {
+        @apply font-heading text-h4 font-normal leading-8
+    }
+    
+    .h4-medium {
+        @apply font-heading text-h4 font-medium leading-8
+    }
+    
+    .h5-bold {
+        @apply font-heading text-xl font-bold leading-6
+    }
+    
+    .paragraph-regular {
+        @apply font-body text-base leading-6 font-normal text-gray-800 mb-4
+    }
+    
+    .paragraph-regular-bold {
+        @apply font-body text-base leading-6 font-bold text-gray-800 mb-4
+    }
+    
+    .paragraph-regular-small {
+        @apply font-body text-12.8 leading-4 font-normal text-gray-800
+    }
+    
+    .paragraph-mobile {
+        @apply font-body text-xl leading-8 font-normal text-gray-800
+    }
+    
+    .subheading-regular {
+        @apply font-subheading text-xl
+    }
+    
+    .subheading-italic {
+        @apply font-subheading text-xl italic
+    }
+    
+    .subheading-bold {
+        @apply font-subheading text-xl font-bold
+    }
+    
 }
 
 td {
