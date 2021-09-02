@@ -1,9 +1,9 @@
 <template>
-    <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-12">
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+    <div class="study-grid h-auto mb-12">
+    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Discover</h3>
       <div class="px-3 pl-8 pr-4">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile">
           First, I did some <b>secondary research</b> online — since there
           aren't many academic publications about the effects of the pandemic on
           TTRPGs, this step mainly consisted of reading some informal articles.
@@ -11,14 +11,14 @@
           had some pretty solid ideas about the changes brought about by
           COVID-19.
         </p>
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile">
           Second, I conducted <b>primary research</b> in the form of
           <b>user interviews</b>. My goal was to learn about how casual players
           (i.e. people who do not make their living by playing and streaming the
           game) used existing digital tools for D&D 5e during game sessions. I
           wanted to learn about their current behaviors, pain points, and needs.
         </p>
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile">
           (As a side note, I've prepared a quantitative survey as well, but due
           to the tight deadlines of Udacity's course, I did not have the chance
           to conduct a study before moving on to ideation and the second part of
@@ -29,6 +29,7 @@
     <div
       class="
         desktop:col-start-7 desktop:col-end-13
+        col-span-full
         mt-12
         text-left
         row-span-full

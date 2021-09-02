@@ -59,7 +59,7 @@
     }
     
     .paragraph-mobile {
-        @apply font-body text-xl leading-8 font-normal text-gray-800
+        @apply font-body text-xl leading-8 font-normal text-gray-800 mb-4
     }
     
     .subheading-regular {
@@ -74,6 +74,10 @@
         @apply font-subheading text-xl font-bold
     }
     
+}
+
+.study-grid {
+    @apply grid grid-cols-12 gap-4 px-4 desktop:px-32 md:px-6 sm:px-4
 }
 
 td {
