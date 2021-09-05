@@ -113,9 +113,10 @@ module.exports = {
       },
 
       backgroundImage: theme => ({
-        'rulebook-card-desktop': "url('/src/assets/dnd-rulebook-card-background.png')",
-        'rulebook-card-tablet': "url('/src/assets/dnd-rulebook-card-background-tablet.png')",
-        'rulebook-card-mobile': "url('/src/assets/dnd-rulebook-card-background-mobile.png')",
+        'rulebook-card-desktop': "url('/src/assets/study-card-desktop@2x.png')",
+        'rulebook-card-tablet': "url('/src/assets/study-card-tablet@2x.png')",
+        'rulebook-card-mobile': "url('/src/assets/study-card-mobile@2x.png')",
+        'rulebook-card-small': "url('/src/assets/study-card-small@2x.png')",
        })
     },
   },
