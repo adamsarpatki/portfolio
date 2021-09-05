@@ -61,6 +61,10 @@
     .paragraph-mobile {
         @apply font-body text-xl leading-8 font-normal text-gray-800 mb-4
     }
+
+    .paragraph-mobile-small {
+        @apply font-body text-lg leading-6 font-normal text-gray-800 mb-4
+    }
     
     .subheading-regular {
         @apply font-subheading text-xl

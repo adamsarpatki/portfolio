@@ -1,9 +1,9 @@
 <template>
-    <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-12">
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+    <div class="study-grid h-auto mb-12">
+    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Define</h3>
       <div class="px-3 pl-8 pr-4">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile">
           After the interviews, I took the insights gathered, arranged them by
           participants on a Miro board, using <b>affinity mapping</b>, then
           started clustering them based on similarities. This was a
@@ -11,7 +11,7 @@
           to narrow down the prevalent themes of my findings. I could then start
           identifying problems and discoveries.
         </p>
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile">
           Based on this, I have asked myself the question:
         </p>
         <div class="mt-3 px-12 py-4 bg-gray-50 text-center">
@@ -25,17 +25,17 @@
     </div>
     <div
       class="
-        desktop:col-start-7 desktop:col-end-13
-        mt-12
+        desktop:col-start-7 desktop:col-end-13 col-span-full 
+        desktop:mt-12
+        mt-3
         text-left
-        row-span-full
       "
     >
       <div class="">
         <h4 class="h4-medium text-gray-900">Key Findings / Pain Points</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
           <div class="pl-6">
-            <ul class="paragraph-regular list-disc">
+            <ul class="desktop:paragraph-regular paragraph-mobile-small list-disc">
               <li>It's difficult to find every rule and explanation.</li>
               <li>The rules are sometimes vague or confusing.</li>
               <li>Current tools are too manual.</li>
@@ -46,7 +46,7 @@
           <h4 class="h4-medium text-gray-900">Key Findings / User Behavior</h4>
           <div class="px-3 pl-8 pr-4 mt-2">
             <div class="pl-6">
-              <ul class="paragraph-regular list-disc">
+              <ul class="desktop:paragraph-regular paragraph-mobile-small list-disc">
                 <li>
                   There is an increasing need for digital tools among players.
                 </li>
@@ -65,7 +65,7 @@
           <h4 class="h4-medium text-gray-900">Key Findings / Needs</h4>
           <div class="px-3 pl-8 pr-4 mt-2">
             <div class="pl-6">
-              <ul class="paragraph-regular list-disc">
+              <ul class="desktop:paragraph-regular paragraph-mobile-small list-disc">
                 <li>
                   Players would love to be able to see multiple resources in one
                   place.

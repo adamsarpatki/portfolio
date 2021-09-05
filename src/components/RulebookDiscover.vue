@@ -30,20 +30,20 @@
       class="
         desktop:col-start-7 desktop:col-end-13
         col-span-full
-        mt-12
+        desktop:mt-12
+        mt-3
         text-left
-        row-span-full
       "
     >
       <div class="">
         <h4 class="h4-medium text-gray-900">Research questions</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="paragraph-regular">
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
             First, I decided on some overarching questions I wanted to answer by
             my user interviews. These were:
           </p>
           <div class="pl-6">
-            <ul class="paragraph-regular list-disc">
+            <ul class="desktop:paragraph-regular paragraph-mobile-small list-disc">
               <li>
                 What is essential for playing D&D?
                 <ul class="list-disc list-inside">
@@ -71,7 +71,7 @@
       <div class="mt-4">
         <h4 class="h4-medium text-gray-900">Method</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="paragraph-regular">
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
             30-minute semi-structured interviews on Zoom to gather in-depth
             qualitative data.
           </p>
@@ -81,12 +81,12 @@
       <div class="">
         <h4 class="h4-medium text-gray-900">Recruiting</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="paragraph-regular">
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
             I have recruited 5 participants from my friends and acquaintances
             who are...
           </p>
           <div class="pl-6">
-            <ul class="paragraph-regular list-disc">
+            <ul class="desktop:paragraph-regular paragraph-mobile-small list-disc">
               <li>Between the ages 26 and 35</li>
               <li>Play D&D at least once a month</li>
               <li>Use digital tools during game sessions</li>
@@ -97,7 +97,7 @@
     </div>
   </div>
 
-  <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-12">
+  <div class="study-grid h-auto mb-12">
     <table class="bg-gray-50 col-span-full border-collapse">
       <thead class="bg-gray-300 border text-center h-16">
         <tr>

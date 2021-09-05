@@ -1,22 +1,22 @@
 <template>
-    <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-16">
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+    <div class="study-grid h-auto mb-16">
+    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Deliver</h3>
       <div class="">
         <h4 class="h4-medium text-gray-900">Prototyping</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="paragraph-regular">
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
             Once I thought I was happy with the low-fidelity wireframes, it was
             time to create a <b>high-fidelity prototype</b> and a
             <b>design system</b> to go with it.
           </p>
-          <p class="paragraph-regular">
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
             For the design system, I've created color styles, a typography
             guide, fields, buttons, templates, and multiple variants of every
             component. I went the extra mile, and I’ve even designed error
             messages, even though I’ve yet to use them.
           </p>
-          <p class="paragraph-regular">
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
             During this process, I've started to familiarize myself with
             <b>Apple's Human Interface Guidelines</b> to make sure my designs
             were as accurate as possible, and if I'm breaking any rules, I'm
@@ -27,7 +27,7 @@
       <div class="">
         <h4 class="h4-medium text-gray-900">Accessibility</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="paragraph-regular">
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
             After finishing the first version of the high-fidelity prototype, I
             started looking at it critically with accessibility in mind. I
             wanted to make sure as many people could use it as possible. So I
@@ -38,7 +38,7 @@
         </div>
       </div>
     </div>
-    <div class="desktop:col-start-7 desktop:col-end-13">
+    <div class="desktop:col-start-7 desktop:col-end-13 col-span-full m-auto">
       <img
         src="src/assets/accessibility.png"
         alt="An image of how accessibility changed the design of the app"
@@ -54,21 +54,21 @@
       />
     </div>
   </div>
-  <div class="grid grid-cols-12 gap-4 px-32 h-auto mb-16">
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+  <div class="study-grid h-auto mb-16">
+    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">Testing</h4>
       <div class="px-3 pl-8 pr-4 mt-2">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           The next step was to test the prototype on some users and get
           qualitative feedback on the app’s current usability. After testing,
           I've once again employed affinity mapping to arrange user insights,
           just like in the research phase.
         </p>
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           Most of the feedback was positive, however, some areas needed
           improvement.
         </p>
-        <div class="paragraph-regular">
+        <div class="desktop:paragraph-regular paragraph-mobile-small">
           <ul class="list-disc pl-6">
             <li>
               The animation of the Search Result Modal wasn’t clear enough,
@@ -90,10 +90,13 @@
     <div
       class="
         desktop:col-start-8 desktop:col-end-13
-        h-288
+        col-start-3 col-end-11
+        desktop:h-288
         py-4
         mt-10
-        mr-100
+        mb-10
+        desktop:mb-0
+        desktop:mr-100
         text-left
         bg-gray-200
       "
@@ -110,7 +113,7 @@
       >
         Overview
       </h4>
-      <div class="pr-3 pl-5 mt-2 paragraph-regular">
+      <div class="pr-3 pl-5 mt-2 desktop:paragraph-regular paragraph-mobile-small">
         <ul class="list-disc list-inside">
           <li>7 <b>unmoderated interviews</b></li>
           <li>
@@ -124,14 +127,14 @@
         </ul>
       </div>
     </div>
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left">
+    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">Iteration</h4>
       <div class="px-3 pl-8 pr-4 mt-2">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           Based on the feedback from the usability testing, I decided I will
           implement some changes.
         </p>
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           However, some of these meant that I had to find new ways to present
           information, so this was the perfect opportunity for me to make quite
           a few adjustments to almost every screen of the app. Since I've
@@ -141,10 +144,10 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left pl-8">
+    <div class="desktop:col-start-1 desktop:col-end-7 text-left col-span-full pl-8">
       <h4 class="h5-bold text-gray-900">Better Design System</h4>
       <div class="pr-4 mt-2">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           I have started to rework my design system. Some of my adjustments only
           meant reorganizing things, e.g. labeling elements differently, while
           others meant revamping buttons, fields, the tab bar, and the nav bar —
@@ -154,10 +157,10 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-7 desktop:col-end-13 text-left pl-8">
+    <div class="desktop:col-start-7 desktop:col-end-13 col-span-full text-left pl-8">
       <h4 class="h5-bold text-gray-900">New browsing</h4>
       <div class="pr-4 mt-2">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           Redesigned the Browse screen experience to be more like a table of
           contents, and be more compact and usable even with a large amount of
           reading material. For this, I went back to my low-fidelity prototype
@@ -166,10 +169,10 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left pl-8">
+    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8">
       <h4 class="h5-bold text-gray-900">Onboarding</h4>
       <div class="pr-4 mt-2">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           I wanted to make the process of signing up or signing in as easy as
           possible, and provide some useful tips for new users about how to use
           D&D Rulebook's most basic features.
@@ -177,19 +180,19 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-7 desktop:col-end-13 text-left pl-8">
+    <div class="desktop:col-start-7 desktop:col-end-13 col-span-full text-left pl-8">
       <h4 class="h5-bold text-gray-900">New name</h4>
       <div class="pr-4 mt-2">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           I have renamed the app, because "Lorebook" was misleading.
         </p>
       </div>
     </div>
 
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left pl-8">
+    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8">
       <h4 class="h5-bold text-gray-900">Better Animation</h4>
       <div class="pr-4 mt-2">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           Altered the animation of the Search Result Modal to indicate more
           clearly that it’s a modal.
         </p>
@@ -197,18 +200,18 @@
     </div>
 
     <div
-      class="desktop:col-start-7 desktop:col-end-13 row-span-2 text-left pl-8"
+      class="desktop:col-start-7 desktop:col-end-13 row-span-2 col-span-full text-left pl-8"
     >
       <h4 class="h5-bold text-gray-900">Cleaner Search page</h4>
       <div class="pr-4 mt-2">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           The previous version didn't follow Apple's guidelines very closely,
           and I had to figure out a better way to handle keywords and search
           results from multiple sources. I opted for table views to do this —
           it's a solution that's native to iOS, and is capable of presenting
           large amounts of list-style information.
         </p>
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           The new "Selected keywords" section's height would be fixed, making it
           so that the user can add only 3 or 4 keywords — this is something I
           haven't specified in earlier versions. Since keywords would have an
@@ -218,10 +221,10 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left pl-8">
+    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8">
       <h4 class="h5-bold text-gray-900">New tab bar</h4>
       <div class="pr-4 mt-2">
-        <p class="paragraph-regular">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           Swapped out the icon of the Browse screen from “building blocks” to an
           “open book”, indicating that it’s a more book-like function. Added
           labels to the icons of the tab bar.

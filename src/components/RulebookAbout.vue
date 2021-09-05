@@ -8,7 +8,9 @@
   <div class="study-grid h-auto mb-68 mt-12">
     <div
       class="
-        col-start-1 col-end-5
+        md:col-start-1 md:col-end-5
+        col-start-4 col-end-10
+        mb-7
         content-center
       "
     >
@@ -89,7 +91,7 @@
         </defs>
       </svg>
       <h3 class="h3-bold text-gray-900 mb-7">Background</h3>
-      <p class="paragraph-mobile desktop:paragraph-regular">
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
         D&D Rulebook started as a concept I did for Udacity's User Experience
         Nanodegree program, but it soon became a passion project of mine.
       </p>
@@ -97,7 +99,9 @@
 
     <div
       class="
-        col-start-5 col-end-9
+        md:col-start-5 md:col-end-9
+        col-start-4 col-end-10
+        mb-7
         content-center
       "
     >
@@ -127,7 +131,8 @@
 
     <div
       class="
-        col-start-9 col-end-13
+        md:col-start-9 md:col-end-13
+        col-start-4 col-end-10
         content-center
       "
     >
@@ -157,7 +162,7 @@
       </svg>
 
       <h3 class="h3-bold text-gray-900 mb-7">My Role</h3>
-      <p class="paragraph-mobile desktop:paragraph-regular">
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
         As the sole UX/UI designer on this project, I was involved in every
         phase of the process from research through ideation to prototyping and
         testing.
@@ -166,10 +171,10 @@
   </div>
 
   <div class="study-grid h-auto mb-12">
-    <div class="desktop:col-start-1 desktop:col-end-7 md:col-span-full text-left">
+    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">The Problem</h3>
       <div class="px-3 pl-8 pr-4">
-        <p class="desktop:paragraph-regular paragraph-mobile">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
           In recent years Dungeons & Dragons (D&D) became more popular than
           ever. During the COVID-19 pandemic, it became impossible for players
           of tabletop RPGs to meet in person — this made online gaming even more
