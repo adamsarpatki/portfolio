@@ -88,7 +88,7 @@
       </div>
     </div>
     <div class="desktop:col-start-7 desktop:col-end-13 col-span-full">
-      <img src="src/assets/complexity-value.jpg" alt="" />
+      <img src="src/assets/complexity-value@2x.png" alt="" />
     </div>
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">Early sketches</h4>
@@ -123,7 +123,7 @@
   <div class="grid grid-cols-12 gap-4 h-full mb-16">
     <div class="col-span-full">
       <img
-        src="src/assets/lo-fi-prototypes.png"
+        src="src\assets\low-fi-banner@2x.png"
         alt="An image of low-fidelity prototypes"
       />
     </div>

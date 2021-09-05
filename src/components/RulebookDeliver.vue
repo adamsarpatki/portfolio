@@ -40,7 +40,7 @@
     </div>
     <div class="desktop:col-start-7 desktop:col-end-13 col-span-full m-auto">
       <img
-        src="src/assets/accessibility.png"
+        src="src\assets\accessible-login@2x.png"
         alt="An image of how accessibility changed the design of the app"
       />
     </div>
@@ -49,7 +49,7 @@
   <div class="grid grid-cols-12 gap-4 h-full mb-16">
     <div class="col-span-full">
       <img
-        src="src/assets/hi-fi-accessibility.png"
+        src="src\assets\high-fi-banner@2x.png"
         alt="Screens of the app before and after accessibility"
       />
     </div>
@@ -236,7 +236,7 @@
   <div class="grid grid-cols-12 gap-4 h-full mb-16">
     <div class="col-span-full">
       <img
-        src="src/assets/final-app.png"
+        src="src\assets\final-app-banner@2x.png"
         alt="Screens of the finished application"
       />
     </div>
