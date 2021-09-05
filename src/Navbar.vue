@@ -70,19 +70,6 @@
       :class="isOpen ? 'block' : 'hidden'"
       class="text-left sm:text-center sm:flex sm:p-0 px-2 pt-2 pb-4"
     >
-        <router-link  class="
-            sm:text-base
-            desktop:text-xl
-            sm:w-20
-            sm:mx-2.5
-            block
-            px-2
-            py-1
-            text-gray-50
-            font-subheading
-            hover:text-yellow-400
-            " to="/about-me">About
-        </router-link>
         <router-link class="
             sm:text-base
             desktop:text-xl
@@ -98,6 +85,19 @@
             hover:text-yellow-400
             "
             to="/">Work
+        </router-link>
+        <router-link  class="
+            sm:text-base
+            desktop:text-xl
+            sm:w-20
+            sm:mx-2.5
+            block
+            px-2
+            py-1
+            text-gray-50
+            font-subheading
+            hover:text-yellow-400
+            " to="/about-me">About
         </router-link>
         <router-link class="
             sm:text-base

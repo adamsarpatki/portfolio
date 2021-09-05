@@ -48,10 +48,15 @@
 
   <div class="grid grid-cols-12 gap-4 h-full mb-16">
     <div class="col-span-full">
-      <img
-        src="src\assets\high-fi-banner@2x.png"
-        alt="Screens of the app before and after accessibility"
-      />
+      <picture>
+        <source media="(max-width: 375px" srcset="/src/assets/high-fi-banner-vertical@2x.jpg">
+        <source media="(min-width: 1440px" srcset="/src/assets/high-fi-banner@2x.png">
+        <!-- <source media="(max-width: 767px" srcset="/src/assets/rulebook-header-mobile.png"> -->
+        <source media="(max-width: 768px" srcset="/src/assets/high-fi-banner-vertical@2x.jpg">
+        <source media="(max-width: 376px" srcset="/src/assets/high-fi-banner-vertical@2x.jpg">
+        <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->
+        <img class="w-full" src="src\assets\high-fi-banner@2x.png" alt="Screens of the app before and after accessibility">
+      </picture>
     </div>
   </div>
   <div class="study-grid h-auto mb-16">
@@ -235,10 +240,15 @@
 
   <div class="grid grid-cols-12 gap-4 h-full mb-16">
     <div class="col-span-full">
-      <img
-        src="src\assets\final-app-banner@2x.png"
-        alt="Screens of the finished application"
-      />
+     <picture>
+        <source media="(max-width: 375px" srcset="/src/assets/final-app-banner-vertical@2x.jpg">
+        <source media="(min-width: 1440px" srcset="/src/assets/final-app-banner@2x.png">
+        <!-- <source media="(max-width: 767px" srcset="/src/assets/rulebook-header-mobile.png"> -->
+        <source media="(max-width: 768px" srcset="/src/assets/final-app-banner-vertical@2x.jpg">
+        <source media="(max-width: 376px" srcset="/src/assets/final-app-banner-vertical@2x.jpg">
+        <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->
+        <img class="w-full" src="src\assets\final-app-banner@2x.png" alt="Screens of the finished application.">
+      </picture>
     </div>
   </div>
 </template>

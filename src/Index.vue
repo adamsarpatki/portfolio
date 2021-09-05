@@ -4,7 +4,7 @@
         <div class="desktop:px-72 md:px-68 sm:px-27">
           <h1 class="h1-bold text-blue-900 mb-11">Hi, I'm Ádám Sárpátki,</h1>
           <p class="subheading-regular text-gray-700 mb-14">an enthusiastic UX designer based in Budapest, Hungary, with a background in library and information science, customer service and translation.</p>
-          <button class="btn">Contact Me</button>
+          <router-link to="/contact"><button class="btn">Contact Me</button></router-link>
         </div>
   </div>
 

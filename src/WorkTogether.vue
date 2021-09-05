@@ -14,7 +14,7 @@
   >
   <div class="desktop:px-344.5 md:px-124 sm:px-82">
     <p class="h2-medium text-blue-900 mb-54 sm:mb-12">Let's work together!</p>
-    <button class="btn">Contact Me</button>
+    <router-link to="/contact"><button class="btn">Contact Me</button></router-link> 
   </div>
 </div>
 </template>
