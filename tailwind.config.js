@@ -101,6 +101,8 @@ module.exports = {
         '166': '10.375rem',
         '382': '23.875rem',
         '288': '18rem',
+        '266': '16.625rem',
+        '400': '25rem',
       },
 
       lineHeight: {
@@ -121,7 +123,10 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
+    extend: {
+
+      stroke: ['hover', 'focus'],
+    },
   },
   plugins: [
     require('@tailwindcss/aspect-ratio'),

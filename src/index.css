@@ -77,6 +77,34 @@
     .subheading-bold {
         @apply font-subheading text-xl font-bold
     }
+
+    .footer-regular {
+        @apply font-body text-xs
+    }
+
+    .footer-link {
+        @apply font-body text-xs text-gray-50 font-normal
+    }
+
+    .footer-link:active {
+        @apply text-yellow-400
+    }
+
+    .nav-link {
+        @apply font-subheading desktop:text-xl md:text-base font-normal text-gray-50
+    }
+    
+    .nav-link:active {
+        @apply text-yellow-400
+    }
+    
+    .btn {
+        @apply h-20 w-296 desktop:w-184 md:w-162 sm:w-296 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md
+    }
+    
+    .btn:hover {
+        @apply bg-blue-800 text-gray-50
+    }    
     
 }
 
@@ -96,21 +124,6 @@ a {
     @apply hover:text-yellow-400 text-blue-800
 }
 
-.nav-link {
-    @apply font-subheading desktop:text-xl md:text-base font-normal text-gray-50
-}
-
-.nav-link:active {
-    @apply text-yellow-400
-}
-
-.btn {
-    @apply h-20 w-296 desktop:w-184 md:w-162 sm:w-296 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md
-}
-
-.btn:hover {
-    @apply bg-blue-800 text-gray-50
-}
 
 .form-field {
     @apply paragraph-regular-small bg-gray-300 rounded-md mb-8 placeholder-gray-500 px-3
