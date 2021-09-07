@@ -2,7 +2,7 @@
  <div class="px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-col items-center mt-44">
         <div class="desktop:px-72 md:px-68 sm:px-27">
           <h1 class="h1-bold text-blue-900 mb-11">Let’s work together!</h1>
-          <p class="subheading-regular text-gray-700 mb-124">I'm currently looking for new and exciting job opportunities in the UX field, so feel free to contact me using the form below, or on <a href="https://www.linkedin.com/in/adamsarpatki/" target="_blank">LinkedIn</a>.</p>
+          <p class="subheading-regular text-gray-700 mb-124">I'm currently looking for new and exciting job opportunities in the UX field, so feel free to contact me using the form below, or on <b><a href="https://www.linkedin.com/in/adamsarpatki/" target="_blank">LinkedIn</a></b>.</p>
         </div>
   </div>
 <!-- Contact Form -->

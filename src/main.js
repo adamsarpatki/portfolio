@@ -8,6 +8,7 @@ import AboutMe from "./AboutMe.vue"
 import Contact from "./Contact.vue"
 import WorkTogether from "./WorkTogether.vue"
 import Rulebook from "./Rulebook.vue"
+import Privacy from "./Privacy.vue"
 
 
 const routes = [
@@ -16,6 +17,7 @@ const routes = [
     { path: '/contact', component: Contact },
     { path: '/worktogether', component: WorkTogether},
     { path: '/rulebook', component: Rulebook},
+    { path: '/privacy', component: Privacy},
   ]
 
 const router = createRouter({

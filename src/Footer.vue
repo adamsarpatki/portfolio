@@ -52,7 +52,7 @@
 
       <div>
         <p class="text-gray-50 footer-regular mb-2">Designed and developed by Ádám Sárpátki</p>
-        <router-link class="footer-link block mb-2" to="">Privacy Policy & Copyright Info</router-link>
+        <router-link class="footer-link block mb-2" to="/privacy">Privacy Policy & Copyright Info</router-link>
         <p class="text-gray-50 footer-regular mb-6">© 2021 Ádám Sárpátki</p>
       </div>
 

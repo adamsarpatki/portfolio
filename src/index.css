@@ -30,6 +30,10 @@
         @apply font-heading text-h2 font-bold
     }
     
+    .h3-medium {
+        @apply font-heading text-h3 font-medium leading-48
+    }
+
     .h3-bold {
         @apply font-heading text-h3 font-bold leading-48
     }
