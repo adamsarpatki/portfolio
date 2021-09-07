@@ -105,6 +105,10 @@ module.exports = {
         '400': '25rem',
       },
 
+      maxWidth: {
+        '1184': '74rem',
+      },
+
       lineHeight: {
         '48': '3rem',
        },

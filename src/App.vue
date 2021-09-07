@@ -1,8 +1,9 @@
 <template>
-  <Navbar/>  
+  <Navbar/>
 
+<div class="max-w-screen-desktop m-auto">
   <router-view></router-view>
-
+</div>
   
   <Footer />
 </template>
