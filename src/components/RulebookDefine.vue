@@ -12,9 +12,12 @@
           identifying problems and discoveries.
         </p>
         <p class="desktop:paragraph-regular paragraph-mobile">
+          <a href="https://miro.com/app/board/o9J_l7eYgew=/" class="font-bold uppercase" target="_blank">Click here to check out my Miro board.</a>
+        </p>
+        <p class="desktop:paragraph-regular paragraph-mobile">
           Based on this, I have asked myself the question:
         </p>
-        <div class="mt-3 px-12 py-4 bg-gray-50 text-center">
+        <div class="mt-3 md:px-12 py-4 bg-gray-50 text-center">
           <p class="subheading-bold">
             How might we provide information about game mechanics for the
             players of Dungeons and Dragons 5th edition, so they can find
@@ -26,7 +29,7 @@
     <div
       class="
         desktop:col-start-7 desktop:col-end-13 col-span-full 
-        desktop:mt-12
+        desktop:mt-16
         mt-3
         text-left
       "

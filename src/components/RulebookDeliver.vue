@@ -16,6 +16,9 @@
             component. I went the extra mile, and I’ve even designed error
             messages, even though I’ve yet to use them.
           </p>
+          <p class="desktop:paragraph-regular paragraph-mobile">
+            <a href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1" class="font-bold uppercase" target="_blank">Click here to check out the first version of my High-Fidelity Prototype.</a>
+          </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             During this process, I've started to familiarize myself with
             <b>Apple's Human Interface Guidelines</b> to make sure my designs
@@ -34,6 +37,9 @@
             have made changes to the color scheme, using WebAIM, to give more
             contrast to the pages, as well as making the font size larger,
             therefore making the text more legible.
+          </p>
+          <p class="desktop:paragraph-regular paragraph-mobile">
+            <a href="https://www.figma.com/file/kQmg70uB9PViL3PAubin8I/Accessibility-Progress-and-Iteration" class="font-bold uppercase" target="_blank">Click here to check out my FigJam board.</a>
           </p>
         </div>
       </div>
@@ -95,7 +101,8 @@
     <div
       class="
         desktop:col-start-8 desktop:col-end-13
-        col-start-3 col-end-11
+        sm:col-start-3 sm:col-end-11
+        col-start-1 col-end-13
         desktop:h-288
         py-4
         mt-10
@@ -146,6 +153,9 @@
           started working on this project, I've learned a lot about design, and
           I wanted my prototype to show this.
         </p>
+        <p class="desktop:paragraph-regular paragraph-mobile">
+            <a href="https://www.figma.com/file/XqD0EAVTg9PA58jHaM8ssQ/High-Fidelity-Prototype-Accessibility" class="font-bold uppercase" target="_blank">Click here to check out my current design.</a>
+          </p>
       </div>
     </div>
 

@@ -38,7 +38,24 @@
 </div>
 
 <div class="flex flex-row desktop:px-32 px-4 md:px-6 sm:px-4 mb-16 self-center text-left">
-  <div class="paragraph-regular m-auto desktop:px-80">
+  <div class="paragraph-regular m-auto">
+    <p class="">
+          Research: <a href="https://miro.com/app/board/o9J_l7eYgew=/" target="_blank">Miro board</a>
+    </p>
+    <p class="">
+            Prototypes:
+            <a href="https://www.figma.com/file/XgMwHN8PArib3q6jgdnAjR/Lo-fi-prototype?node-id=0%3A1" target="_blank">Low-fidelity prototype</a>,
+            <a href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1" target="_blank">High-Fidelity Prototype, first version</a>,
+            <a href="https://www.figma.com/file/XqD0EAVTg9PA58jHaM8ssQ/High-Fidelity-Prototype-Accessibility" target="_blank">Current design</a>
+    </p>
+    <p class="">
+            
+    </p>
+    <p class="">
+            Accessibility & usability testing: <a href="https://www.figma.com/file/kQmg70uB9PViL3PAubin8I/Accessibility-Progress-and-Iteration" target="_blank">FigJam board</a>
+    </p>
+
+
     <p>Sample text: <a href="https://dnd.wizards.com/articles/features/systems-reference-document-srd" target="_blank">System Reference Document</a></p>
     <p>Icons: <a href="https://www.figma.com/community/file/878585965681562011" target="_blank">Material Design Icons by smrkv</a>, <a href="https://developer.apple.com/sf-symbols/" target="_blank">SF Symbols 2</a></p>
     <p>iOS UI elements: <a href="https://www.figma.com/community/file/858143367356468985" target="_blank">(Variants) iOS & iPadOS 14 UI Kit for Figma by Joey Banks</a></p>
