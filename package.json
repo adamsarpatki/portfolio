@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.2.1",
+    "feather-icons": "^4.28.0",
     "vue": "^3.2.8",
     "vue-router": "^4.0.11"
   },

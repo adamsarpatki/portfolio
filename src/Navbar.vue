@@ -75,10 +75,8 @@
             desktop:text-xl
             sm:w-20
             sm:mx-2.5
-            mt-1
             px-2
             py-1
-            sm:mt-0
             block
             text-gray-50
             font-subheading
@@ -91,6 +89,8 @@
             desktop:text-xl
             sm:w-20
             sm:mx-2.5
+            mt-1
+            sm:mt-0
             block
             px-2
             py-1

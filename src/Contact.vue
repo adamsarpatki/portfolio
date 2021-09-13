@@ -7,23 +7,23 @@
   </div>
 <!-- Contact Form -->
   <div class="flex flex-row justify-center">
-  <form class="flex flex-col items-center text-left w-382">
+  <form class="flex flex-col items-center text-left md:w-382 sm:w-608 w-343 mb-40">
     <div class="flex flex-col w-full">
       <label for="fname" class="subheading-regular">Full Name <span class="text-yellow-600">*</span></label>
-      <input type="text" id="fname" name="fname" placeholder="Enter your first name and last name" class=" h-16 form-field">
+      <input type="text" id="fname" name="fname" placeholder="Enter your first name and last name" class=" h-16 form-field" required>
     </div>
     <div class="flex flex-col w-full">
     <label for="email" class="subheading-regular">Email <span class="text-yellow-600">*</span></label>
-    <input type="text" id="email" name="email" placeholder="Enter your email address" class=" h-16 form-field">
+    <input type="text" id="email" name="email" placeholder="Enter your email address" class=" h-16 form-field" required>
     </div>
     <div class="flex flex-col w-full">
     <label for="message" class="subheading-regular">Message <span class="text-yellow-600">*</span></label>
-    <textarea id="message" name="message" placeholder="Enter your message here..." class="form-field  h-60 pt-4"></textarea>
+    <textarea id="message" name="message" placeholder="Enter your message here..." class="form-field  h-60 pt-4" required></textarea>
     </div>
 
     <div class="flex flex-row w-full">
-    <input type="checkbox" id="privacy" name="privacy" value="Privacy" class="mr-2 mb-7 self-start">
-    <label for="privacy" class="paragraph-regular-small mb-7 self-start">Yes, I have read and agree to the Privacy Policy.</label>
+    <input type="checkbox" id="privacy" name="privacy" value="Privacy" class="mr-2 mb-7 self-start" required>
+    <label for="privacy" class="paragraph-regular-small mb-7 self-start">Yes, I have read and agree to the <router-link to="/privacy" class="font-medium" target="_blank">Privacy Policy</router-link>.</label>
     </div>
     <input type="submit" class="btn" value="Submit">
   </form>

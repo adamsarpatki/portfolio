@@ -10,7 +10,6 @@ import WorkTogether from "./WorkTogether.vue"
 import Rulebook from "./Rulebook.vue"
 import Privacy from "./Privacy.vue"
 
-
 const routes = [
     { path: '/', component: Index },
     { path: '/about-me', component: AboutMe },
@@ -24,6 +23,7 @@ const router = createRouter({
     history: createWebHashHistory(),
     routes
 })
+
 
 const app = createApp(App);
 app.use(router);
