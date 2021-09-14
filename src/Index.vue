@@ -16,8 +16,9 @@
     </div>
   </div> -->
 
-  <div class="relative filter drop-shadow-card flex flex-row items-end justify-center md:h-496 sm:h-470 px-4 desktop:px-32 md:px-6 sm:px-4 h-456">
+  <div class="relative flex flex-row items-end justify-center md:h-496 sm:h-470 px-4 desktop:px-32 md:px-6 sm:px-4 h-456">
       <!-- <div class="bg-gray-900 md:h-496 sm:h-470 h-456 w-343 absolute opacity-70"></div> -->
+      <router-link to="/rulebook"><div class="flex filter drop-shadow-card transition-shadow duration-500 ease-in-out hover:shadow-xl">
       <picture class="filter blur sm:filter-none">
         <source media="(max-width: 375px" srcset="/src/assets/study-card-small@2x.png">
         <source media="(min-width: 1440px" srcset="/src/assets/study-card-desktop@2x.png">
@@ -35,7 +36,9 @@
         A mobile-based solution for the players of Dungeons & Dragons.
       </p>
     </div>
+    </div></router-link>
   </div>
+  
 
 
   <WorkTogether/>

@@ -111,12 +111,10 @@
     }
     
     .btn {
-        @apply h-20 w-296 desktop:w-184 md:w-162 sm:w-296 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md
+        @apply h-20 w-296 desktop:w-184 md:w-162 sm:w-296 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md hover:bg-blue-800 hover:text-gray-50 transition duration-200 ease-in-out
     }
     
-    .btn:hover {
-        @apply bg-blue-800 text-gray-50
-    }    
+    
     
 }
 
