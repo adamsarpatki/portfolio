@@ -1,19 +1,8 @@
 <template>
     <!-- About Me -->
   <div class="px-4 desktop:pt-177 md:pt-166 desktop:px-32 md:px-6 sm:px-4 pt-82 grid grid-cols-12 gap-4">
-    <picture class="desktop:col-span-6 desktop:row-span-2 desktop:self-center desktop:mt-0 order-3 desktop:order-1 col-span-full mt-10">
-        <source media="(max-width: 375px" srcset="/src/assets/adam-sarpatki-image-mobile.png">
-        <source media="(min-width: 1440px" srcset="/src/assets/adam-sarpatki-image.png">
-        <!-- <source media="(max-width: 767px" srcset="/src/assets/rulebook-header-mobile.png"> -->
-        <source media="(max-width: 768px" srcset="/src/assets/adam-sarpatki-image-tablet.png">
-        <source media="(max-width: 376px" srcset="/src/assets/adam-sarpatki-image-tablet.png">
-        <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->
-        <img class="w-full" src="/src/assets/adam-sarpatki-image.png" alt="Adam Sarpatki sitting on a bench">
-      </picture>
+        <img class="desktop:col-span-6 desktop:row-span-2 desktop:self-center desktop:mt-0 order-3 desktop:order-1 col-span-full mt-1" src="/src/assets/adam-sarpatki-bench-web.jpg" alt="Adam Sarpatki sitting on a bench">
     
-    <!-- <img src="/src/assets/adam-sarpatki-image.png" alt="Adam Sarpatki sitting on a bench" class="desktop:col-span-6 desktop:row-span-2 desktop:self-center md:hidden sm:hidden">
-    <img src="/src/assets/adam-sarpatki-image-tablet.png" alt="Adam Sarpatki sitting on a bench" class="desktop:hidden sm:hidden order-3 col-span-full mt-10">
-    <img src="/src/assets/adam-sarpatki-image-mobile.png" alt="Adam Sarpatki sitting on a bench" class="desktop:hidden md:hidden order-3 col-span-full mt-10"> -->
     <h1 class="h1-bold text-blue-900 desktop:col-start-7 desktop:col-end-13 desktop:text-left text-center col-span-full leading-56 md:order-1 mb-5">Hi, I’m Ádám, a UX designer based in Budapest, Hungary.</h1>
     <div class="desktop:paragraph-regular paragraph-mobile desktop:col-start-7 desktop:col-end-13 col-span-full text-left order-2">
       <p class="mb-4">
