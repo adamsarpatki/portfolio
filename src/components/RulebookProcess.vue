@@ -8,7 +8,7 @@
   <div class="flex flex-row desktop:px-32 mt-14 mb-16 self-center">
     <p class="desktop:paragraph-regular paragraph-mobile px-8 desktop:px-80">
       For my design, I have followed the Double Diamond process. It provided the
-      most structure that I have felt I needed as a new designer.
+      most structure that I've felt I needed as a new designer.
     </p>
   </div>
   <div class="desktop:px-32 px-4 md:px-6 flex flex-col mb-12">

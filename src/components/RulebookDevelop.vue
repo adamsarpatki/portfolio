@@ -108,7 +108,7 @@
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           Needless to say, this changed tremendously over each iteration,
           especially since this was my first ever project, so I was learning a
-          lot about UX/UI design as I went.
+          lot as I went.
         </p>
         <p class="desktop:paragraph-regular paragraph-mobile">
             <a href="https://www.figma.com/file/XgMwHN8PArib3q6jgdnAjR/Lo-fi-prototype?node-id=0%3A1" class="font-bold uppercase" target="_blank">Click here to check out my low-fidelity prototype.</a>

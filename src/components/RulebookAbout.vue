@@ -184,11 +184,11 @@
         <p class="desktop:paragraph-regular paragraph-mobile">
           So that got me thinking. Since most everyone in the hobby — including
           my own gaming group — used online, or at least digital tools to play
-          at the time, that had to come with its own set of problems. I knew I
-          have had those, so why wouldn't others have them, too?
+          at the time, that had to come with its own set of problems. I knew I've
+          had those, so why wouldn't others have them, too?
         </p>
         <p class="desktop:paragraph-regular paragraph-mobile">
-          I have decided to focus on an area that I've always found problematic.
+          I've decided to focus on an area that I've always found problematic.
           <b
             >Dungeons & Dragons has such extensive rules, that I think it's
             often quite hard to find what one's looking for, especially during

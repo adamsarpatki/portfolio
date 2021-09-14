@@ -45,7 +45,15 @@
     .h4-medium {
         @apply font-heading text-h4 font-medium leading-8
     }
+
+    .h4-bold {
+        @apply font-heading text-h4 font-bold leading-8
+    }
     
+    .h5-medium {
+        @apply font-heading text-xl font-medium leading-6
+    }
+
     .h5-bold {
         @apply font-heading text-xl font-bold leading-6
     }

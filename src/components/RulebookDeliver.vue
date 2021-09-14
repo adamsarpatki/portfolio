@@ -1,5 +1,5 @@
 <template>
-    <div class="study-grid h-auto mb-16">
+  <div class="study-grid h-auto mb-16">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Deliver</h3>
       <div class="">
@@ -17,7 +17,13 @@
             messages, even though I’ve yet to use them.
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile">
-            <a href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1" class="font-bold uppercase" target="_blank">Click here to check out the first version of my High-Fidelity Prototype.</a>
+            <a
+              href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1"
+              class="font-bold uppercase"
+              target="_blank"
+              >Click here to check out the first version of my High-Fidelity
+              Prototype.</a
+            >
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             During this process, I've started to familiarize myself with
@@ -39,7 +45,12 @@
             therefore making the text more legible.
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile">
-            <a href="https://www.figma.com/file/kQmg70uB9PViL3PAubin8I/Accessibility-Progress-and-Iteration" class="font-bold uppercase" target="_blank">Click here to check out my FigJam board.</a>
+            <a
+              href="https://www.figma.com/file/kQmg70uB9PViL3PAubin8I/Accessibility-Progress-and-Iteration"
+              class="font-bold uppercase"
+              target="_blank"
+              >Click here to check out my FigJam board.</a
+            >
           </p>
         </div>
       </div>
@@ -55,13 +66,29 @@
   <div class="grid grid-cols-12 gap-4 h-full mb-16">
     <div class="col-span-full">
       <picture>
-        <source media="(max-width: 375px" srcset="/src/assets/high-fi-banner-vertical@2x.jpg">
-        <source media="(min-width: 1440px" srcset="/src/assets/high-fi-banner@2x.png">
+        <source
+          media="(max-width: 375px"
+          srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
+        />
+        <source
+          media="(min-width: 1440px"
+          srcset="/src/assets/high-fi-banner@2x.png"
+        />
         <!-- <source media="(max-width: 767px" srcset="/src/assets/rulebook-header-mobile.png"> -->
-        <source media="(max-width: 768px" srcset="/src/assets/high-fi-banner-vertical@2x.jpg">
-        <source media="(max-width: 376px" srcset="/src/assets/high-fi-banner-vertical@2x.jpg">
+        <source
+          media="(max-width: 768px"
+          srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
+        />
+        <source
+          media="(max-width: 376px"
+          srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
+        />
         <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->
-        <img class="w-full" src="src\assets\high-fi-banner@2x.png" alt="Screens of the app before and after accessibility">
+        <img
+          class="w-full"
+          src="src\assets\high-fi-banner@2x.png"
+          alt="Screens of the app before and after accessibility"
+        />
       </picture>
     </div>
   </div>
@@ -109,7 +136,7 @@
         mb-10
         desktop:mb-0
         desktop:mr-100
-        text-left
+        text-left rounded-md
         bg-gray-200
       "
     >
@@ -125,7 +152,9 @@
       >
         Overview
       </h4>
-      <div class="pr-3 pl-5 mt-2 desktop:paragraph-regular paragraph-mobile-small">
+      <div
+        class="pr-3 pl-5 mt-2 desktop:paragraph-regular paragraph-mobile-small"
+      >
         <ul class="list-disc list-inside">
           <li>7 <b>unmoderated interviews</b></li>
           <li>
@@ -154,12 +183,19 @@
           I wanted my prototype to show this.
         </p>
         <p class="desktop:paragraph-regular paragraph-mobile">
-            <a href="https://www.figma.com/file/XqD0EAVTg9PA58jHaM8ssQ/High-Fidelity-Prototype-Accessibility" class="font-bold uppercase" target="_blank">Click here to check out my current design.</a>
-          </p>
+          <a
+            href="https://www.figma.com/file/XqD0EAVTg9PA58jHaM8ssQ/High-Fidelity-Prototype-Accessibility"
+            class="font-bold uppercase"
+            target="_blank"
+            >Click here to check out my current design.</a
+          >
+        </p>
       </div>
     </div>
 
-    <div class="desktop:col-start-1 desktop:col-end-7 text-left col-span-full pl-8">
+    <div
+      class="desktop:col-start-1 desktop:col-end-7 text-left col-span-full pl-8"
+    >
       <h4 class="h5-bold text-gray-900">Better Design System</h4>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
@@ -172,7 +208,14 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-7 desktop:col-end-13 col-span-full text-left pl-8">
+    <div
+      class="
+        desktop:col-start-7 desktop:col-end-13
+        col-span-full
+        text-left
+        pl-8
+      "
+    >
       <h4 class="h5-bold text-gray-900">New browsing</h4>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
@@ -184,7 +227,9 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8">
+    <div
+      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8"
+    >
       <h4 class="h5-bold text-gray-900">Onboarding</h4>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
@@ -195,7 +240,14 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-7 desktop:col-end-13 col-span-full text-left pl-8">
+    <div
+      class="
+        desktop:col-start-7 desktop:col-end-13
+        col-span-full
+        text-left
+        pl-8
+      "
+    >
       <h4 class="h5-bold text-gray-900">New name</h4>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
@@ -204,7 +256,9 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8">
+    <div
+      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8"
+    >
       <h4 class="h5-bold text-gray-900">Better Animation</h4>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
@@ -215,7 +269,13 @@
     </div>
 
     <div
-      class="desktop:col-start-7 desktop:col-end-13 row-span-2 col-span-full text-left pl-8"
+      class="
+        desktop:col-start-7 desktop:col-end-13
+        row-span-2
+        col-span-full
+        text-left
+        pl-8
+      "
     >
       <h4 class="h5-bold text-gray-900">Cleaner Search page</h4>
       <div class="pr-4 mt-2">
@@ -236,12 +296,14 @@
       </div>
     </div>
 
-    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8">
+    <div
+      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8"
+    >
       <h4 class="h5-bold text-gray-900">New tab bar</h4>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
-          Swapped out the icon of the Browse screen from “building blocks” to an
-          “open book”, indicating that it’s a more book-like function. Added
+          Swapped out the icon of the Browse screen to indicate a more book-like
+          function and make it easier for users to recognize. I've also added
           labels to the icons of the tab bar.
         </p>
       </div>
@@ -250,14 +312,30 @@
 
   <div class="grid grid-cols-12 gap-4 h-full mb-16">
     <div class="col-span-full">
-     <picture>
-        <source media="(max-width: 375px" srcset="/src/assets/final-app-banner-vertical@2x.jpg">
-        <source media="(min-width: 1440px" srcset="/src/assets/final-app-banner@2x.png">
+      <picture>
+        <source
+          media="(max-width: 375px"
+          srcset="/src/assets/final-app-banner-vertical@2x.jpg"
+        />
+        <source
+          media="(min-width: 1440px"
+          srcset="/src/assets/final-app-banner@2x.png"
+        />
         <!-- <source media="(max-width: 767px" srcset="/src/assets/rulebook-header-mobile.png"> -->
-        <source media="(max-width: 768px" srcset="/src/assets/final-app-banner-vertical@2x.jpg">
-        <source media="(max-width: 376px" srcset="/src/assets/final-app-banner-vertical@2x.jpg">
+        <source
+          media="(max-width: 768px"
+          srcset="/src/assets/final-app-banner-vertical@2x.jpg"
+        />
+        <source
+          media="(max-width: 376px"
+          srcset="/src/assets/final-app-banner-vertical@2x.jpg"
+        />
         <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->
-        <img class="w-full" src="src\assets\final-app-banner@2x.png" alt="Screens of the finished application.">
+        <img
+          class="w-full"
+          src="src\assets\final-app-banner@2x.png"
+          alt="Screens of the finished application."
+        />
       </picture>
     </div>
   </div>
@@ -265,6 +343,6 @@
 
 <script>
 export default {
-    name: "RulebookDeliver"
-}
+  name: "RulebookDeliver",
+};
 </script>

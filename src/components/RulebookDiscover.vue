@@ -1,5 +1,5 @@
 <template>
-    <div class="study-grid h-auto mb-12">
+  <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Discover</h3>
       <div class="px-3 pl-8 pr-4">
@@ -19,10 +19,10 @@
           wanted to learn about their current behaviors, pain points, and needs.
         </p>
         <p class="desktop:paragraph-regular paragraph-mobile">
-          (As a side note, I've prepared a quantitative survey as well, but due
-          to the tight deadlines of Udacity's course, I did not have the chance
-          to conduct a study before moving on to ideation and the second part of
-          the diamond. This is something that I will remedy in the future.)
+          I've prepared a quantitative survey as well, but due to the tight
+          deadlines of Udacity's course, I didn't have the chance to conduct a
+          study before moving on to ideation and the second part of the diamond.
+          This is something that I will have to go back to and finish.
         </p>
       </div>
     </div>
@@ -43,7 +43,9 @@
             my user interviews. These were:
           </p>
           <div class="pl-6">
-            <ul class="desktop:paragraph-regular paragraph-mobile-small list-disc">
+            <ul
+              class="desktop:paragraph-regular paragraph-mobile-small list-disc"
+            >
               <li>
                 What is essential for playing D&D?
                 <ul class="list-disc list-inside">
@@ -86,7 +88,9 @@
             who are...
           </p>
           <div class="pl-6">
-            <ul class="desktop:paragraph-regular paragraph-mobile-small list-disc">
+            <ul
+              class="desktop:paragraph-regular paragraph-mobile-small list-disc"
+            >
               <li>Between the ages 26 and 35</li>
               <li>Play D&D at least once a month</li>
               <li>Use digital tools during game sessions</li>
@@ -151,6 +155,6 @@
 
 <script>
 export default {
-    name: "RulebookDiscover"
-}
+  name: "RulebookDiscover",
+};
 </script>
