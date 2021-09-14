@@ -27,7 +27,7 @@
         <source media="(max-width: 641px" srcset="/src/assets/study-card-small@2x.png">
         <source media="(max-width: 376px" srcset="/src/assets/study-card-mobile@2x.png">
         <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-card-tablet.png"> -->
-        <img class="h-456" src="/src/assets/study-card-desktop@2x.png" alt="The header image of the D&D Rulebook project">
+        <img class="h-456 rounded-md" src="/src/assets/study-card-desktop@2x.png" alt="The header image of the D&D Rulebook project">
       </picture>
 
     <div class="absolute desktop:pl-8 md:pl-4 sm:pl-4 desktop:pt-245 md:pt-124 md:pr-80 sm:pt-162 sm:pr-276 h-456 desktop:w-984 md:w-720 sm:w-608 w-343 sm:text-left flex flex-col justify-center">
