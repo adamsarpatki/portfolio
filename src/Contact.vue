@@ -21,9 +21,9 @@
     <textarea id="message" name="message" placeholder="Enter your message here..." class="form-field  h-60 pt-4" required></textarea>
     </div>
 
-    <div class="flex flex-row w-full">
-    <input type="checkbox" id="privacy" name="privacy" value="Privacy" class="mr-2 mb-7 self-start" required>
-    <label for="privacy" class="paragraph-regular-small mb-7 self-start">Yes, I have read and agree to the <router-link to="/privacy" class="font-medium" target="_blank">Privacy Policy</router-link>.</label>
+    <div class="flex flex-row w-full mb-7 text-left">
+    <input type="checkbox" id="privacy" name="privacy" value="Privacy" class="w-5 h-5 mr-2 m-0 self-center" required>
+    <label for="privacy" class="paragraph-regular m-0 self-center">Yes, I have read and agree to the <router-link to="/privacy" class="font-medium" target="_blank">Privacy Policy</router-link>.</label>
     </div>
     <input type="submit" class="btn" value="Submit">
   </form>
