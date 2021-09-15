@@ -18,7 +18,7 @@
     "
   >
     <div class="flex items-center justify-between px-4 py-3 sm:py-0 h-24">
-    <router-link class="nav-link" to="/">Ádám Sárpátki</router-link>
+      <router-link class="nav-link" to="/">Ádám Sárpátki</router-link>
       <div class="sm:hidden">
         <button
           @click="isOpen = !isOpen"
@@ -127,5 +127,10 @@ export default {
       isOpen: false,
     };
   },
+  watch:{
+    $route () {
+      this.isOpen = false;
+    }
+  } 
 };
 </script>
