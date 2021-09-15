@@ -10,22 +10,22 @@
   <form class="flex flex-col items-center text-left md:w-382 sm:w-608 w-343 mb-40">
     <div class="flex flex-col w-full">
       <label for="fname" class="subheading-regular">Full Name <span class="text-yellow-600">*</span></label>
-      <input type="text" id="fname" name="fname" placeholder="Enter your first name and last name" class=" h-16 form-field" required>
+      <input type="text" id="fname" name="fname" placeholder="Enter your first name and last name" v-model="name" class=" h-16 form-field" required>
     </div>
     <div class="flex flex-col w-full">
-    <label for="email" class="subheading-regular">Email <span class="text-yellow-600">*</span></label>
-    <input type="text" id="email" name="email" placeholder="Enter your email address" class=" h-16 form-field" required>
+      <label for="email" class="subheading-regular">Email <span class="text-yellow-600">*</span></label>
+      <input type="text" id="email" name="email" placeholder="Enter your email address" v-model="email" class=" h-16 form-field" required>
     </div>
     <div class="flex flex-col w-full">
-    <label for="message" class="subheading-regular">Message <span class="text-yellow-600">*</span></label>
-    <textarea id="message" name="message" placeholder="Enter your message here..." class="form-field  h-60 pt-4" required></textarea>
+      <label for="message" class="subheading-regular">Message <span class="text-yellow-600">*</span></label>
+      <textarea id="message" name="message" placeholder="Enter your message here..." v-model="message" class="form-field  h-60 pt-4" required></textarea>
     </div>
 
     <div class="flex flex-row w-full mb-7 text-left">
-    <input type="checkbox" id="privacy" name="privacy" value="Privacy" class="w-5 h-5 mr-2 m-0 self-center" required>
-    <label for="privacy" class="paragraph-regular m-0 self-center">Yes, I have read and agree to the <router-link to="/privacy" class="font-medium" target="_blank">Privacy Policy</router-link>.</label>
+      <input type="checkbox" id="privacy" name="privacy" value="Privacy" class="w-5 h-5 mr-2 m-0 self-center" required>
+      <label for="privacy" class="paragraph-regular m-0 self-center">Yes, I have read and agree to the <router-link to="/privacy" class="font-medium" target="_blank">Privacy Policy</router-link>.</label>
     </div>
-    <input type="submit" class="btn" value="Submit">
+    <input type="submit" class="btn" value="Submit" @click="cica">
   </form>
   </div>
 
@@ -33,6 +33,18 @@
 
 <script>
 export default {
-    name: "Contact"
+    name: "Contact",
+    data: () => {
+      return {
+        name: "",
+        email: "",
+        message: ""
+      }
+    },
+    methods: {
+      cica() {
+        alert(this.message)
+      }
+    }
 }
 </script>
