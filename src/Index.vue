@@ -17,16 +17,12 @@
   </div> -->
 
   <div class="relative flex flex-row items-end justify-center md:h-496 sm:h-470 px-4 desktop:px-32 md:px-6 sm:px-4 h-456">
-      <!-- <div class="bg-gray-900 md:h-496 sm:h-470 h-456 w-343 absolute opacity-70"></div> -->
       <router-link to="/rulebook"><div class="flex filter drop-shadow-card transition-shadow duration-500 ease-in-out hover:shadow-xl">
       <picture class="filter blur sm:filter-none opacity-75 sm:opacity-100 ">
-        <source media="(max-width: 375px" srcset="/src/assets/study-card-small@2x.png">
+        <source media="(max-width: 639px" srcset="/src/assets/study-card-small@2x.png">
+        <source media="(max-width: 767px" srcset="/src/assets/study-card-mobile@2x.png">
+        <source media="(max-width: 1439px" srcset="/src/assets/study-card-tablet@2x.png">
         <source media="(min-width: 1440px" srcset="/src/assets/study-card-desktop@2x.png">
-        <!-- <source media="(max-width: 767px" srcset="/src/assets/rulebook-card-mobile.png"> -->
-        <source media="(max-width: 768px" srcset="/src/assets/study-card-tablet@2x.png">
-        <source media="(max-width: 641px" srcset="/src/assets/study-card-small@2x.png">
-        <source media="(max-width: 376px" srcset="/src/assets/study-card-mobile@2x.png">
-        <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-card-tablet.png"> -->
         <img class="h-456 rounded-md" src="/src/assets/study-card-desktop@2x.png" alt="The header image of the D&D Rulebook project">
       </picture>
 
