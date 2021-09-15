@@ -1,5 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import VueFeather from 'vue-feather';
 
 import { createRouter, createWebHashHistory } from 'vue-router'
 import "./index.css"
@@ -24,7 +25,12 @@ const router = createRouter({
     routes
 })
 
+router.beforeEach(() => {
+  window.scrollTo(0, 0)
+})
+
 
 const app = createApp(App);
 app.use(router);
+app.component(VueFeather.name, VueFeather);
 app.mount('#app');
