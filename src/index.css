@@ -91,11 +91,11 @@
     }
 
     .footer-regular {
-        @apply font-body text-xs
+        @apply font-body text-tiny
     }
 
     .footer-link {
-        @apply font-body text-xs text-gray-50 font-normal
+        @apply font-body text-tiny text-gray-50 font-normal
     }
 
     .footer-link:active {
