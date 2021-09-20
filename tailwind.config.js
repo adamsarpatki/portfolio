@@ -75,6 +75,8 @@ module.exports = {
         '296': '18.5rem',
         '10%': '10%',
         '696': '43.5rem',
+        '496': '31rem',
+        '336': '21rem',
         '536': '33.5rem',
         '100': '6.25rem',
         '456': '28.5rem',
@@ -119,12 +121,6 @@ module.exports = {
         'card': '4px 4px 24px rgba(0, 0, 0, 0.22)',
       },
 
-      backgroundImage: theme => ({
-        'rulebook-card-desktop': "url('/src/assets/study-card-desktop@2x.png')",
-        'rulebook-card-tablet': "url('/src/assets/study-card-tablet@2x.png')",
-        'rulebook-card-mobile': "url('/src/assets/study-card-mobile@2x.png')",
-        'rulebook-card-small': "url('/src/assets/study-card-small@2x.png')",
-       })
     },
   },
   variants: {
