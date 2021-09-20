@@ -7,7 +7,7 @@
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">What I’ve Learned</h3>
       <div class="px-3 pl-8 pr-4">
-        <p class="desktop:paragraph-regular paragraph-mobile">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           Designing D&D Rulebook from start to finish was a thoroughly
           enjoyable, but not always an easy process. It taught me a lot about the
           process of user-centered design, about the value of proper research
@@ -20,7 +20,7 @@
     <div class="desktop:col-start-7 desktop:col-end-13 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Next Steps</h3>
       <div class="px-3 pl-8 pr-4">
-        <p class="desktop:paragraph-regular paragraph-mobile">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           I’m not done with this project yet. It still needs a lot of work and a
           lot of testing until I am willing to say it’s finished (as much as a
           project like this can ever be finished). However, I am confident that
@@ -38,7 +38,7 @@
 </div>
 
 <div class="flex flex-row desktop:px-32 px-4 md:px-6 sm:px-4 mb-16 self-center text-left">
-  <div class="paragraph-regular m-auto">
+  <div class="paragraph-mobile-small desktop:paragraph-regular m-auto">
     <p class="">
           Research: <a href="https://miro.com/app/board/o9J_l7eYgew=/" target="_blank">Miro board</a>
     </p>

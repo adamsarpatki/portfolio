@@ -16,13 +16,12 @@
             component. I went the extra mile, and I’ve even designed error
             messages, even though I’ve yet to use them.
           </p>
-          <p class="desktop:paragraph-regular paragraph-mobile">
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
             <a
               href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1"
               class="font-bold uppercase"
               target="_blank"
-              >Click here to check out the first version of my High-Fidelity
-              Prototype.</a
+              >Check out the my High-Fidelity Prototype (version 1).</a
             >
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
@@ -44,12 +43,12 @@
             contrast to the pages, as well as making the font size larger,
             therefore making the text more legible.
           </p>
-          <p class="desktop:paragraph-regular paragraph-mobile">
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
             <a
               href="https://www.figma.com/file/kQmg70uB9PViL3PAubin8I/Accessibility-Progress-and-Iteration"
               class="font-bold uppercase"
               target="_blank"
-              >Click here to check out my FigJam board.</a
+              >Check out my FigJam board.</a
             >
           </p>
         </div>
@@ -127,20 +126,17 @@
     </div>
     <div
       class="
-        desktop:col-start-8 desktop:col-end-13
+        desktop:col-start-8 desktop:col-end-12
         sm:col-start-3 sm:col-end-11
         col-start-1 col-end-13
+        self-center
         desktop:h-288
         py-4
-        mt-10
-        mb-10
-        desktop:mb-0
-        desktop:mr-100
         text-left rounded-md
         bg-gray-200
       "
     >
-      <h4
+      <h5
         class="
           font-heading
           text-xl
@@ -151,9 +147,9 @@
         "
       >
         Overview
-      </h4>
+      </h5>
       <div
-        class="pr-3 pl-5 mt-2 desktop:paragraph-regular paragraph-mobile-small"
+        class="pr-3 pl-5 desktop:paragraph-regular paragraph-mobile-small m-0"
       >
         <ul class="list-disc list-inside">
           <li>7 <b>unmoderated interviews</b></li>
@@ -182,12 +178,12 @@
           started working on this project, I've learned a lot about design, and
           I wanted my prototype to show this.
         </p>
-        <p class="desktop:paragraph-regular paragraph-mobile">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           <a
             href="https://www.figma.com/file/XqD0EAVTg9PA58jHaM8ssQ/High-Fidelity-Prototype-Accessibility"
             class="font-bold uppercase"
             target="_blank"
-            >Click here to check out my current design.</a
+            >Check out my current design.</a
           >
         </p>
       </div>
@@ -196,7 +192,7 @@
     <div
       class="desktop:col-start-1 desktop:col-end-7 text-left col-span-full pl-8"
     >
-      <h4 class="h5-bold text-gray-900">Better Design System</h4>
+      <h5 class="h5-bold text-gray-900">Better Design System</h5>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           I have started to rework my design system. Some of my adjustments only
@@ -216,7 +212,7 @@
         pl-8
       "
     >
-      <h4 class="h5-bold text-gray-900">New browsing</h4>
+      <h5 class="h5-bold text-gray-900">New browsing</h5>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           Redesigned the Browse screen experience to be more like a table of
@@ -230,7 +226,7 @@
     <div
       class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8"
     >
-      <h4 class="h5-bold text-gray-900">Onboarding</h4>
+      <h5 class="h5-bold text-gray-900">Onboarding</h5>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           I wanted to make the process of signing up or signing in as easy as
@@ -248,7 +244,7 @@
         pl-8
       "
     >
-      <h4 class="h5-bold text-gray-900">New name</h4>
+      <h5 class="h5-bold text-gray-900">New name</h5>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           I have renamed the app, because "Lorebook" was misleading.
@@ -259,7 +255,7 @@
     <div
       class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8"
     >
-      <h4 class="h5-bold text-gray-900">Better Animation</h4>
+      <h5 class="h5-bold text-gray-900">Better Animation</h5>
       <div class="pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           Altered the animation of the Search Result Modal to indicate more

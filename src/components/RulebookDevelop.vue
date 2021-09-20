@@ -5,7 +5,7 @@
       <div class="">
         <h4 class="h4-medium text-gray-900">Ideation</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="desktop:paragraph-regular paragraph-mobile-small">
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
             Based on this HMW question I've started to ideate on some possible
             features. All in all, I've gathered 11 possibilities, some more
             difficult than others, then arranged them on a Complexity-Value
@@ -19,7 +19,7 @@
       <div class="">
         <h4 class="h4-medium text-gray-900">Priorization</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="desktop:paragraph-regular paragraph-mobile-small">
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
             I've then prioritized these features in a way that would make sense
             from a developing standpoint. For this whole process, I've asked the
             help of a developer to make sure my plans were realistic and
@@ -34,17 +34,17 @@
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">MVP</h4>
       <div class="px-3 pl-8 pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           Next, I've determined what the Minimum Viable Product would be — what
           features the most basic version of the app should have. These features
           lay the groundwork for future updates while ensuring that D&D Rulebook
           already has tremendous value over its competitors.
         </p>
-        <p class="desktop:paragraph-regular paragraph-mobile-small">The chosen features are:</p>
+        <p class="paragraph-mobile-small desktop:paragraph-regular">The chosen features are:</p>
         <ol type="1" class="list-decimal pl-6">
           <li class="desktop:paragraph-regular-bold paragraph-mobile-small font-bold">
             Browse official resources
-            <ul class="desktop:paragraph-regular paragraph-mobile-small">
+            <ul class="paragraph-mobile-small desktop:paragraph-regular">
               <li>
                 A more manual way to find answers, but a highly valuable and
                 less complex starting place to get resources into the app.
@@ -53,7 +53,7 @@
           </li>
           <li class="desktop:paragraph-regular-bold paragraph-mobile-small font-bold">
             Keyword search
-            <ul class="desktop:paragraph-regular paragraph-mobile-small">
+            <ul class="paragraph-mobile-small desktop:paragraph-regular">
               <li>
                 Players stated that they would like the option to search D&D
                 resources by keywords. Complex to implement, but will lay the
@@ -63,7 +63,7 @@
           </li>
           <li class="desktop:paragraph-regular-bold paragraph-mobile-small font-bold">
             Free-text search
-            <ul class="desktop:paragraph-regular paragraph-mobile-small">
+            <ul class="paragraph-mobile-small desktop:paragraph-regular">
               <li>
                 Players like using Google to find answers. Free-text search
                 shouldn't be too difficult to implement, and it's a logical next
@@ -73,7 +73,7 @@
           </li>
           <li class="desktop:paragraph-regular-bold paragraph-mobile-small font-bold">
             Customizable FAQ
-            <ul class="desktop:paragraph-regular paragraph-mobile-small">
+            <ul class="paragraph-mobile-small desktop:paragraph-regular">
               <li>
                 Players indicated they would be interested in an FAQ
                 functionality, but since every player has different problem
@@ -93,7 +93,7 @@
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">Early sketches</h4>
       <div class="px-3 pl-8 pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           With this in place, my next step was to sketch some ideas, first by
           using the <b>Crazy Eights</b> method, then by creating
           <b>a very low-fidelity prototype</b> in Figma. I’ve iterated on it a
@@ -101,17 +101,17 @@
           times, again, cleaning up some of the UI to better represent its
           intended functionality.
         </p>
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           I have started my prototype with the two main features of the app —
           browsing and searching —, trying to get a feel for the design.
         </p>
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           Needless to say, this changed tremendously over each iteration,
           especially since this was my first ever project, so I was learning a
           lot as I went.
         </p>
         <p class="desktop:paragraph-regular paragraph-mobile">
-            <a href="https://www.figma.com/file/XgMwHN8PArib3q6jgdnAjR/Lo-fi-prototype?node-id=0%3A1" class="font-bold uppercase" target="_blank">Click here to check out my low-fidelity prototype.</a>
+            <a href="https://www.figma.com/file/XgMwHN8PArib3q6jgdnAjR/Lo-fi-prototype?node-id=0%3A1" class="font-bold uppercase" target="_blank">Check out my low-fidelity prototype.</a>
           </p>
       </div>
     </div>

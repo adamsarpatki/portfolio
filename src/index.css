@@ -127,7 +127,7 @@ td {
 }
 
 th {
-    @apply font-heading text-lg font-medium
+    @apply font-heading sm:text-lg text-base font-medium
 }
 
 a {

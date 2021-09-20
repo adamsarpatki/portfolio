@@ -6,7 +6,7 @@
   </div>
 
   <div class="flex flex-row desktop:px-32 mt-14 mb-16 self-center">
-    <p class="desktop:paragraph-regular paragraph-mobile px-8 desktop:px-80">
+    <p class="paragraph-mobile-small desktop:paragraph-regular px-8 desktop:px-80">
       For my design, I have followed the Double Diamond process. It provided the
       most structure that I've felt I needed as a new designer.
     </p>
@@ -17,7 +17,7 @@
       alt="The Revamped Double Diamond Design Process Framework by Dan Nessler"
       class="w-full"
     />
-    <figcaption class="text-right paragraph-regular-small pl-44 desktop:p-0 mt-1">
+    <figcaption class="text-right paragraph-regular-small sm:pl-44 desktop:p-0 mt-1">
       Source:
       <a
         href="https://uxdesign.cc/how-to-solve-problems-applying-a-uxdesign-designthinking-hcd-or-any-design-process-from-scratch-v2-aa16e2dd550b"

@@ -3,7 +3,7 @@
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Discover</h3>
       <div class="px-3 pl-8 pr-4">
-        <p class="desktop:paragraph-regular paragraph-mobile">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           First, I did some <b>secondary research</b> online — since there
           aren't many academic publications about the effects of the pandemic on
           TTRPGs, this step mainly consisted of reading some informal articles.
@@ -11,14 +11,14 @@
           had some pretty solid ideas about the changes brought about by
           COVID-19.
         </p>
-        <p class="desktop:paragraph-regular paragraph-mobile">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           Second, I conducted <b>primary research</b> in the form of
           <b>user interviews</b>. My goal was to learn about how casual players
           (i.e. people who do not make their living by playing and streaming the
           game) used existing digital tools for D&D 5e during game sessions. I
           wanted to learn about their current behaviors, pain points, and needs.
         </p>
-        <p class="desktop:paragraph-regular paragraph-mobile">
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           I've prepared a quantitative survey as well, but due to the tight
           deadlines of Udacity's course, I didn't have the chance to conduct a
           study before moving on to ideation and the second part of the diamond.
@@ -38,13 +38,13 @@
       <div class="">
         <h4 class="h4-medium text-gray-900">Research questions</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="desktop:paragraph-regular paragraph-mobile-small">
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
             First, I decided on some overarching questions I wanted to answer by
             my user interviews. These were:
           </p>
           <div class="pl-6">
             <ul
-              class="desktop:paragraph-regular paragraph-mobile-small list-disc"
+              class="paragraph-mobile-small desktop:paragraph-regular list-disc"
             >
               <li>
                 What is essential for playing D&D?
@@ -73,7 +73,7 @@
       <div class="mt-4">
         <h4 class="h4-medium text-gray-900">Method</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="desktop:paragraph-regular paragraph-mobile-small">
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
             30-minute semi-structured interviews on Zoom to gather in-depth
             qualitative data.
           </p>
@@ -83,13 +83,13 @@
       <div class="">
         <h4 class="h4-medium text-gray-900">Recruiting</h4>
         <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="desktop:paragraph-regular paragraph-mobile-small">
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
             I have recruited 5 participants from my friends and acquaintances
             who are...
           </p>
           <div class="pl-6">
             <ul
-              class="desktop:paragraph-regular paragraph-mobile-small list-disc"
+              class="paragraph-mobile-small desktop:paragraph-regular list-disc"
             >
               <li>Between the ages 26 and 35</li>
               <li>Play D&D at least once a month</li>
