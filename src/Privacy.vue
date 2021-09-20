@@ -230,7 +230,7 @@
     </p>
 
     <h2 class="px-4 h2-medium py-6">Copyright Info</h2>
-    <p class="sm:pl-6 px-6 pb-12 desktop:paragraph-regular paragraph-mobile-small">Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a>, by <a href="https://www.flaticon.com/authors/xnimrodx" title="xnimrodx">xnimrodx</a> and by <a href="https://www.flaticon.com/authors/photo3idea-studio" title="photo3idea_studio">photo3idea_studio</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></p>
+    <p class="sm:pl-6 px-6 pb-12 desktop:paragraph-regular paragraph-mobile-small">Icons made by <a href="https://www.freepik.com" target="_blank" title="Freepik">Freepik</a>, by <a href="https://www.flaticon.com/authors/xnimrodx" target="_blank" title="xnimrodx">xnimrodx</a> and by <a href="https://www.flaticon.com/authors/photo3idea-studio" target="_blank" title="photo3idea_studio">photo3idea_studio</a> from <a href="https://www.flaticon.com/" target="_blank" title="Flaticon">www.flaticon.com</a></p>
     
   </div>
 </template>
