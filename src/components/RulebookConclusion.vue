@@ -6,7 +6,7 @@
   <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">What I’ve Learned</h3>
-      <div class="px-3 pl-8 pr-4">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           Designing D&D Rulebook from start to finish was a thoroughly
           enjoyable, but not always an easy process. It taught me a lot about the
@@ -19,7 +19,7 @@
 
     <div class="desktop:col-start-7 desktop:col-end-13 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Next Steps</h3>
-      <div class="px-3 pl-8 pr-4">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           I’m not done with this project yet. It still needs a lot of work and a
           lot of testing until I am willing to say it’s finished (as much as a

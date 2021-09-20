@@ -2,7 +2,7 @@
   <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Define</h3>
-      <div class="px-3 pl-8 pr-4">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           After the interviews, I took the insights gathered, and using
           <b>affinity mapping</b> I've arranged them by participants on a Miro
@@ -22,7 +22,7 @@
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           Based on this, I have asked myself the question:
         </p>
-        <div class="mt-3 md:px-12 py-4 bg-gray-300 rounded-md text-center">
+        <div class="mt-3 md:px-12 sm:px-8 md:mx-12 px-4 py-4 bg-gray-300 rounded-md text-center">
           <p class="subheading-bold">
             How might we provide information about game mechanics for the
             players of Dungeons and Dragons 5th edition, so they can find
@@ -43,8 +43,8 @@
       <div class="">
         <h4 class="h4-medium text-gray-900 mb-4">Key Findings</h4>
         <h5 class="h5-medium text-gray-900">Pain Points</h5>
-        <div class="px-3 pl-8 pr-4 mt-2">
-          <div class="pl-6">
+        <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4 mt-2">
+          <div class="">
             <ul
               class="paragraph-mobile-small desktop:paragraph-regular list-disc"
             >
@@ -56,8 +56,8 @@
         </div>
         <div class="">
           <h5 class="h5-medium text-gray-900">User Behavior</h5>
-          <div class="px-3 pl-8 pr-4 mt-2">
-            <div class="pl-6">
+          <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4 mt-2">
+            <div class="">
               <ul
                 class="
                   paragraph-mobile-small desktop:paragraph-regular
@@ -80,8 +80,8 @@
         </div>
         <div class="">
           <h5 class="h5-medium text-gray-900">User Needs</h5>
-          <div class="px-3 pl-8 pr-4 mt-2">
-            <div class="pl-6">
+          <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4 mt-2">
+            <div class="">
               <ul
                 class="
                   paragraph-mobile-small desktop:paragraph-regular

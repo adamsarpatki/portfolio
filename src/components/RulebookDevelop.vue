@@ -4,7 +4,7 @@
       <h3 class="h3-bold text-gray-900 mb-7">Develop</h3>
       <div class="">
         <h4 class="h4-medium text-gray-900">Ideation</h4>
-        <div class="px-3 pl-8 pr-4 mt-2">
+        <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             Based on this HMW question I've started to ideate on some possible
             features. All in all, I've gathered 11 possibilities, some more
@@ -18,7 +18,7 @@
       </div>
       <div class="">
         <h4 class="h4-medium text-gray-900">Priorization</h4>
-        <div class="px-3 pl-8 pr-4 mt-2">
+        <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             I've then prioritized these features in a way that would make sense
             from a developing standpoint. For this whole process, I've asked the
@@ -33,7 +33,7 @@
   <div class="study-grid h-auto mb-16">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">MVP</h4>
-      <div class="px-3 pl-8 pr-4 mt-2">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           Next, I've determined what the Minimum Viable Product would be — what
           features the most basic version of the app should have. These features
@@ -41,7 +41,7 @@
           already has tremendous value over its competitors.
         </p>
         <p class="paragraph-mobile-small desktop:paragraph-regular">The chosen features are:</p>
-        <ol type="1" class="list-decimal pl-6">
+        <ol type="1" class="list-decimal pl-8">
           <li class="desktop:paragraph-regular-bold paragraph-mobile-small font-bold">
             Browse official resources
             <ul class="paragraph-mobile-small desktop:paragraph-regular">
@@ -92,7 +92,7 @@
     </div>
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">Early sketches</h4>
-      <div class="px-3 pl-8 pr-4 mt-2">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           With this in place, my next step was to sketch some ideas, first by
           using the <b>Crazy Eights</b> method, then by creating

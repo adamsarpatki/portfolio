@@ -4,7 +4,7 @@
       <h3 class="h3-bold text-gray-900 mb-7">Deliver</h3>
       <div class="">
         <h4 class="h4-medium text-gray-900">Prototyping</h4>
-        <div class="px-3 pl-8 pr-4 mt-2">
+        <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             Once I thought I was happy with the low-fidelity wireframes, it was
             time to create a <b>high-fidelity prototype</b> and a
@@ -21,7 +21,7 @@
               href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1"
               class="font-bold uppercase"
               target="_blank"
-              >Check out the my High-Fidelity Prototype (version 1).</a
+              >Check out my High-Fidelity Prototype (version 1.).</a
             >
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
@@ -34,7 +34,7 @@
       </div>
       <div class="">
         <h4 class="h4-medium text-gray-900">Accessibility</h4>
-        <div class="px-3 pl-8 pr-4 mt-2">
+        <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             After finishing the first version of the high-fidelity prototype, I
             started looking at it critically with accessibility in mind. I
@@ -94,7 +94,7 @@
   <div class="study-grid h-auto mb-16">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">Testing</h4>
-      <div class="px-3 pl-8 pr-4 mt-2">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           The next step was to test the prototype on some users and get
           qualitative feedback on the app’s current usability. After testing,
@@ -106,7 +106,7 @@
           improvement.
         </p>
         <div class="desktop:paragraph-regular paragraph-mobile-small">
-          <ul class="list-disc pl-6">
+          <ul class="list-disc pl-8">
             <li>
               The animation of the Search Result Modal wasn’t clear enough,
               users got confused about why the tab bar disappeared.
@@ -166,7 +166,7 @@
     </div>
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">Iteration</h4>
-      <div class="px-3 pl-8 pr-4 mt-2">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           Based on the feedback from the usability testing, I decided I will
           implement some changes.
@@ -190,10 +190,10 @@
     </div>
 
     <div
-      class="desktop:col-start-1 desktop:col-end-7 text-left col-span-full pl-8"
+      class="desktop:col-start-1 desktop:col-end-7 text-left col-span-full sm:pl-8"
     >
       <h5 class="h5-bold text-gray-900">Better Design System</h5>
-      <div class="pr-4 mt-2">
+      <div class="md:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           I have started to rework my design system. Some of my adjustments only
           meant reorganizing things, e.g. labeling elements differently, while
@@ -209,11 +209,11 @@
         desktop:col-start-7 desktop:col-end-13
         col-span-full
         text-left
-        pl-8
+        sm:pl-8
       "
     >
       <h5 class="h5-bold text-gray-900">New browsing</h5>
-      <div class="pr-4 mt-2">
+      <div class="sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           Redesigned the Browse screen experience to be more like a table of
           contents, and be more compact and usable even with a large amount of
@@ -224,10 +224,10 @@
     </div>
 
     <div
-      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8"
+      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left sm:pl-8"
     >
       <h5 class="h5-bold text-gray-900">Onboarding</h5>
-      <div class="pr-4 mt-2">
+      <div class="sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           I wanted to make the process of signing up or signing in as easy as
           possible, and provide some useful tips for new users about how to use
@@ -241,11 +241,11 @@
         desktop:col-start-7 desktop:col-end-13
         col-span-full
         text-left
-        pl-8
+        sm:pl-8
       "
     >
       <h5 class="h5-bold text-gray-900">New name</h5>
-      <div class="pr-4 mt-2">
+      <div class="sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           I have renamed the app, because "Lorebook" was misleading.
         </p>
@@ -253,10 +253,10 @@
     </div>
 
     <div
-      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8"
+      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left sm:pl-8"
     >
       <h5 class="h5-bold text-gray-900">Better Animation</h5>
-      <div class="pr-4 mt-2">
+      <div class="sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           Altered the animation of the Search Result Modal to indicate more
           clearly that it’s a modal.
@@ -270,11 +270,11 @@
         row-span-2
         col-span-full
         text-left
-        pl-8
+        sm:pl-8
       "
     >
       <h4 class="h5-bold text-gray-900">Cleaner Search page</h4>
-      <div class="pr-4 mt-2">
+      <div class="sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           The previous version didn't follow Apple's guidelines very closely,
           and I had to figure out a better way to handle keywords and search
@@ -293,10 +293,10 @@
     </div>
 
     <div
-      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left pl-8"
+      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left sm:pl-8"
     >
       <h4 class="h5-bold text-gray-900">New tab bar</h4>
-      <div class="pr-4 mt-2">
+      <div class="sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           Swapped out the icon of the Browse screen to indicate a more book-like
           function and make it easier for users to recognize. I've also added

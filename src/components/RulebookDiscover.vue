@@ -2,7 +2,7 @@
   <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Discover</h3>
-      <div class="px-3 pl-8 pr-4">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           First, I did some <b>secondary research</b> online — since there
           aren't many academic publications about the effects of the pandemic on
@@ -37,12 +37,12 @@
     >
       <div class="">
         <h4 class="h4-medium text-gray-900">Research questions</h4>
-        <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <div class=" mt-2">
+          <p class="sm:px-3 sm:pl-8 sm:pr-4 paragraph-mobile-small desktop:paragraph-regular">
             First, I decided on some overarching questions I wanted to answer by
             my user interviews. These were:
           </p>
-          <div class="pl-6">
+          <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4">
             <ul
               class="paragraph-mobile-small desktop:paragraph-regular list-disc"
             >
@@ -72,7 +72,7 @@
 
       <div class="mt-4">
         <h4 class="h4-medium text-gray-900">Method</h4>
-        <div class="px-3 pl-8 pr-4 mt-2">
+        <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             30-minute semi-structured interviews on Zoom to gather in-depth
             qualitative data.
@@ -82,12 +82,12 @@
 
       <div class="">
         <h4 class="h4-medium text-gray-900">Recruiting</h4>
-        <div class="px-3 pl-8 pr-4 mt-2">
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <div class="mt-2">
+          <p class="sm:px-3 sm:pl-8 sm:pr-4 paragraph-mobile-small desktop:paragraph-regular">
             I have recruited 5 participants from my friends and acquaintances
             who are...
           </p>
-          <div class="pl-6">
+          <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4">
             <ul
               class="paragraph-mobile-small desktop:paragraph-regular list-disc"
             >

@@ -173,7 +173,7 @@
   <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">The Problem</h3>
-      <div class="px-3 pl-8 pr-4">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           In recent years Dungeons & Dragons (D&D) became more popular than
           ever. During the COVID-19 pandemic, it became impossible for players
@@ -204,7 +204,7 @@
 
     <div class="desktop:col-start-7 desktop:col-end-13 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">The Solution</h3>
-      <div class="px-3 pl-8 pr-4">
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           D&D Rulebook is a new mobile app for D&D players. In its most basic
           form, users can access the official rules of the game, both in a
