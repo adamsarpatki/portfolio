@@ -10,7 +10,7 @@
         <img class="w-full" src="/src/assets/study-header-desktop@2x.png" alt="The header image of the D&D Rulebook project">
       </picture>
 
-    <div class="absolute desktop:bottom-20 desktop:left-32 md:bottom-20 sm:bottom-6 sm:left-4 md:left-6 md:w-2/5 sm:w-3/6 md:pr-0 px-4 sm:text-left">
+    <div class="absolute desktop:bottom-20 desktop:left-32 md:bottom-20 sm:bottom-6 sm:left-4 md:left-6 desktop:w-full md:w-2/5 sm:w-3/6 md:pr-0 px-4 sm:text-left">
       <p class="display-medium-smaller md:display-medium text-gray-900">D&D Rulebook</p>
       <p class="subheading-italic text-gray-900">
         A mobile-based solution for the players of Dungeons & Dragons.
