@@ -9,16 +9,21 @@
           board, then started clustering them based on similarities. This was a
           time-consuming process — as it should be. By iterating, I've managed
           to narrow down the prevalent themes of my findings. I could then start
-          identifying problems and discoveries.
+          identifying problems and discoveries.</p>
+          
+          <p class="paragraph-mobile-small desktop:paragraph-regular">Check out my <a href="https://miro.com/app/board/o9J_l7eYgew=/" target="_blank">
+           <b>Miro board</b>
+        
+         </a>
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <!-- <p class="paragraph-mobile-small desktop:paragraph-regular">
           <a
             href="https://miro.com/app/board/o9J_l7eYgew=/"
             class="font-bold uppercase"
             target="_blank"
             >Check out my Miro board.</a
           >
-        </p>
+        </p> -->
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           Based on this, I have asked myself the question:
         </p>
