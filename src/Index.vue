@@ -44,6 +44,7 @@
       w-343
       sm:w-auto
       mx-4
+      sm:mx-0
       desktop:px-32
       md:px-6
       sm:px-4
@@ -86,7 +87,7 @@
           sm:text-left
           flex flex-col
           sm:justify-center
-          mt-2
+          mt-4
           h-full
           desktop:w-984
           md:w-3/5
