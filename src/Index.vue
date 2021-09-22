@@ -1,10 +1,11 @@
 <template>
     <!-- Hero -->
-    <div class="md:h-696 h-496 sm:h-496 px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-col items-center my-20 sm:my-0 sm:pt-20 sm:mb-20 md:my-0 md:pt-44">
+    <div class="md:h-496 h-496 sm:h-496 px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-col justify-center items-center 
+    mt-6 mb-14 sm:mt-20 sm:mb-20">
         <div class="desktop:px-72 sm:px-4 md:px-68">
           <h1 class="sm:h1-bold h2-bold text-blue-900 mb-11">Hi, I'm Ádám Sárpátki,</h1>
-          <p class="subheading-regular text-gray-700 mb-14">an enthusiastic UX designer based in Budapest, Hungary, with a background in library and information science, customer service and translation.</p>
-          <router-link to="/contact"><button class="btn">Contact Me</button></router-link>
+          <p class="subheading-regular text-gray-700 mb-14 desktop:px-64">an enthusiastic UX designer based in Budapest, Hungary, with a background in library and information science, customer service and translation.</p>
+          <router-link to="/about-me"><button class="btn">About Me</button></router-link>
         </div>
   </div>
 
