@@ -42,18 +42,20 @@
       md:h-496
       sm:h-470
       w-343
+      sm:w-auto
       mx-4
       desktop:px-32
       md:px-6
       sm:px-4
       min-h-720
       rounded-md
+      sm:rounded-none
       bg-gray-50
-      sm:bg-none
-      filter sm:filter-none drop-shadow-card
+      sm:bg-transparent
+      filter sm:filter-none drop-shadow-card sm:drop-shadow-none
     "
   >
-    <div class="flex flex-col filter drop-shadow-card order-first sm:order-none">
+    <div class="flex flex-col filter sm:drop-shadow-card order-first sm:order-none">
       <picture class="">
         <source
           media="(max-width: 639px"
@@ -72,7 +74,7 @@
           srcset="/src/assets/study-card-desktop@2x.png"
         />
         <img
-          class="h-456 sm:rounded-md sm:rounded-t-none rounded-t-md rounded-b-none"
+          class="h-456 sm:rounded-md rounded-t-md rounded-b-none"
           src="/src/assets/study-card-desktop@2x.png"
           alt="The header image of the D&D Rulebook project"
         />
@@ -100,8 +102,8 @@
           mb-10
         "
       >
-        <p class="uppercase paragraph-regular desktop:mb-28 md:mb-12 sm:mb-14 mb-0">Concept / UX / Mobile App</p>
-        <h2 class="display-medium-smaller text-gray-900">D&D Rulebook</h2>
+        <p class="uppercase paragraph-regular desktop:mb-28 md:mb-12 sm:mb-14 mb-4 text-gray-400 sm:text-current">Concept / UX / Mobile App</p>
+        <h2 class="sm:display-medium-smaller h1-medium text-gray-900">D&D Rulebook</h2>
         <p class="md:subheading-italic subheading-italic-small text-gray-900 desktop:mb-9 sm:mb-7 mb-5">
           A mobile-based solution for the players of Dungeons & Dragons.
         </p>
