@@ -1,46 +1,125 @@
 <template>
-    <!-- Hero -->
-    <div class="md:h-496 h-496 sm:h-496 px-4 desktop:px-32 md:px-6 sm:px-4 flex flex-col justify-center items-center 
-    mt-6 mb-14 sm:mt-20 sm:mb-20">
-        <div class="desktop:px-72 sm:px-4 md:px-68">
-          <h1 class="sm:h1-bold h2-bold text-blue-900 mb-11">Hi, I'm Ádám Sárpátki,</h1>
-          <p class="subheading-regular text-gray-700 mb-14 desktop:px-64">an enthusiastic UX designer based in Budapest, Hungary, with a background in library and information science, customer service and translation.</p>
-          <router-link to="/about-me"><button class="btn">About Me</button></router-link>
-        </div>
+  <!-- Hero -->
+  <div
+    class="
+      md:h-496
+      h-496
+      sm:h-496
+      px-4
+      desktop:px-32
+      md:px-6
+      sm:px-4
+      flex flex-col
+      justify-center
+      items-center
+      mt-6
+      mb-14
+      sm:mt-20
+      sm:mb-20
+    "
+  >
+    <div class="desktop:px-72 sm:px-4 md:px-68">
+      <h1 class="sm:h1-bold h2-bold text-blue-900 mb-11">
+        Hi, I'm Ádám Sárpátki,
+      </h1>
+      <p class="subheading-regular text-gray-700 mb-14 desktop:px-64">
+        an enthusiastic UX designer based in Budapest, Hungary, with a
+        background in library and information science, customer service and
+        translation.
+      </p>
+      <router-link to="/about-me"
+        ><button class="btn">About Me</button></router-link
+      >
+    </div>
   </div>
 
-
-  <div class="relative flex flex-row items-end justify-center md:h-496 sm:h-470 px-4 desktop:px-32 md:px-6 sm:px-4 h-456">
-      <router-link to="/rulebook"><div class="flex filter drop-shadow-card transition-shadow duration-500 ease-in-out hover:shadow-xl">
-      <picture class="filter blur sm:filter-none opacity-75 sm:opacity-100 ">
-        <source media="(max-width: 639px" srcset="/src/assets/study-card-small@2x.png">
-        <source media="(max-width: 767px" srcset="/src/assets/study-card-mobile@2x.png">
-        <source media="(max-width: 1439px" srcset="/src/assets/study-card-tablet@2x.png">
-        <source media="(min-width: 1440px" srcset="/src/assets/study-card-desktop@2x.png">
-        <img class="h-456 rounded-md" src="/src/assets/study-card-desktop@2x.png" alt="The header image of the D&D Rulebook project">
+  <div
+    class="
+      sm:relative
+      flex flex-row
+      items-end
+      justify-center
+      md:h-496
+      sm:h-470
+      w-343
+      mx-4
+      desktop:px-32
+      md:px-6
+      sm:px-4
+      min-h-720
+      rounded-md
+      bg-gray-50
+      sm:bg-none
+      filter sm:filter-none drop-shadow-card
+    "
+  >
+    <div class="flex flex-col filter drop-shadow-card order-first sm:order-none">
+      <picture class="">
+        <source
+          media="(max-width: 639px"
+          srcset="/src/assets/study-card-small@2x.png"
+        />
+        <source
+          media="(max-width: 767px"
+          srcset="/src/assets/study-card-mobile@2x.png"
+        />
+        <source
+          media="(max-width: 1439px"
+          srcset="/src/assets/study-card-tablet@2x.png"
+        />
+        <source
+          media="(min-width: 1440px"
+          srcset="/src/assets/study-card-desktop@2x.png"
+        />
+        <img
+          class="h-456 sm:rounded-md sm:rounded-t-none rounded-t-md rounded-b-none"
+          src="/src/assets/study-card-desktop@2x.png"
+          alt="The header image of the D&D Rulebook project"
+        />
       </picture>
 
-    <div class="absolute desktop:pl-8 md:pl-4 sm:pl-4 desktop:pt-245 md:pt-124 md:pr-80 sm:pt-162 sm:pr-276 h-456 desktop:w-984 md:w-720 sm:w-608 w-343 sm:text-left flex flex-col justify-center">
-      <h2 class="display-medium-smaller text-gray-900">D&D Rulebook</h2>
-      <p class="subheading-italic text-gray-900">
-        A mobile-based solution for the players of Dungeons & Dragons.
-      </p>
+      <div
+        class="
+          sm:absolute
+          sm:text-left
+          flex flex-col
+          sm:justify-center
+          mt-2
+          h-full
+          desktop:w-984
+          md:w-3/5
+          sm:w-1/2
+          w-343
+          desktop:left-6
+          md:left-4
+          md:pr-0
+          sm:left-1
+          sm:px-4
+          order-last
+          sm:order-none
+          mb-10
+        "
+      >
+        <p class="uppercase paragraph-regular desktop:mb-28 md:mb-12 sm:mb-14 mb-0">Concept / UX / Mobile App</p>
+        <h2 class="display-medium-smaller text-gray-900">D&D Rulebook</h2>
+        <p class="md:subheading-italic subheading-italic-small text-gray-900 desktop:mb-9 sm:mb-7 mb-5">
+          A mobile-based solution for the players of Dungeons & Dragons.
+        </p>
+        <router-link to="/rulebook"><button class="btn">View Case Study</button></router-link>
+      </div>
     </div>
-    </div></router-link>
   </div>
-  
 
-
-  <WorkTogether/>
+  <WorkTogether />
 </template>
 
 <script>
-import WorkTogether from './WorkTogether.vue'
+import WorkTogether from "./WorkTogether.vue";
 
-export default ({
-    name: "Index",
-    components: {
-      WorkTogether
-    },
-})
+export default {
+  name: "Index",
+  components: {
+    WorkTogether,
+  },
+};
 </script>

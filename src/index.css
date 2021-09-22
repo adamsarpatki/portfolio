@@ -81,6 +81,10 @@
     .subheading-regular {
         @apply font-subheading text-xl
     }
+
+    .subheading-italic-small {
+        @apply font-subheading text-base italic
+    }
     
     .subheading-italic {
         @apply font-subheading text-xl italic
@@ -111,7 +115,7 @@
     }
     
     .btn {
-        @apply h-20 w-296 desktop:w-184 md:w-162 sm:w-296 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md hover:bg-blue-800 hover:text-gray-50 transition duration-200 ease-in-out
+        @apply h-20 w-296 desktop:w-184 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md hover:bg-blue-800 hover:text-gray-50 transition duration-200 ease-in-out
     }
     
     
