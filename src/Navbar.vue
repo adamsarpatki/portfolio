@@ -99,22 +99,7 @@
             hover:text-yellow-400
             " to="/about-me">About
         </router-link>
-        <router-link class="
-            sm:text-base
-            desktop:text-xl
-            sm:w-20
-            sm:mx-2.5
-            mt-1
-            px-2
-            py-1
-            sm:mt-0
-            block
-            text-gray-50
-            font-subheading
-            hover:text-yellow-400
-            "
-            to="/contact">Contact
-        </router-link>
+        
     </nav>
   </header>
 </template>
