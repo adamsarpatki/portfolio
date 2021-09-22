@@ -111,6 +111,11 @@ module.exports = {
         '1184': '74rem',
       },
 
+      backgroundColor: theme => ({
+        ...theme('colors'),
+        'rulebook': '#489fb5',
+      }),
+
       lineHeight: {
         '48': '3rem',
        },
