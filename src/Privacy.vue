@@ -10,8 +10,7 @@
       and other sites we own and operate.
     </p>
     <p class="sm:pl-6 px-6 desktop:paragraph-regular paragraph-mobile-small">
-      This policy is effective as of 7 September 2021 and was last updated on 7
-      September 2021.
+      This policy is effective as of 22 September 2021 and was last updated on 22 September 2021.
     </p>
     <h3 class="pb-6 pt-4 px-4 h3-medium">Information We Collect</h3>
     <p class="sm:pl-6 px-6 desktop:paragraph-regular paragraph-mobile-small">
@@ -33,31 +32,6 @@
       Please be aware that while this information may not be personally
       identifying by itself, it may be possible to combine it with other data to
       personally identify individual persons.
-    </p>
-    <h4 class="px-4 pb-6 pt-4 h4-medium">Personal Information</h4>
-    <p class="sm:pl-6 px-6 desktop:paragraph-regular paragraph-mobile-small">
-      We may ask for personal information which may include one or more of the
-      following:
-    </p>
-    <ul
-      class="
-        list-disc list-inside
-        pl-12 pr-6
-        desktop:paragraph-regular
-        paragraph-mobile-small
-      "
-    >
-      <li>Name</li>
-      <li>Email</li>
-    </ul>
-    <h4 class="pb-6 pt-4 px-4 h4-medium">
-      Legitimate Reasons for Processing Your Personal Information
-    </h4>
-    <p class="sm:pl-6 px-6 desktop:paragraph-regular paragraph-mobile-small">
-      We only collect and use your personal information when we have a
-      legitimate reason for doing so. In which instance, we only collect
-      personal information that is reasonably necessary to provide our services
-      to you.
     </p>
     <h4 class="pb-6 pt-4 px-4 h4-medium">Collection and Use of Information</h4>
     <p class="sm:pl-6 px-6 desktop:paragraph-regular paragraph-mobile-small">
@@ -226,7 +200,7 @@
     </p>
     <p class="sm:pl-6 px-6 desktop:paragraph-regular paragraph-mobile-small">
       Ádám Sárpátki<br />
-      <a href="https://www.adamsarpatki.com/contact" target="_blank">https://www.adamsarpatki.com/contact</a>
+      <a href="mailto:hello@adamsarpatki.com" target="_blank">hello@adamsarpatki.com</a>
     </p>
 
     <h2 class="px-4 h2-medium py-6">Copyright Info</h2>
