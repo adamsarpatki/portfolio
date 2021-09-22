@@ -3,7 +3,7 @@
     <h2 class="col-span-full self-center h2-bold text-gray-900">Conclusion</h2>
   </div>
 
-  <div class="study-grid h-auto mb-12">
+  <div class="study-grid h-auto">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">What I’ve Learned</h3>
       <div class="sm:px-3 sm:pl-8 sm:pr-4">
