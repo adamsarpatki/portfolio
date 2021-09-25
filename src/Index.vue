@@ -88,6 +88,7 @@
           flex flex-col
           sm:justify-center
           mt-4
+          sm:mt-0
           h-full
           desktop:w-984
           md:w-3/5
