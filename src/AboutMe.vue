@@ -1,23 +1,23 @@
 <template>
     <!-- About Me -->
   <div class="px-4 desktop:pt-44 md:pt-44 desktop:px-32 md:px-6 sm:px-4 pt-20 grid grid-cols-12 gap-4">
-        <img class="desktop:col-span-6 desktop:row-span-2 desktop:self-center desktop:mt-0 order-3 desktop:order-1 desktop:w-541 desktop:justify-self-center col-span-full mt-1" src="/src/assets/adam-sarpatki-bench-web.jpg" alt="Adam Sarpatki sitting on a bench">
+        <img class="desktop:col-span-6 desktop:row-span-2 desktop:self-center desktop:mt-0 order-3 desktop:order-1 desktop:w-5/6 desktop:justify-self-center col-span-full mt-1" src="/src/assets/adam-sarpatki-bench-web.jpg" alt="Image of Adam Sarpatki sitting on a bench">
     
     <h1 class="sm:h1-bold h2-bold text-blue-900 desktop:col-start-7 desktop:col-end-13 desktop:text-left text-center col-span-full leading-56 md:order-1 mb-5">Hi, I’m Ádám, a UX designer based in Budapest, Hungary.</h1>
     <div class="desktop:paragraph-regular paragraph-mobile desktop:col-start-7 desktop:col-end-13 col-span-full sm:text-left text-center order-2">
       <p class="mb-4">
-        I have a background in library and information science, customer
-        support, and translation, so I know all too well how frustrating it can
+        I have a background in <b>library and information science, customer
+        support, and translation</b>, so I know all too well how frustrating it can
         be when a website or a service is not designed with the end-users in
         mind. And while I liked helping people navigate the ins and outs of such
-        services in the past, I would much better create human-centered
-        solutions.
+        services in the past, I would much better <b>create human-centered
+        solutions</b>.
       </p>
       <p class="mb-4">
-        I have started my user experience design journey with Udacity's UX
-        Nanodegree Program. It taught me the basic concepts and processes of
+        I have started my user experience design journey with <b>Udacity's UX
+        Nanodegree Program</b>. It taught me the basic concepts and processes of
         UX/UI, but I'm constantly reading articles or watching videos about the
-        topic, to learn even more - as much as I can.
+        industry, to learn even more - as much as I can.
       </p>
       <p class="mb-4">
         I enjoy working on products from end to end, from the research phase to
