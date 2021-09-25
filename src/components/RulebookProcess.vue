@@ -21,6 +21,7 @@
       Source:
       <a
         href="https://uxdesign.cc/how-to-solve-problems-applying-a-uxdesign-designthinking-hcd-or-any-design-process-from-scratch-v2-aa16e2dd550b"
+        class="text-link"
         target="_blank"
         >How to apply a design thinking, HCD, UX or any creative process from
         scratch — Revised & New Version by Dan Nessler</a

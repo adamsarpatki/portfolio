@@ -110,8 +110,8 @@
           especially since this was my first ever project, so I was learning a
           lot as I went.
         </p>
-        <p class="desktop:paragraph-regular paragraph-mobile">
-            <a href="https://www.figma.com/file/XgMwHN8PArib3q6jgdnAjR/Lo-fi-prototype?node-id=0%3A1" class="font-bold uppercase" target="_blank">Check out my low-fidelity prototype.</a>
+        <p class="paragraph-mobile-small font-bold desktop:paragraph-regular-bold">
+            Check out my <a href="https://www.figma.com/file/XgMwHN8PArib3q6jgdnAjR/Lo-fi-prototype?node-id=0%3A1" class="text-link" target="_blank">low-fidelity prototype</a>.
           </p>
       </div>
     </div>
@@ -127,11 +127,9 @@
     <div class="col-span-full">
       <picture>
         <source media="(max-width: 375px" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
-        <source media="(min-width: 1440px" srcset="/src/assets/low-fi-banner@2x.png">
-        <!-- <source media="(max-width: 767px" srcset="/src/assets/rulebook-header-mobile.png"> -->
-        <source media="(max-width: 768px" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
         <source media="(max-width: 376px" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
-        <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->
+        <source media="(max-width: 768px" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
+        <source media="(min-width: 1440px" srcset="/src/assets/low-fi-banner@2x.png">
         <img class="w-full" src="src\assets\low-fi-banner@2x.png" alt="An image of low-fidelity prototypes">
       </picture>
     </div>

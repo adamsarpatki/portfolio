@@ -16,13 +16,13 @@
             component. I went the extra mile, and I’ve even designed error
             messages, even though I’ve yet to use them.
           </p>
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small font-bold desktop:paragraph-regular-bold">Check out my 
             <a
               href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1"
-              class="font-bold uppercase"
+              class="text-link"
               target="_blank"
-              >Check out my High-Fidelity Prototype (version 1.).</a
-            >
+              >High-Fidelity Prototype (version 1.)</a
+            >.
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             During this process, I've started to familiarize myself with
@@ -43,13 +43,13 @@
             contrast to the pages, as well as making the font size larger,
             therefore making the text more legible.
           </p>
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small font-bold desktop:paragraph-regular-bold">Check out my 
             <a
               href="https://www.figma.com/file/kQmg70uB9PViL3PAubin8I/Accessibility-Progress-and-Iteration"
-              class="font-bold uppercase"
+              class="text-link"
               target="_blank"
-              >Check out my FigJam board.</a
-            >
+              >FigJam board</a
+            >.
           </p>
         </div>
       </div>
@@ -178,13 +178,13 @@
           started working on this project, I've learned a lot about design, and
           I wanted my prototype to show this.
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small font-bold desktop:paragraph-regular-bold">Check out my 
           <a
             href="https://www.figma.com/file/XqD0EAVTg9PA58jHaM8ssQ/High-Fidelity-Prototype-Accessibility"
-            class="font-bold uppercase"
+            class="text-link"
             target="_blank"
-            >Check out my current design.</a
-          >
+            >current design</a
+          >.
         </p>
       </div>
     </div>

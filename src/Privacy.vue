@@ -6,7 +6,7 @@
       respect your privacy and comply with any applicable law and regulation
       regarding any personal information we may collect about you, including
       across our website,
-      <a href="https://www.adamsarpatki.com" target="_blank">https://www.adamsarpatki.com</a>,
+      <a href="https://www.adamsarpatki.com" class="text-link" target="_blank">https://www.adamsarpatki.com</a>,
       and other sites we own and operate.
     </p>
     <p class="sm:pl-6 px-6 desktop:paragraph-regular paragraph-mobile-small">
@@ -200,11 +200,11 @@
     </p>
     <p class="sm:pl-6 px-6 desktop:paragraph-regular paragraph-mobile-small">
       Ádám Sárpátki<br />
-      <a href="mailto:hello@adamsarpatki.com" target="_blank">hello@adamsarpatki.com</a>
+      <a href="mailto:hello@adamsarpatki.com" class="text-link" target="_blank">hello@adamsarpatki.com</a>
     </p>
 
     <h2 class="px-4 h2-medium py-6">Copyright Info</h2>
-    <p class="sm:pl-6 px-6 pb-12 desktop:paragraph-regular paragraph-mobile-small">Icons made by <a href="https://www.freepik.com" target="_blank" title="Freepik">Freepik</a>, by <a href="https://www.flaticon.com/authors/xnimrodx" target="_blank" title="xnimrodx">xnimrodx</a> and by <a href="https://www.flaticon.com/authors/photo3idea-studio" target="_blank" title="photo3idea_studio">photo3idea_studio</a> from <a href="https://www.flaticon.com/" target="_blank" title="Flaticon">www.flaticon.com</a></p>
+    <p class="sm:pl-6 px-6 pb-12 desktop:paragraph-regular paragraph-mobile-small">Icons made by <a href="https://www.freepik.com" class="text-link" target="_blank" title="Freepik">Freepik</a>, by <a href="https://www.flaticon.com/authors/xnimrodx" class="text-link" target="_blank" title="xnimrodx">xnimrodx</a> and by <a href="https://www.flaticon.com/authors/photo3idea-studio" class="text-link" target="_blank" title="photo3idea_studio">photo3idea_studio</a> from <a href="https://www.flaticon.com/" class="text-link" target="_blank" title="Flaticon">www.flaticon.com</a></p>
     
   </div>
 </template>

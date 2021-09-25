@@ -11,19 +11,10 @@
           to narrow down the prevalent themes of my findings. I could then start
           identifying problems and discoveries.</p>
           
-          <p class="paragraph-mobile-small desktop:paragraph-regular">Check out my <a href="https://miro.com/app/board/o9J_l7eYgew=/" target="_blank">
-           <b>Miro board</b>
-        
-         </a>
+          <p class="paragraph-mobile-small font-bold desktop:paragraph-regular-bold">Check out my <a href="https://miro.com/app/board/o9J_l7eYgew=/" class="text-link" target="_blank">
+           Miro board</a>.
         </p>
-        <!-- <p class="paragraph-mobile-small desktop:paragraph-regular">
-          <a
-            href="https://miro.com/app/board/o9J_l7eYgew=/"
-            class="font-bold uppercase"
-            target="_blank"
-            >Check out my Miro board.</a
-          >
-        </p> -->
+
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           Based on this, I have asked myself the question:
         </p>

@@ -59,23 +59,23 @@
     }
     
     .paragraph-regular {
-        @apply font-body text-base leading-6 font-normal text-gray-800 mb-4
+        @apply font-body text-base leading-6 font-normal text-gray-900 mb-4
     }
     
     .paragraph-regular-bold {
-        @apply font-body text-base leading-6 font-bold text-gray-800 mb-4
+        @apply font-body text-base leading-6 font-bold text-gray-900 mb-4
     }
     
     .paragraph-regular-small {
-        @apply font-body text-12.8 leading-4 font-normal text-gray-800
+        @apply font-body text-12.8 leading-4 font-normal text-gray-900
     }
     
     .paragraph-mobile {
-        @apply font-body text-xl leading-8 font-normal text-gray-800 mb-4
+        @apply font-body text-xl leading-8 font-normal text-gray-900 mb-4
     }
 
     .paragraph-mobile-small {
-        @apply font-body text-lg leading-6 font-normal text-gray-800 mb-4
+        @apply font-body text-lg leading-6 font-normal text-gray-900 mb-4
     }
     
     .subheading-regular {
@@ -83,15 +83,15 @@
     }
 
     .subheading-italic-small {
-        @apply font-subheading text-base italic
+        @apply font-subheading text-base italic text-gray-900
     }
     
     .subheading-italic {
-        @apply font-subheading text-xl italic
+        @apply font-subheading text-xl italic text-gray-900
     }
     
     .subheading-bold {
-        @apply font-subheading text-xl font-bold
+        @apply font-subheading text-xl font-bold text-gray-900
     }
 
     .footer-regular {
@@ -99,17 +99,17 @@
     }
 
     .footer-link {
-        @apply font-body text-tiny text-gray-50 font-normal
-    }
-
-    .footer-link:active {
-        @apply text-yellow-400
+        @apply font-body text-tiny text-gray-50 font-normal border-b p-px border-gray-50 hover:border-yellow-400
     }
 
     .nav-link {
         @apply font-subheading desktop:text-xl md:text-base font-normal text-gray-50
     }
     
+    .text-link {
+        @apply border-b p-px border-blue-800 hover:border-yellow-400
+    }
+
     .nav-link:active {
         @apply text-yellow-400
     }
@@ -127,11 +127,11 @@
 }
 
 td {
-    @apply font-body text-base font-normal
+    @apply font-body text-base font-normal text-gray-900
 }
 
 th {
-    @apply font-heading sm:text-lg text-base font-medium
+    @apply font-heading sm:text-lg text-base font-medium text-gray-900
 }
 
 a {
