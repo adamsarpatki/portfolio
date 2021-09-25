@@ -130,8 +130,10 @@
         sm:col-start-3 sm:col-end-11
         col-start-1 col-end-13
         self-center
-        desktop:h-288
-        py-4
+        desktop:h-296
+        pt-4
+        desktop:py-0
+        desktop:pt-3
         text-left rounded-md
         bg-gray-200
       "
@@ -149,7 +151,7 @@
         Overview
       </h5>
       <div
-        class="pr-3 pl-5 desktop:paragraph-regular paragraph-mobile-small m-0"
+        class="pr-3 pl-5 desktop:paragraph-regular paragraph-mobile-small"
       >
         <ul class="list-disc list-inside">
           <li>7 <b>unmoderated interviews</b></li>

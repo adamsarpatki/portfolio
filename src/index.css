@@ -116,11 +116,15 @@
     
     .btn {
         @apply h-20 w-296 desktop:w-184 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md hover:bg-blue-800 hover:text-gray-50 transition duration-200 ease-in-out
-    }
-    
-    
+    }   
     
 }
+
+    li > ol,
+    li > ul,
+    li {
+        @apply mt-2 md:mt-1
+    }
 
 .study-grid {
     @apply grid grid-cols-12 gap-4 px-4 desktop:px-32 md:px-6 sm:px-4
