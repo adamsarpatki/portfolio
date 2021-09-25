@@ -104,7 +104,7 @@
           
         "
       >
-        <p class="uppercase paragraph-regular desktop:mb-28 md:mb-12 sm:mb-14 mb-4 sm:text-current">Concept / UX / Mobile App</p>
+        <p class="uppercase sm:paragraph-regular paragraph-regular-small desktop:mb-28 md:mb-12 sm:mb-14 mb-4">Concept / UX / Mobile App</p>
         <h2 class="sm:display-medium-smaller h1-medium text-gray-900">D&D Rulebook</h2>
         <p class="md:subheading-italic subheading-italic-small text-gray-900 desktop:mb-9 sm:mb-7 mb-5">
           A mobile-based solution for the players of Dungeons & Dragons.
