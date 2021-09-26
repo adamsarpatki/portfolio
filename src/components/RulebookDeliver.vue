@@ -56,7 +56,7 @@
     </div>
     <div class="desktop:col-start-7 desktop:col-end-13 col-span-full m-auto">
       <img
-        src="src\assets\accessible-login@2x.png"
+        src="/src/assets/accessible-login@2x.png"
         alt="An image of how accessibility changed the design of the app"
       />
     </div>
@@ -85,7 +85,7 @@
         <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->
         <img
           class="w-full"
-          src="src\assets\high-fi-banner@2x.png"
+          src="/src/assets/high-fi-banner@2x.png"
           alt="Screens of the app before and after accessibility"
         />
       </picture>
@@ -331,7 +331,7 @@
         <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->
         <img
           class="w-full"
-          src="src\assets\final-app-banner@2x.png"
+          src="/src/assets/final-app-banner@2x.png"
           alt="Screens of the finished application."
         />
       </picture>

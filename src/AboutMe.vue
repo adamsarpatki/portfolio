@@ -20,7 +20,7 @@
         profession, to learn even more - as much as I can.
       </p>
       <p class="mb-4">
-        I enjoy working on products from end to end, from the research phase to
+        I enjoy <b>working on products from end to end</b>, from the research phase to
         development.
       </p>
       <p class="mb-4">

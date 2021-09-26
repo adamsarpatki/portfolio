@@ -88,7 +88,7 @@
       </div>
     </div>
     <div class="desktop:col-start-7 desktop:col-end-13 col-span-full">
-      <img src="src/assets/complexity-value@2x.png" alt="" />
+      <img src="/src/assets/complexity-value@2x.png" alt="" />
     </div>
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">Early sketches</h4>
@@ -117,7 +117,7 @@
     </div>
     <div class="col-span-full m-auto">
       <img
-        src="src/assets/crazy-8-dnd.jpg"
+        src="/src/assets/crazy-8-dnd.jpg"
         alt="An image of sketches for the application"
       />
     </div>
@@ -130,7 +130,7 @@
         <source media="(max-width: 376px" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
         <source media="(max-width: 768px" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
         <source media="(min-width: 1440px" srcset="/src/assets/low-fi-banner@2x.png">
-        <img class="w-full" src="src\assets\low-fi-banner@2x.png" alt="An image of low-fidelity prototypes">
+        <img class="w-full" src="/src/assets/low-fi-banner@2x.png" alt="An image of low-fidelity prototypes">
       </picture>
     </div>
   </div>
