@@ -37,13 +37,13 @@
     class="
       sm:relative
       flex flex-row
-      items-end
+      items-center
       justify-center
       md:h-496
       sm:h-470
       w-343
       sm:w-auto
-      mx-4
+      mx-auto
       sm:mx-0
       desktop:px-32
       md:px-6
