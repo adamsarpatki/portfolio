@@ -5,12 +5,146 @@
     @apply font-heading text-4xl desktop:text-5xl md:text-5xl sm:text-4xl font-medium
 }
 
-.btn {
-    @apply h-20 w-296 desktop:w-184 md:w-162 sm:w-296 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md
+@responsive {
+    .display-medium {
+        @apply font-heading text-display font-medium
+        
+    }
+    .display-medium-smaller {
+        @apply font-heading text-display-smaller font-medium        
+    }
+
+    .h1-bold {
+        @apply font-heading text-h1 font-bold
+    }
+    
+    .h1-medium {
+        @apply font-heading text-h1 font-medium
+    }
+    
+    .h2-medium {
+        @apply font-heading text-h2 font-medium
+    }
+    
+    .h2-bold {
+        @apply font-heading text-h2 font-bold
+    }
+    
+    .h3-medium {
+        @apply font-heading text-h3 font-medium leading-48
+    }
+
+    .h3-bold {
+        @apply font-heading text-h3 font-bold leading-48
+    }
+    
+    .h4-regular {
+        @apply font-heading text-h4 font-normal leading-8
+    }
+    
+    .h4-medium {
+        @apply font-heading text-h4 font-medium leading-8
+    }
+
+    .h4-bold {
+        @apply font-heading text-h4 font-bold leading-8
+    }
+    
+    .h5-medium {
+        @apply font-heading text-xl font-medium leading-6
+    }
+
+    .h5-bold {
+        @apply font-heading text-xl font-bold leading-6
+    }
+    
+    .paragraph-regular {
+        @apply font-body text-base leading-6 font-normal text-gray-900 mb-4
+    }
+    
+    .paragraph-regular-bold {
+        @apply font-body text-base leading-6 font-bold text-gray-900 mb-4
+    }
+    
+    .paragraph-regular-small {
+        @apply font-body text-12.8 leading-4 font-normal text-gray-900
+    }
+    
+    .paragraph-mobile {
+        @apply font-body text-xl leading-8 font-normal text-gray-900 mb-4
+    }
+
+    .paragraph-mobile-small {
+        @apply font-body text-lg leading-6 font-normal text-gray-900 mb-4
+    }
+    
+    .subheading-regular {
+        @apply font-subheading text-xl
+    }
+
+    .subheading-italic-small {
+        @apply font-subheading text-base italic text-gray-900
+    }
+    
+    .subheading-italic {
+        @apply font-subheading text-xl italic text-gray-900
+    }
+    
+    .subheading-bold {
+        @apply font-subheading text-xl font-bold text-gray-900
+    }
+
+    .footer-regular {
+        @apply font-body text-tiny
+    }
+
+    .footer-link {
+        @apply font-body text-tiny text-gray-50 font-normal border-b p-px border-gray-50 hover:border-yellow-400
+    }
+
+    .nav-link {
+        @apply font-subheading desktop:text-xl md:text-base font-normal text-gray-50
+    }
+    
+    .text-link {
+        @apply border-b p-px border-blue-800 hover:border-yellow-400
+    }
+
+    .nav-link:active {
+        @apply text-yellow-400
+    }
+    
+    .btn {
+        @apply h-20 w-296 desktop:w-184 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md hover:bg-blue-800 hover:text-gray-50 transition duration-200 ease-in-out
+    }   
+    
 }
 
-.btn:hover {
-    @apply bg-blue-800 text-gray-50
+    li > ol,
+    li > ul,
+    li {
+        @apply mt-2 md:mt-1
+    }
+
+.study-grid {
+    @apply grid grid-cols-12 gap-4 px-4 desktop:px-32 md:px-6 sm:px-4
+}
+
+td {
+    @apply font-body text-base font-normal text-gray-900
+}
+
+th {
+    @apply font-heading sm:text-lg text-base font-medium text-gray-900
+}
+
+a {
+    @apply hover:text-yellow-400 text-blue-800
+}
+
+
+.form-field {
+    @apply paragraph-regular bg-gray-300 rounded-md mb-8 placeholder-gray-500 px-3
 }
 
 @tailwind utilities;
