@@ -14,6 +14,7 @@
           and user testing, about listening to one's guts, and not being afraid
           to change something if it results in a better product.
         </p>
+        <p class="paragraph-mobile-small desktop:paragraph-regular">Research is something I would definitely do differently, more thoroughly now, using more techniques, not just user interviews. I would also start designing with atomic design in mind — this is something I didn't know much about when I began working on this project, but now I see that it would have made things so much easier and cleaner.</p>
       </div>
     </div>
 
@@ -21,11 +22,7 @@
       <h3 class="h3-bold text-gray-900 mb-7">Next Steps</h3>
       <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
-          I’m not done with this project yet. It still needs a lot of work and a
-          lot of testing until I am willing to say it’s finished (as much as a
-          project like this can ever be finished). However, I am confident that
-          should I have the necessary resources to make it more than just a
-          concept, it would solve a lot of problems for D&D players.
+          I’m not done with this project yet. It still needs a lot of work and a lot of testing until I am willing to say it’s finished (let's be honest, no project is ever really finished). And while I cannot really provide numbers on business impact, I am confident that should I have the necessary resources to make D&D Rulebook more than just a concept, it would solve a lot of problems for D&D players.
         </p>
       </div>
     </div>

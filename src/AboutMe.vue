@@ -17,7 +17,7 @@
         I have started my user experience design journey with <b>Udacity's UX
         Nanodegree Program</b>. It taught me the basic concepts and processes of
         UX/UI, but I'm constantly reading articles or watching videos about the
-        industry, to learn even more - as much as I can.
+        profession, to learn even more - as much as I can.
       </p>
       <p class="mb-4">
         I enjoy working on products from end to end, from the research phase to
