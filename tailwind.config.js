@@ -131,7 +131,6 @@ module.exports = {
   },
   variants: {
     extend: {
-
       stroke: ['hover', 'focus'],
     },
   },

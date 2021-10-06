@@ -13,9 +13,9 @@
   </div>
   <div class="desktop:px-32 px-4 md:px-6 flex flex-col mb-12">
     <img
+      class="w-full"
       src="/src/assets/1801_HV_Revamped_Double_Diamond_Design_Process_Framework.007.jpeg"
       alt="The Revamped Double Diamond Design Process Framework by Dan Nessler"
-      class="w-full"
     />
     <figcaption class="text-right paragraph-regular-small sm:pl-44 desktop:p-0 mt-1">
       Source:

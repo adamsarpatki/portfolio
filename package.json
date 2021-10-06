@@ -19,6 +19,7 @@
     "autoprefixer": "^10.3.4",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.9",
+    "tailwindcss-image-rendering": "^1.0.2",
     "vite": "^2.5.3"
   }
 }
