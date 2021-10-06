@@ -1,7 +1,7 @@
 <template>
     <!-- About Me -->
   <div class="px-4 desktop:px-32 md:px-6 sm:px-4 sm:mt-24 pt-12 grid grid-cols-12 gap-4">
-        <img class="desktop:col-span-6 desktop:row-span-2 desktop:self-center desktop:mt-0 order-3 desktop:order-1 desktop:w-5/6 desktop:justify-self-center col-span-full mt-1" src="/src/assets/adam-sarpatki-bench-web.jpg" alt="Image of Adam Sarpatki sitting on a bench">
+    <img class="desktop:col-span-6 desktop:row-span-2 desktop:self-center desktop:mt-0 order-3 desktop:order-1 desktop:w-5/6 desktop:justify-self-center col-span-full mt-1 fix-blur" src="/src/assets/adam-sarpatki-bench-web.jpg" alt="Image of Adam Sarpatki sitting on a bench">
     
     <h1 class="sm:h1-bold h2-bold text-blue-900 desktop:col-start-7 desktop:col-end-13 desktop:text-left text-center col-span-full leading-56 md:order-1 mb-5">Hi, I’m Ádám, a UX designer based in Budapest, Hungary.</h1>
     <div class="desktop:paragraph-regular paragraph-mobile desktop:col-start-7 desktop:col-end-13 col-span-full sm:text-left text-center order-2">
@@ -92,3 +92,9 @@ export default ({
     },
 })
 </script>
+
+<style scoped>
+.fix-blur {
+    image-rendering: -webkit-optimize-contrast;
+}
+</style>
