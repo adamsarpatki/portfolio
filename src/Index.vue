@@ -57,29 +57,38 @@
     "
   >
     <div class="flex flex-col filter sm:drop-shadow-card order-last sm:order-none">
-      <picture class="">
+      <img
+          class="h-456 sm:rounded-md rounded-md"
+          src="/src/assets/study-card-small@2x.png"
+          sizes="(max-width: 639px) 70vw,
+               (max-width: 767px) 80vw,     
+               100vw"
+          srcset="/src/assets/study-card-small@2x.png 750w,/src/assets/study-card-mobile@2x.png 767w, /src/assets/study-card-tablet@2x.png 1439w, /src/assets/study-card-desktop@2x.png"
+          alt="The header image of the D&D Rulebook project"
+        />
+      <!-- <picture>
         <source
-          media="(max-width: 639px"
+          media="(max-width: 639px)"
           srcset="/src/assets/study-card-small@2x.png"
         />
         <source
-          media="(max-width: 767px"
+          media="(max-width: 767px)"
           srcset="/src/assets/study-card-mobile@2x.png"
         />
         <source
-          media="(max-width: 1439px"
+          media="(max-width: 1439px)"
           srcset="/src/assets/study-card-tablet@2x.png"
         />
         <source
-          media="(min-width: 1440px"
+          media="(min-width: 1440px)"
           srcset="/src/assets/study-card-desktop@2x.png"
         />
         <img
           class="h-456 sm:rounded-md rounded-md"
-          src="/src/assets/study-card-desktop@2x.png"
+          srcset="/src/assets/study-card-desktop@2x.png"
           alt="The header image of the D&D Rulebook project"
         />
-      </picture>
+      </picture> -->
 
       <div
         class="
