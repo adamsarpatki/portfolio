@@ -1,10 +1,9 @@
 <template>
   <div class="sm:relative flex flex-col justify-center">
       <picture class="order-2 sm:order-none">
-        <source media="(max-width: 639px" srcset="/src/assets/study-header-small@2x.png">
-        <source media="(max-width: 767px" srcset="/src/assets/study-header-mobile@2x.png">
-        <source media="(max-width: 1439px" srcset="/src/assets/study-header-tablet@2x.png">
-        <source media="(min-width: 1440px" srcset="/src/assets/study-header-desktop@2x.png">
+        <source media="(max-width: 639px)" srcset="/src/assets/study-header-small@2x.png">
+        <source media="(max-width: 767px)" srcset="/src/assets/study-header-mobile@2x.png">
+        <source media="(max-width: 1439px)" srcset="/src/assets/study-header-tablet@2x.png">
         <img class="w-full" src="/src/assets/study-header-desktop@2x.png" alt="The header image of the D&D Rulebook project">
       </picture>
 

@@ -66,22 +66,22 @@
     <div class="col-span-full">
       <picture>
         <source
-          media="(max-width: 375px"
+          media="(max-width: 375px)"
           srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
         />
         <source
-          media="(min-width: 1440px"
+          media="(max-width: 376px)"
+          srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
+        />
+        <source
+          media="(max-width: 768px)"
+          srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
+        />
+        <source
+          media="(min-width: 1440px)"
           srcset="/src/assets/high-fi-banner@2x.png"
         />
         <!-- <source media="(max-width: 767px" srcset="/src/assets/rulebook-header-mobile.png"> -->
-        <source
-          media="(max-width: 768px"
-          srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
-        />
-        <source
-          media="(max-width: 376px"
-          srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
-        />
         <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->
         <img
           class="w-full"
@@ -312,20 +312,20 @@
     <div class="col-span-full">
       <picture>
         <source
-          media="(max-width: 375px"
+          media="(max-width: 375px)"
           srcset="/src/assets/final-app-banner-vertical@2x.jpg"
         />
         <source
-          media="(min-width: 1440px"
+          media="(min-width: 1440px)"
           srcset="/src/assets/final-app-banner@2x.png"
         />
         <!-- <source media="(max-width: 767px" srcset="/src/assets/rulebook-header-mobile.png"> -->
         <source
-          media="(max-width: 768px"
+          media="(max-width: 768px)"
           srcset="/src/assets/final-app-banner-vertical@2x.jpg"
         />
         <source
-          media="(max-width: 376px"
+          media="(max-width: 376px)"
           srcset="/src/assets/final-app-banner-vertical@2x.jpg"
         />
         <!-- <source media="(max-width: 1439px" srcset="/src/assets/rulebook-header-tablet.png"> -->

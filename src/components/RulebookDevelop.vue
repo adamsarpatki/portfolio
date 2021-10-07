@@ -126,10 +126,10 @@
   <div class="grid grid-cols-12 gap-4 h-full mb-16">
     <div class="col-span-full">
       <picture>
-        <source media="(max-width: 375px" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
-        <source media="(max-width: 376px" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
-        <source media="(max-width: 768px" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
-        <source media="(min-width: 1440px" srcset="/src/assets/low-fi-banner@2x.png">
+        <source media="(max-width: 375px)" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
+        <source media="(max-width: 376px)" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
+        <source media="(max-width: 768px)" srcset="/src/assets/low-fi-banner-vertical@2x.jpg">
+        <source media="(min-width: 1440px)" srcset="/src/assets/low-fi-banner@2x.png">
         <img class="w-full" src="/src/assets/low-fi-banner@2x.png" alt="An image of low-fidelity prototypes">
       </picture>
     </div>
