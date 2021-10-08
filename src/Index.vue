@@ -35,7 +35,6 @@
 
   <div
     class="
-      sm:relative
       flex flex-row
       items-center
       justify-center
@@ -53,10 +52,10 @@
       sm:rounded-none
       bg-rulebook
       sm:bg-transparent
-      filter sm:filter-none drop-shadow-card sm:drop-shadow-none
+      sm:filter-none drop-shadow-card sm:drop-shadow-none
     "
   >
-    <div class="flex flex-col filter sm:drop-shadow-card order-last sm:order-none w-auto mx-auto">
+    <div class="sm:relative flex flex-col sm:drop-shadow-card order-last sm:order-none w-auto mx-auto">
       <!-- <img
           class="h-456 sm:rounded-md rounded-md"
           src="/src/assets/study-card-small@2x.png"
