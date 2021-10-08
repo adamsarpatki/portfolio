@@ -122,7 +122,7 @@ module.exports = {
         '48': '3rem',
        },
 
-      dropShadow: {
+      boxShadow: {
         'navbar': '0 4px 45px rgba(0, 0, 0, 0.25)',
         'card': '4px 4px 24px rgba(0, 0, 0, 0.22)',
       },

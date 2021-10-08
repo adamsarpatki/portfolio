@@ -7,8 +7,8 @@
       md:px-6
       sm:px-4
       px-4
-      filter
-      drop-shadow-navbar
+      
+      shadow-navbar
       sticky
       z-50
       top-0

@@ -52,19 +52,10 @@
       sm:rounded-none
       bg-rulebook
       sm:bg-transparent
-      sm:filter-none drop-shadow-card sm:drop-shadow-none
+      shadow-card sm:shadow-none
     "
   >
-    <div class="sm:relative flex flex-col sm:drop-shadow-card order-last sm:order-none w-auto mx-auto">
-      <!-- <img
-          class="h-456 sm:rounded-md rounded-md"
-          src="/src/assets/study-card-small@2x.png"
-          sizes="(max-width: 639px) 70vw,
-               (max-width: 767px) 80vw,     
-               100vw"
-          srcset="/src/assets/study-card-small@2x.png 750w,/src/assets/study-card-mobile@2x.png 767w, /src/assets/study-card-tablet@2x.png 1439w, /src/assets/study-card-desktop@2x.png"
-          alt="The header image of the D&D Rulebook project"
-        /> -->
+    <div class="sm:relative flex flex-col sm:shadow-card order-last sm:order-none w-auto mx-auto rounded-md">
       <picture>
         <source
           media="(max-width: 639px)"
@@ -105,7 +96,6 @@
           sm:px-4
           order-first
           sm:order-none
-          
         "
       >
         <p class="uppercase sm:paragraph-regular paragraph-regular-small desktop:mb-28 md:mb-12 sm:mb-14 mb-4">Concept / UX / Mobile App</p>
