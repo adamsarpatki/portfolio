@@ -26,6 +26,10 @@
           <vue-feather type="linkedin" class="m-2 fill-current text-gray-50 hover:fill-current hover:text-yellow-400"></vue-feather>
          </a>
 
+                  <a href="https://dribbble.com/adamsarpatki" target="_blank">
+          <vue-feather type="dribbble" class="m-2 fill-current text-gray-50 hover:fill-current hover:text-yellow-400"></vue-feather>
+         </a>
+
                   <a href="https://www.instagram.com/adam.sarpatki/" target="_blank">
           <vue-feather type="instagram" class="m-2 fill-current text-gray-50 hover:fill-current hover:text-yellow-400"></vue-feather>
          </a>
