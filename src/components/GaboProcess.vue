@@ -6,9 +6,8 @@
   </div>
 
   <div class="flex flex-row desktop:px-32 mt-14 mb-16 self-center">
-    <p class="paragraph-mobile-small desktop:paragraph-regular px-8 desktop:px-80">
-      For my design, I have followed the Double Diamond process. It provided the
-      most structure that I've felt I needed as a new designer.
+    <p class="paragraph-mobile-small desktop:mb-0 desktop:paragraph-regular px-8 desktop:px-80">
+      Once again, I’ve followed the steps outlined in the double-diamond process, going back and forth as needed.
     </p>
   </div>
   <div class="desktop:px-32 px-4 md:px-6 flex flex-col mb-12">
