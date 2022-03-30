@@ -105,8 +105,8 @@
         <p class="md:subheading-italic subheading-italic-small text-gray-900 desktop:mb-9 sm:mb-7 mb-5">
           Redesigning a small Hungarian publisher's website and webshop.
         </p>
-        <router-link to="">
-        <button class="btn-disabled">Coming Soon</button></router-link>
+        <router-link to="/gabo">
+        <button class="btn">Coming Soon</button></router-link>
       </div>
     </div>
   </div>
