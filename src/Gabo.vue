@@ -18,7 +18,6 @@
 import GaboHeader from './components/GaboHeader.vue'
 import GaboBackground from './components/GaboBackground.vue'
 import GaboConclusion from './components/GaboConclusion.vue'
-import GaboDefine from './components/GaboDefine.vue'
 import GaboDeliver from './components/GaboDeliver.vue'
 import GaboDevelop from './components/GaboDevelop.vue'
 import GaboResearch from './components/GaboResearch.vue'
@@ -29,7 +28,6 @@ export default {
   components: {
     GaboHeader,
     GaboBackground,
-    GaboDefine,
     GaboDeliver,
     GaboDevelop,
     GaboResearch,
