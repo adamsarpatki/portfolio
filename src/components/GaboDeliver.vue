@@ -1,322 +1,478 @@
 <template>
-  <div class="study-grid h-auto mb-16">
-    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
-      <h3 class="h3-bold text-gray-900 mb-7">Deliver</h3>
+  <div class="study-grid h-auto mb-12">
+    <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left">
+      <h3 class="h3-bold text-gray-900 mb-7">Delivery</h3>
       <div class="">
-        <h4 class="h4-medium text-gray-900">Prototyping</h4>
+        <h4 class="h4-medium text-gray-900">Mood Board</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="desktop:paragraph-regular paragraph-mobile-small">
-            Once I thought I was happy with the low-fidelity wireframes, it was
-            time to create a <b>high-fidelity prototype</b> and a
-            <b>design system</b> to go with it.
+            While working on my low-fidelity prototype, I started to think about
+            the next steps. At this stage, I still thought about delving into
+            branding — I’ve even compiled some logo ideas before abandoning this
+            part of my work.
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
-            For the design system, I've created color styles, a typography
-            guide, fields, buttons, templates, and multiple variants of every
-            component. I went the extra mile, and I’ve even designed error
-            messages, even though I’ve yet to use them.
+            I’ve also realised, quite early on in the process, that the colour
+            scheme of the design will be difficult to figure out. The current
+            colours of GABO and Ciceró just don’t go together. At least I
+            couldn’t figure out a good solution. (I probably could have solved
+            this problem more easily had I chosen a different hue of purple and
+            green.)
           </p>
-          <p class="paragraph-mobile-small font-bold desktop:paragraph-regular-bold">Check out my 
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
+            After realising GABO Online currently has 5 different fonts (Arial,
+            Helvetica, Verdana, Times New Roman, Questrial Regular), I wanted to
+            simplify things in this regard, too. I’ve opted for a single font
+            for the headers and the text — Work Sans. It’s nothing fancy, but I
+            think that’s why it’s perfect: there is already so much going on on
+            each page that some simplicity is important.
+          </p>
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
+            Feel free to check out the
             <a
-              href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1"
-              class="text-link"
+              href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3458764514297130463&cot=14"
               target="_blank"
-              >High-Fidelity Prototype (version 1.)</a
-            >.
-          </p>
-          <p class="desktop:paragraph-regular paragraph-mobile-small">
-            During this process, I've started to familiarize myself with
-            <b>Apple's Human Interface Guidelines</b> to make sure my designs
-            were as accurate as possible, and if I'm breaking any rules, I'm
-            conscious of it.
+              class="text-link"
+              >“Mood Board” frame on my Miro project page</a
+            >
+            for more details.
           </p>
         </div>
       </div>
       <div class="">
-        <h4 class="h4-medium text-gray-900">Accessibility</h4>
+        <h4 class="h4-medium text-gray-900">High-Fidelity Prototype</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="desktop:paragraph-regular paragraph-mobile-small">
-            After finishing the first version of the high-fidelity prototype, I
-            started looking at it critically with accessibility in mind. I
-            wanted to make sure as many people could use it as possible. So I
-            have made changes to the color scheme, using WebAIM, to give more
-            contrast to the pages, as well as making the font size larger,
-            therefore making the text more legible.
-          </p>
-          <p class="paragraph-mobile-small font-bold desktop:paragraph-regular-bold">Check out my 
+            Next, I started the longest phase of the design process: creating a
+            working, high-fidelity prototype. Creating font and colour styles
+            was my first step. To simplify matters, I finally chose purple as my
+            main colour — in the exact hue that GABO uses on social media —, and
+            went from there: I’ve selected multiple variants for the primary
+            colour, the secondary colour, and the colours of the error and
+            success states, while also selecting various shades of grey as well.
+            Along the way I’ve paid attention to accessibility, using
             <a
-              href="https://www.figma.com/file/kQmg70uB9PViL3PAubin8I/Accessibility-Progress-and-Iteration"
-              class="text-link"
+              href="https://webaim.org/resources/contrastchecker/"
               target="_blank"
-              >FigJam board</a
+              class="text-link"
+              >WebAIM</a
+            >
+            and
+            <a href="https://whocanuse.com" target="_blank" class="text-link"
+              >Who Can Use</a
             >.
+          </p>
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
+            I’ve designed a desktop and a mobile version. For the latter, I’ve
+            opted for the screen size of a smaller iPhone, like an iPhone 7,
+            because that’s what I had on hand to check if my design looked good
+            or not on a real device.
+          </p>
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
+            I quickly realised that some parts of my low-fi prototype were way
+            too small, so I had to work my way through some of these issues. All
+            in all, not much of my first plans changed fundamentally. While
+            prototyping I’ve also been doing constant research to find the most
+            usable solution for all my questions — reading articles, looking at
+            competitors of GABO Online, and checking Baymard Institute’s
+            resources.
+          </p>
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
+            Some functions were easier to design, while some were more
+            difficult, requiring a lot more iteration. After the product cards,
+            one of the most complex challenges was creating a page for search
+            results with multiple filtering and sorting options, making sure
+            both variants had the same functions and the same level of usability
+            on desktop as well as on mobile.
+          </p>
+          <p class="desktop:paragraph-regular paragraph-mobile-small">
+            It was my overall aim to design a site that required little or no
+            effort to learn to use after using either the desktop or the mobile
+            version. After running usability tests on the high-fidelity
+            prototype, I think I was successful in this regard.
           </p>
         </div>
       </div>
     </div>
-    <div class="desktop:col-start-7 desktop:col-end-13 col-span-full m-auto">
-      <img
-        src="/src/assets/accessible-login@2x.png"
-        alt="An image of how accessibility changed the design of the app"
-      />
+
+    <div
+      class="
+        desktop:col-start-4 desktop:col-end-10
+        col-span-full
+        row-span-1
+        self-center
+      "
+    >
+      <div
+        class="
+          flex
+          items-center
+          md:px-12
+          sm:px-8
+          md:mx-12
+          px-4
+          h-48
+          bg-gray-300
+          rounded-md
+        "
+      >
+        <p class="subheading-bold">
+          "It's great that the mobile and desktop versions are similar.”
+        </p>
+      </div>
     </div>
   </div>
 
-  <div class="grid grid-cols-12 gap-4 h-full mb-16">
+  <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
       <picture>
         <source
           media="(max-width: 639px)"
-          srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
+          srcset="/src/assets/checkout-vertical@2x.jpg"
         />
         <source
           media="(max-width: 767px)"
-          srcset="/src/assets/high-fi-banner-vertical@2x.jpg"
+          srcset="/src/assets/checkout-vertical@2x.jpg"
         />
         <img
           class="w-full"
-          src="/src/assets/high-fi-banner@2x.png"
-          alt="Screens of the app before and after accessibility"
+          src="/src/assets/checkout@2x.jpg"
+          alt="Frames of the checkout flow, both on desktop and mobile."
         />
       </picture>
     </div>
   </div>
-  <div class="study-grid h-auto mb-16">
+
+  <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
       <h4 class="h4-medium text-gray-900">Testing</h4>
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
-          The next step was to test the prototype on some users and get
-          qualitative feedback on the app’s current usability. After testing,
-          I've once again employed affinity mapping to arrange user insights,
-          just like in the research phase.
+          At the beginning of February, I’ve scheduled 5 unmoderated interviews
+          with the users who previously tested the current (or old) site of GABO
+          Online. This way they had some insight into how much has changed
+          during the redesign. And, thankfully, they were more than happy to
+          offer their honest criticisms about my work, which is always very
+          appreciated.
         </p>
         <p class="desktop:paragraph-regular paragraph-mobile-small">
-          Most of the feedback was positive, however, some areas needed
-          improvement.
+          I’ve had one more conversation — with my UX/UI designer friend who
+          couldn’t participate in this round of usability testing, so when I
+          started implementing my changes based on the results of said testing,
+          we had a two-hour-long talk, going through everything I had done,
+          examining possibilities etc. This opportunity provided me with some
+          invaluable insights.
         </p>
-        <div class="desktop:paragraph-regular paragraph-mobile-small">
-          <ul class="list-disc pl-8">
+      </div>
+    </div>
+    <div
+      class="
+        flex
+        desktop:col-start-7 desktop:col-end-13
+        sm:col-start-3 sm:col-end-11
+        col-start-1 col-end-13
+        self-center
+        desktop:h-48
+        pt-4
+        desktop:py-0 desktop:mx-12 desktop:px-8 desktop:pt-auto
+        text-left
+        rounded-md
+        items-center
+        bg-gray-200
+      "
+    >
+      <div class="">
+        <h5
+          class="
+            font-heading
+            text-xl
+            font-medium
+            leading-6
+            text-gray-900 text-center
+            mb-4
+          "
+        >
+          Overview
+        </h5>
+        <div class="pr-3 pl-5 desktop:paragraph-regular paragraph-mobile-small">
+          <ul class="list-disc list-inside">
             <li>
-              The animation of the Search Result Modal wasn’t clear enough,
-              users got confused about why the tab bar disappeared.
+              5 unmoderated interviews (+ 1 unstructured conversation) through
+              Zoom.
             </li>
             <li>
-              The icon of the Browse screen did not communicate the screen’s
-              functionality clearly, so users had trouble locating it.
-            </li>
-            <li>
-              Some of the users felt that the functionality and design of the
-              Browse screen could be clearer, especially since its “table of
-              contents” looked drastically different than the following screen.
+              The participants were given 7 tasks to complete, each relating to
+              a function of the design.
             </li>
           </ul>
         </div>
       </div>
     </div>
+
     <div
       class="
-        desktop:col-start-8 desktop:col-end-12
-        sm:col-start-3 sm:col-end-11
-        col-start-1 col-end-13
-        self-center
-        desktop:h-296
-        pt-4
-        desktop:py-0
-        desktop:pt-3
-        text-left rounded-md
-        bg-gray-200
+        sm:px-3 sm:pl-8 sm:pr-4
+        mt-2
+        desktop:col-start-1 desktop:col-end-7
+        col-span-full
+        text-left
       "
     >
-      <h5
+      <h5 class="h5-bold mb-4 mt-6 text-gray-900">Insights</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        Overall, participants liked my design. They found no blocking issues and
+        nothing that seemed too annoying. The new site even passed the
+        accessibility test: they all used their own computers with different
+        screen sizes, and all of them could see and read everything without
+        having to zoom in on things. One of the participants was colourblind,
+        and when I asked him about it, he said that the colour contrast looked
+        okay to him.
+      </p>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        There were, however, some issues I had to address in the next iteration.
+        Since there was a lot of feedback from participants, after I synthesized
+        the insights, I, again, colour coded them: red for high priority, orange
+        for medium priority, yellow for low priority issues, and green for
+        things that were good and didn’t need changing. Then I’ve arranged the
+        non-green post-its on a Time/Importance matrix — obviously, their colour
+        already showed their importance, but this way I could prioritise them
+        better. It was an imperfect solution since some tasks needed more or
+        less time than I predicted, either way, it made sense of the chaos, and
+        gave me a starting point.
+      </p>
+    </div>
+
+    <div
+      class="
+        sm:px-3
+        pl-8
+        sm:pl-14 sm:pr-4
+        mt-16
+        desktop:col-start-7 desktop:col-end-13
+        col-span-full
+        text-left
+      "
+    >
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        Key insights:
+      </p>
+      <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4">
+        <div class="">
+          <ul
+            class="paragraph-mobile-small desktop:paragraph-regular list-disc"
+          >
+            <li>The site is much better than the old design.</li>
+            <li>
+              It’s easy to switch between the desktop and mobile sites — if you
+              know one, you know the other.
+            </li>
+            <li>
+              The site is intuitive to use, nothing is in a very weird location.
+            </li>
+            <li>No blocking issues were present.</li>
+            <li>
+              The site is a bit top-heavy, the header could be arranged better.
+              Looks a bit too industrial.
+            </li>
+            <li>
+              Participants expected the Profile icon in the mobile header.
+            </li>
+            <li>
+              Participants expected “Advanced search” under the Search bar.
+            </li>
+            <li>
+              Cart popup and cart page were redundant since they provided
+              basically the same details.
+            </li>
+          </ul>
+        </div>
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
+          If you want to read more about the participants’ feedback, feel free
+          to check out the
+          <a
+            href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3458764519551366527&cot=14"
+            target="_blank"
+            class="text-link"
+            >“Usability Testing - New Design - Round 1” frame</a
+          >
+          on my Miro project page
+        </p>
+      </div>
+    </div>
+
+    <div
+      class="
+        desktop:col-start-4 desktop:col-end-10
+        col-span-full
+        row-span-1
+        self-center
+      "
+    >
+      <div
         class="
-          font-heading
-          text-xl
-          font-medium
-          leading-6
-          text-gray-900 text-center
-          mb-4
+          flex
+          items-center
+          md:px-12
+          sm:px-8
+          md:mx-12
+          px-4
+          h-48
+          bg-gray-300
+          rounded-md
         "
       >
-        Overview
-      </h5>
-      <div
-        class="pr-3 pl-5 desktop:paragraph-regular paragraph-mobile-small"
-      >
-        <ul class="list-disc list-inside">
-          <li>7 <b>unmoderated interviews</b></li>
-          <li>
-            The participants were given <b>6 tasks</b> to complete in the
-            prototype, and they needed to record their reactions via a
-            microphone and, if possible, a webcam.
-          </li>
-          <li>Tools: <b>Lookback</b> and <b>Zoom</b></li>
-          <li>5 participants had a software engineering/testing background</li>
-          <li>2 participants were UX/UI designer students</li>
-        </ul>
-      </div>
-    </div>
-    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
-      <h4 class="h4-medium text-gray-900">Iteration</h4>
-      <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          Based on the feedback from the usability testing, I decided I will
-          implement some changes.
-        </p>
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          However, some of these meant that I had to find new ways to present
-          information, so this was the perfect opportunity for me to make quite
-          a few adjustments to almost every screen of the app. Since I've
-          started working on this project, I've learned a lot about design, and
-          I wanted my prototype to show this.
-        </p>
-        <p class="paragraph-mobile-small font-bold desktop:paragraph-regular-bold">Check out my 
-          <a
-            href="https://www.figma.com/file/XqD0EAVTg9PA58jHaM8ssQ/High-Fidelity-Prototype-Accessibility"
-            class="text-link"
-            target="_blank"
-            >current design</a
-          >.
-        </p>
-      </div>
-    </div>
-
-    <div
-      class="desktop:col-start-1 desktop:col-end-7 text-left col-span-full sm:pl-8"
-    >
-      <h5 class="h5-bold text-gray-900">Better Design System</h5>
-      <div class="md:pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          I have started to rework my design system. Some of my adjustments only
-          meant reorganizing things, e.g. labeling elements differently, while
-          others meant revamping buttons, fields, the tab bar, and the nav bar —
-          to follow Apple's guidelines more closely. This remained a continuous
-          process as I started working on other areas of the app.
-        </p>
-      </div>
-    </div>
-
-    <div
-      class="
-        desktop:col-start-7 desktop:col-end-13
-        col-span-full
-        text-left
-        sm:pl-8
-      "
-    >
-      <h5 class="h5-bold text-gray-900">New browsing</h5>
-      <div class="sm:pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          Redesigned the Browse screen experience to be more like a table of
-          contents, and be more compact and usable even with a large amount of
-          reading material. For this, I went back to my low-fidelity prototype
-          to first create a simplified version.
-        </p>
-      </div>
-    </div>
-
-    <div
-      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left sm:pl-8"
-    >
-      <h5 class="h5-bold text-gray-900">Onboarding</h5>
-      <div class="sm:pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          I wanted to make the process of signing up or signing in as easy as
-          possible, and provide some useful tips for new users about how to use
-          D&D Rulebook's most basic features.
-        </p>
-      </div>
-    </div>
-
-    <div
-      class="
-        desktop:col-start-7 desktop:col-end-13
-        col-span-full
-        text-left
-        sm:pl-8
-      "
-    >
-      <h5 class="h5-bold text-gray-900">New name</h5>
-      <div class="sm:pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          I have renamed the app, because "Lorebook" was misleading.
-        </p>
-      </div>
-    </div>
-
-    <div
-      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left sm:pl-8"
-    >
-      <h5 class="h5-bold text-gray-900">Better Animation</h5>
-      <div class="sm:pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          Altered the animation of the Search Result Modal to indicate more
-          clearly that it’s a modal.
-        </p>
-      </div>
-    </div>
-
-    <div
-      class="
-        desktop:col-start-7 desktop:col-end-13
-        row-span-2
-        col-span-full
-        text-left
-        sm:pl-8
-      "
-    >
-      <h4 class="h5-bold text-gray-900">Cleaner Search page</h4>
-      <div class="sm:pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          The previous version didn't follow Apple's guidelines very closely,
-          and I had to figure out a better way to handle keywords and search
-          results from multiple sources. I opted for table views to do this —
-          it's a solution that's native to iOS, and is capable of presenting
-          large amounts of list-style information.
-        </p>
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          The new "Selected keywords" section's height would be fixed, making it
-          so that the user can add only 3 or 4 keywords — this is something I
-          haven't specified in earlier versions. Since keywords would have an
-          AND relation between them, combined with the free-text search, it
-          should be more than enough.
-        </p>
-      </div>
-    </div>
-
-    <div
-      class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left sm:pl-8"
-    >
-      <h4 class="h5-bold text-gray-900">New tab bar</h4>
-      <div class="sm:pr-4 mt-2">
-        <p class="desktop:paragraph-regular paragraph-mobile-small">
-          Swapped out the icon of the Browse screen to indicate a more book-like
-          function and make it easier for users to recognize. I've also added
-          labels to the icons of the tab bar.
-        </p>
+        <p class="subheading-bold">"Looks much better than the old design.”</p>
       </div>
     </div>
   </div>
 
-  <div class="grid grid-cols-12 gap-4 h-full mb-16">
+    <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
       <picture>
         <source
           media="(max-width: 639px)"
-          srcset="/src/assets/final-app-banner-vertical@2x.jpg"
+          srcset="/src/assets/usability-vertical@2x.jpg"
         />
         <source
           media="(max-width: 767px)"
-          srcset="/src/assets/final-app-banner-vertical@2x.jpg"
+          srcset="/src/assets/usability-vertical@2x.jpg"
         />
         <img
           class="w-full"
-          src="/src/assets/final-app-banner@2x.png"
-          alt="Screens of the finished application."
+          src="/src/assets/usability@2x.jpg"
+          alt="Screenshots of the post-its used to synthesize the insights after the new design's usability test."
         />
       </picture>
     </div>
   </div>
+
+  <div class="study-grid h-auto mb-12">
+    <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left">
+      <h4 class="h4-medium text-gray-900">Iteration</h4>
+      <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-4">
+        <p class="desktop:paragraph-regular paragraph-mobile-small">
+          After I gathered, synthesised and prioritized all the insights, I started to iterate on the design.
+        </p>
+      </div>
+    </div>
+    <div
+      class="
+        sm:px-3 sm:pl-8 sm:pr-4
+        mt-2 desktop:mt-0
+        desktop:col-start-1 desktop:col-end-7
+        col-span-full
+        text-left
+      "
+    >
+      <h5 class="h5-bold mb-4 text-gray-900">Improved header</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        I’ve changed the colours, the hover effect and the general layout of the header, according to participant feedback, to not look that industrial and to improve readability.
+      </p>
+      <h5 class="h5-bold mb-4 text-gray-900">Improved buttons</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        Cleaned up the button styles to better represent their functionality — now the disabled button is truly grey, and there’s a secondary button for non-primary actions, and a tertiary text button for really low-importance tasks, like Empty Cart.
+      </p>
+            <p class="paragraph-mobile-small desktop:paragraph-regular">
+        One of the reasons the CTA to buy an e-book is a secondary button is because I think for GABO Online selling e-books should not be a primary concern — at least not the way they currently sell them, via Dibook, a distributor that presumably takes a cut of the profit. Yes, those are still sales, but probably less profitable than physical books purchased directly from the publisher.
+      </p>
+      <h5 class="h5-bold mb-4 text-gray-900">Advanced Search on mobile</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        It was difficult to find a place for Advanced Search since I didn’t find good examples of what I wanted to do. The easier solution would have been to abandon Advanced Search altogether, and just say that the Search bar will search everywhere, but that’s how the current site operates, and it’s just not that great, producing lots of irrelevant results. (Or lots of possible sales, depending on which side of the argument you stand.) I also knew that I couldn’t keep the link to the advanced search form under the Search bar on mobile, since it would be difficult to tap, and it looked horrendous if I left enough space to be easily tappable.
+      </p>
+
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        So I solved the problem by doing two things:
+      </p>
+      <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4 mt-2">
+            <div class="">
+              <ul
+                class="
+                  paragraph-mobile-small
+                  desktop:paragraph-regular
+                  list-disc
+                "
+              >
+                <li>Users can access Advanced Search from the top of the menu if they want to use it immediately.</li>
+                <li>After searching for something, users will find the link to Advanced Search at the top of the results, should they need it.</li>
+              </ul>
+            </div>
+          </div>
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        It’s not a perfect solution — it requires one extra tap from users — but I think this is where nice design meets usability and results in a compromise.
+      </p>
+      <h5 class="h5-bold mb-4 text-gray-900">Smaller changes</h5>
+      <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4 mt-2">
+            <div class="">
+              <ul
+                class="
+                  paragraph-mobile-small
+                  desktop:paragraph-regular
+                  list-disc
+                "
+              >
+                <li>New cart icon</li>
+                <li>Made error states for the sign-up and sign-in flows bolder, and thus more visible</li>
+                <li>Added purple sidebars to each page of the desktop design, for more, but not overwhelming visual interest</li>
+                <li>Changed the newsletter sign-up form to adhere to GDPR regulations</li>
+                <li>Reworked the footer of the mobile design to be more readable/usable</li>
+                <li>Fixed some alignment issues on the product page</li>
+              </ul>
+            </div>
+          </div>
+    </div>
+
+    <div
+      class="
+        sm:px-3 sm:pl-8 sm:pr-4
+        mt-2 desktop:mt-0
+        desktop:col-start-7 desktop:col-end-13
+        col-span-full
+        text-left
+      "
+    >
+      <h5 class="h5-bold mb-4 text-gray-900">Profile icon</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        I’ve rearranged the header and the menu of the mobile design, so now the user profile can be accessed from the top right of the page.
+      </p>
+      <h5 class="h5-bold mb-4 text-gray-900">Product carousel</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        I got rid of it on the desktop site. While it’s a necessity on mobile since one can’t show too many rows of products to users without a deadly amount of vertical scrolling, on desktop one hardly has this problem. And a carousel would hide important products one might want to be visible. For now, I’m not worried that having a carousel on mobile would affect sales too much since every participant said that they generally shop on their computers, not on their phones. I would of course do further research about this if this project wasn’t a concept.
+      </p>
+            <p class="paragraph-mobile-small desktop:paragraph-regular">
+        One of the reasons the CTA to buy an e-book is a secondary button is because I think for GABO Online selling e-books should not be a primary concern — at least not the way they currently sell them, via Dibook, a distributor that presumably takes a cut of the profit. Yes, those are still sales, but probably less profitable than physical books purchased directly from the publisher.
+      </p>
+      <h5 class="h5-bold mb-4 text-gray-900">Cart page</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        I’ve abandoned the cart page completely. The cart popup is more than enough to show every necessary detail about the products in your cart, so when you click “Checkout”, it starts the checkout process immediately. Users can always open the cart popup again if they needed it.
+      </p>
+      <h5 class="h5-bold mb-4 text-gray-900">Filters & categories</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        I have reworked this functionality in both the desktop and the mobile design since it caused some confusion among the participants. Now when they select some filters, the “Filters” button will show them how many are selected already, and when they choose a category, breadcrumbs will appear on top of the page heading, so that people know where they are at any given time. I was already using breadcrumbs for the product pages, so it made sense to reuse the function, and not come up with a different solution. And breadcrumbs could be used on both the desktop and the mobile site, which would probably make a developer’s job much easier.
+      </p>
+      
+    </div>
+    </div>
+
+<div class="grid grid-cols-12 gap-4 h-full mb-0">
+    <div class="col-span-full">
+      <picture>
+        <source
+          media="(max-width: 639px)"
+          srcset="/src/assets/iteration-vertical@2x.jpg"
+        />
+        <source
+          media="(max-width: 767px)"
+          srcset="/src/assets/iteration-vertical@2x.jpg"
+        />
+        <img
+          class="w-full"
+          src="/src/assets/iteration@2x.jpg"
+          alt="Examples to show how I've iterated on the design both on desktop and mobile."
+        />
+      </picture>
+    </div>
+  </div>
+
 </template>
 
 <script>

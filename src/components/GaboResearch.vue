@@ -1,7 +1,7 @@
 <template>
   <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left">
-      <h3 class="h3-bold text-gray-900 mb-7">Discover</h3>
+      <h3 class="h3-bold text-gray-900 mb-7">Research</h3>
       <div class="desktop:col-start-1 desktop:col-end-7">
         <h4 class="h4-medium text-gray-900">Diagnosing Possible Issues</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
