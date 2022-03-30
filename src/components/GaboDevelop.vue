@@ -55,8 +55,7 @@
 <div class="study-grid h-auto">
   <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left mb-12">
     <div class="">
-          <h4 class="h4-medium text-gray-900">Ideation</h4>
-          <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
+          <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2 desktop:mt-0">
             <h5 class="h5-bold mb-4 mt-6 text-gray-900">Sitemap</h5>
             <p class="paragraph-mobile-small desktop:paragraph-regular">
               One thing that helped me tremendously in my ideation was creating a sitemap of the current site. Nothing fancy, just some post-its in a kind of wireframe, representing each page of the site. This also revealed some previously unknown issues, like inconsistent naming on the profile page.
