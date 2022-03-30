@@ -4,7 +4,7 @@
     <GaboHeader/>
     <GaboBackground/>
     <GaboProcess/>
-    <GaboDiscover/>
+    <GaboResearch/>
     <GaboDefine/>
     <GaboDevelop/>
     <GaboDeliver/>
@@ -21,7 +21,7 @@ import GaboConclusion from './components/GaboConclusion.vue'
 import GaboDefine from './components/GaboDefine.vue'
 import GaboDeliver from './components/GaboDeliver.vue'
 import GaboDevelop from './components/GaboDevelop.vue'
-import GaboDiscover from './components/GaboDiscover.vue'
+import GaboResearch from './components/GaboResearch.vue'
 import GaboProcess from './components/GaboProcess.vue'
 
 export default {
@@ -32,7 +32,7 @@ export default {
     GaboDefine,
     GaboDeliver,
     GaboDevelop,
-    GaboDiscover,
+    GaboResearch,
     GaboProcess,
     GaboConclusion
   }
