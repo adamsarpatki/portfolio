@@ -254,7 +254,7 @@
         </p>
       </div>
     </div>
-    <div class="desktop:col-start-7 desktop:col-end-13 col-span-full row-span-1 self-center">
+    <div class="desktop:col-start-7 desktop:col-end-13 col-start-3 col-end-11 col-span-full row-span-1 self-center">
       <div
         class="
           flex

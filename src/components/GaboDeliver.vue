@@ -98,6 +98,7 @@
     <div
       class="
         desktop:col-start-4 desktop:col-end-10
+        col-start-3 col-end-11
         col-span-full
         row-span-1
         self-center
@@ -245,9 +246,8 @@
     <div
       class="
         sm:px-3
-        pl-8
-        sm:pl-14 sm:pr-4
-        mt-16
+        sm:pl-8 sm:pr-4
+        desktop:mt-16
         desktop:col-start-7 desktop:col-end-13
         col-span-full
         text-left
@@ -302,6 +302,7 @@
 
     <div
       class="
+        col-start-3 col-end-11
         desktop:col-start-4 desktop:col-end-10
         col-span-full
         row-span-1
