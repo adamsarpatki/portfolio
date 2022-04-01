@@ -3,7 +3,7 @@
     <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left mb-12">
       <h3 class="h3-bold text-gray-900 mb-7">Development</h3>
       <div class="">
-        <h4 class="h4-medium text-gray-900">Persona & Audience</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Persona & Audience</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             I’ve created a persona to make it easier to summarise who I was designing for. GABO Online has such a wide audience, from teenagers to grandparents that it’s not easy to pin down who their main target is — especially since I didn’t have access to their statistics, I could only deduce some things by looking at their site. So I’ve written up a persona based on my research participants and their feedback.
@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="">
-        <h4 class="h4-medium text-gray-900">Ideation</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Ideation</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <h5 class="h5-bold mb-4 mt-6 text-gray-900">Inspiration</h5>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
@@ -56,7 +56,7 @@
   <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left mb-12">
     <div class="">
           <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2 desktop:mt-0">
-            <h5 class="h5-bold mb-4 mt-6 text-gray-900">Sitemap</h5>
+            <h5 class="h5-bold mb-4 text-gray-900">Sitemap</h5>
             <p class="paragraph-mobile-small desktop:paragraph-regular">
               One thing that helped me tremendously in my ideation was creating a sitemap of the current site. Nothing fancy, just some post-its in a kind of wireframe, representing each page of the site. This also revealed some previously unknown issues, like inconsistent naming on the profile page.
             </p>

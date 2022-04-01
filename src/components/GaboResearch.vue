@@ -3,7 +3,7 @@
     <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Research</h3>
       <div class="desktop:col-start-1 desktop:col-end-7">
-        <h4 class="h4-medium text-gray-900">Diagnosing Possible Issues</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Diagnosing Possible Issues</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             First and foremost, I opened up GABO Online and started taking
@@ -87,7 +87,7 @@
       </div>
 
       <div class="desktop:col-start-1 desktop:col-end-7">
-        <h4 class="h4-medium text-gray-900">Usability Testing</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Usability Testing</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <h5 class="h5-bold mb-4 mt-6 text-gray-900">Method</h5>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
@@ -234,7 +234,7 @@
   <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full row-start-1 text-left">
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-        <h5 class="h5-bold mb-4 mt-6 text-gray-900">
+        <h5 class="h5-bold mb-4 text-gray-900">
           Insights About GABO Online
         </h5>
         <p class="paragraph-mobile-small desktop:paragraph-regular">
@@ -321,7 +321,7 @@
   <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-13 col-span-full row-start-1 text-left">
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-        <h5 class="h5-bold mb-4 mt-6 text-gray-900">
+        <h5 class="h5-bold mb-4 text-gray-900">
           Customer Service
         </h5>
         <p class="paragraph-mobile-small desktop:paragraph-regular">
@@ -355,7 +355,7 @@
       "
     >
       <div class="desktop:col-start-1 desktop:col-end-7">
-        <h4 class="h4-medium text-gray-900">Competitive Analysis</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Competitive Analysis</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             While working on affinity mapping, I’ve examined the websites of 4 competitors: Libri, Bookline, Líra and Agave Könyvek. I’ve analysed their home page, sign-up/sign-in process, checkout process, search and filtering options, product page, footer, and - if they had the option - how they handled requests for out-of-stock books. During this process, I once again took an abundance of screenshots, then used post-its to highlight positive and negative elements on each page, just like I did when analysing GABO Online at the beginning.
@@ -375,7 +375,7 @@
         </div>
       </div>
       <div class="desktop:col-start-1 desktop:col-end-7">
-        <h4 class="h4-medium text-gray-900">Other Possible Steps</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Other Possible Steps</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             If I had access to GABO’s real users, I would have run an online survey about their shopping habits, to find out their needs and pain points, especially since the group’s target audience is so wide — this step shouldn’t be missed if someone starts to redesign and rebrand GABO Online.

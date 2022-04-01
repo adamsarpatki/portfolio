@@ -3,7 +3,7 @@
     <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Delivery</h3>
       <div class="">
-        <h4 class="h4-medium text-gray-900">Mood Board</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Mood Board</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             While working on my low-fidelity prototype, I started to think about
@@ -40,7 +40,7 @@
         </div>
       </div>
       <div class="">
-        <h4 class="h4-medium text-gray-900">High-Fidelity Prototype</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">High-Fidelity Prototype</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             Next, I started the longest phase of the design process: creating a
@@ -145,7 +145,7 @@
 
   <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
-      <h4 class="h4-medium text-gray-900">Testing</h4>
+      <h4 class="h4-medium mb-4 text-gray-900">Testing</h4>
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           At the beginning of February, I’ve scheduled 5 unmoderated interviews
@@ -348,7 +348,7 @@
 
   <div class="study-grid h-auto mb-12">
     <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left">
-      <h4 class="h4-medium text-gray-900">Iteration</h4>
+      <h4 class="h4-medium mb-4 text-gray-900">Iteration</h4>
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-4">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           After I gathered, synthesised and prioritized all the insights, I started to iterate on the design.

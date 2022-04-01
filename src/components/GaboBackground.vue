@@ -36,7 +36,7 @@
       "
     >
       <div class="">
-        <h4 class="h4-medium text-gray-900">Timeline</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Timeline</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             About 4.5 months, from November 2021 to March 2022.
@@ -45,7 +45,7 @@
       </div>
 
       <div class="">
-        <h4 class="h4-medium text-gray-900">My Role</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">My Role</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             I am the sole designer on this project, doing everything myself from
@@ -64,7 +64,7 @@
     >
       <h3 class="h3-bold text-gray-900 mb-7">The Problems</h3>
       <div class="desktop:col-start-1 desktop:col-end-7">
-        <h4 class="h4-medium text-gray-900">Problem #1</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Problem #1</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             The design of GABO’s current online shop,
@@ -91,7 +91,7 @@
       </div>
     </div>
     <div class="desktop:pt-72 desktop:col-start-7 desktop:col-end-13 text-left">
-      <h4 class="h4-medium text-gray-900">Problem #2</h4>
+      <h4 class="h4-medium mb-4 text-gray-900">Problem #2</h4>
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           The publishing group doesn’t have a unified branding. Their online
@@ -146,7 +146,7 @@
     >
       <h3 class="h3-bold text-gray-900 mb-7">Solution</h3>
       <div class="desktop:col-start-1 desktop:col-end-7">
-        <h4 class="h4-medium text-gray-900">Disclaimer</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Disclaimer</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             First and foremost, the solution I propose here is a concept. I wasn’t contacted by anyone at GABO to do this project, I did everything in my free time, and for no compensation whatsoever. During the project I paid special attention not to infringe on GABO’s copyright in any way - that’s why I created fictitious book titles and author names for my prototype. Also, I was GABO’s social media manager for a couple of years, and I probably know the site better than most users, but I’ve made a conscious effort to not base anything on my biases and to not fix anything that’s not truly broken.
@@ -154,7 +154,7 @@
         </div>
       </div>
       <div class="desktop:col-start-1 desktop:col-end-7">
-        <h4 class="h4-medium text-gray-900">Scope</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Scope</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             For a publisher, having a nice online shop is important — when customers buy books directly from you, you get to keep every cent, so it’s in your interest your shop is nice and usable. With books, it’s also difficult, because once you print them, you can’t sell those copies for more money than the price on their back covers, so you cannot make up the difference your distributors keep from the profit.
@@ -168,7 +168,7 @@
         </div>
       </div>
       <div class="desktop:col-start-1 desktop:col-end-7">
-        <h4 class="h4-medium text-gray-900">Branding</h4>
+        <h4 class="h4-medium mb-4 text-gray-900">Branding</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             Even though branding wasn’t my main concern, I had jotted down some thoughts after checking out some of GABO’s competitors. As one of Hungary’s largest publishing groups, <a
