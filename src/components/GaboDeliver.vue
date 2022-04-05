@@ -126,7 +126,7 @@
 
   <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
-      <picture>
+      <figure><picture>
         <source
           media="(max-width: 639px)"
           srcset="/src/assets/checkout-vertical@2x.jpg"
@@ -140,7 +140,7 @@
           src="/src/assets/checkout@2x.jpg"
           alt="Frames of the checkout flow, both on desktop and mobile."
         />
-      </picture>
+      <figcaption class="caption">Frames of the checkout flow, both on desktop and mobile.</figcaption></picture></figure>
     </div>
   </div>
 
@@ -329,7 +329,7 @@
 
     <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
-      <picture>
+      <figure><picture>
         <source
           media="(max-width: 639px)"
           srcset="/src/assets/usability-vertical@2x.jpg"
@@ -342,8 +342,8 @@
           class="w-full"
           src="/src/assets/usability@2x.jpg"
           alt="Screenshots of the post-its used to synthesize the insights after the new design's usability test."
-        />
-      </picture>
+        /><figcaption class="caption">Screenshots of the post-its used to synthesize the insights after the new design's usability test.</figcaption>
+      </picture></figure>
     </div>
   </div>
 
@@ -454,9 +454,9 @@
     </div>
     </div>
 
-<div class="grid grid-cols-12 gap-4 h-full mb-0">
+<div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
-      <picture>
+      <figure><picture>
         <source
           media="(max-width: 639px)"
           srcset="/src/assets/iteration-vertical@2x.jpg"
@@ -469,8 +469,8 @@
           class="w-full"
           src="/src/assets/iteration@2x.jpg"
           alt="Examples to show how I've iterated on the design both on desktop and mobile."
-        />
-      </picture>
+        /><figcaption class="caption">Examples to show how I've iterated on the design both on desktop and mobile.</figcaption>
+      </picture></figure>
     </div>
   </div>
 

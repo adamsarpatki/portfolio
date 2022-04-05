@@ -94,6 +94,10 @@
         @apply font-subheading text-xl font-bold text-gray-900
     }
 
+    .caption {
+        @apply text-center text-sm font-body sm:px-8 desktop:p-0 mt-1
+    }
+
     .footer-regular {
         @apply font-body text-tiny
     }

@@ -34,7 +34,7 @@
 
 <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
-      <picture>
+      <figure><picture>
         <source
           media="(max-width: 639px)"
           srcset="/src/assets/sitemap-vertical@2x.jpg"
@@ -47,8 +47,8 @@
           class="w-full"
           src="/src/assets/sitemap@2x.jpg"
           alt="Screenshots of the sitemaps: one for the current design, and one for my new one."
-        />
-      </picture>
+        /><figcaption class="caption">Screenshots of the sitemaps: one for the current design, and one for my new one.</figcaption>
+      </picture></figure>
     </div>
   </div>
 
@@ -83,7 +83,7 @@
 
 <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
-      <picture>
+      <figure><picture>
         <source
           media="(max-width: 639px)"
           srcset="/src/assets/low-fi-vertical@2x.jpg"
@@ -96,8 +96,8 @@
           class="w-full"
           src="/src/assets/low-fi@2x.jpg"
           alt="Frames from the low-fidelity prototype, both the desktop and the mobile versions."
-        />
-      </picture>
+        /><figcaption class="caption">Frames from the low-fidelity prototype, both the desktop and the mobile versions.</figcaption>
+      </picture></figure>
     </div>
   </div>
 

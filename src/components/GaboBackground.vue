@@ -116,6 +116,7 @@
 
   <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
+      <figure>
       <picture>
         <source
           media="(max-width: 639px)"
@@ -131,6 +132,7 @@
           alt="Screenshots of the current design of GABO Online on desktop and on mobile."
         />
       </picture>
+      <figcaption class="caption">Screenshots of the current design of GABO Online on desktop and on mobile.</figcaption></figure>
     </div>
   </div>
 
@@ -225,9 +227,9 @@
     </div>
   </div>
 
-  <div class="grid grid-cols-12 gap-4 h-full mb-0">
+  <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
-      <picture>
+      <figure><picture>
         <source
           media="(max-width: 639px)"
           srcset="/src/assets/desktop-vertical@2x.jpg"
@@ -241,7 +243,7 @@
           src="/src/assets/desktop@2x.jpg"
           alt="Screenshots of my redesign of GABO Online on desktop and on mobile."
         />
-      </picture>
+      <figcaption class="caption">Screenshots of my redesign of GABO Online on desktop and on mobile.</figcaption></picture></figure>
     </div>
   </div>
 </template>

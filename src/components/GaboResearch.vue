@@ -213,7 +213,7 @@
 
   <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
-      <picture>
+      <figure><picture>
         <source
           media="(max-width: 639px)"
           srcset="/src/assets/userinfo-vertical@2x.jpg"
@@ -227,7 +227,8 @@
           src="/src/assets/userinfo@2x.jpg"
           alt="Post-it notes showing information about the usability test participants."
         />
-      </picture>
+      <figcaption class="caption">Post-it notes showing information about the usability test participants.</figcaption>
+      </picture></figure>
     </div>
   </div>
 
@@ -300,7 +301,7 @@
 
   <div class="grid grid-cols-12 gap-4 h-full mb-12">
     <div class="col-span-full">
-      <picture>
+      <figure><picture>
         <source
           media="(max-width: 639px)"
           srcset="/src/assets/affinitymap-vertical@2x.jpg"
@@ -314,7 +315,8 @@
           src="/src/assets/affinitymap@2x.jpg"
           alt="Post-it notes showing information about the usability test insights."
         />
-      </picture>
+      <figcaption class="caption">Post-it notes showing information about the usability test insights.</figcaption>
+      </picture></figure>
     </div>
   </div>
 
