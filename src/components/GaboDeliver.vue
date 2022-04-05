@@ -286,7 +286,8 @@
             </li>
           </ul>
         </div>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+      </div>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
           If you want to read more about the participants’ feedback, feel free
           to check out the
           <a
@@ -297,7 +298,6 @@
           >
           on my Miro project page
         </p>
-      </div>
     </div>
 
     <div

@@ -286,7 +286,7 @@
             <li>The sign-up process has some redundant steps, inconsistent copy, and is sometimes hard to understand and difficult to read. Participants were also missing some ease of use features, like automatically outputting the city name after inputting a ZIP code, or showing how strong a password is. Some features also confused them, since they didn’t follow the Hungarian standard, like asking their first name before their family name, or asking for their date of birth in the DD/MM/YYYY format.</li>
             <li>Not every detail about payment/delivery can be easily found, and these details are not represented well.</li>
             <li>The contact form is in an intuitive location, but it could be more usable. Participants felt that more info could be on this page, e.g. other ways to contact the publisher.</li>
-            <li>pNot having any filtering options when searching or browsing caused some headaches to participants. They also felt that the available sorting options are not satisfactory.</li>
+            <li>Not having any filtering options when searching or browsing caused some headaches to participants. They also felt that the available sorting options are not satisfactory.</li>
             <li>Some users found the current search functionality (autocomplete) and the results page pleasing.</li>
             <li>Participants felt the way the site handles alert requests for out-of-stock books is redundant and frustrating.</li>
             <li>The current product page seems too complex while missing some important features, e.g. clickable author name, or input stepper to select multiple copies.</li>

@@ -56,9 +56,9 @@
   <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left mb-12">
     <div class="">
           <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2 desktop:mt-0">
-            <h5 class="h5-bold mb-4 text-gray-900">Sitemap</h5>
+            <h5 class="h5-bold mb-4 text-gray-900">Information Architecture</h5>
             <p class="paragraph-mobile-small desktop:paragraph-regular">
-              One thing that helped me tremendously in my ideation was creating a sitemap of the current site. Nothing fancy, just some post-its in a kind of wireframe, representing each page of the site. This also revealed some previously unknown issues, like inconsistent naming on the profile page.
+              <b>Sitemap.</b> One thing that helped me tremendously in my ideation was creating a sitemap of the current site. Nothing fancy, just some post-its in a kind of wireframe, representing each page of the site. This also revealed some previously unknown issues, like inconsistent naming on the profile page.
             </p>
             <p class="paragraph-mobile-small desktop:paragraph-regular">
               I wanted to simplify things. No sidebar, just a header and a footer. And, if it could be avoided, no unnecessary redundancy.
@@ -66,9 +66,8 @@
             <p class="paragraph-mobile-small desktop:paragraph-regular">
               Feel free to check out my <a href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3074457368210395158&cot=14" target="_blank" class="text-link">my sitemap frames on my Miro project page</a> for more details.
             </p>
-            <h5 class="h5-bold mb-4 mt-6 text-gray-900">Card sorting or tree testing?</h5>
-            <p class="paragraph-mobile-small desktop:paragraph-regular">
-              For a while, I played around with the idea of doing some card sorting or tree testing sessions, but I eventually gave up on these, as I realised the site is structured quite simply, and I didn’t think it warranted the time and effort of card sorting/tree testing sessions, even if I had to rearrange some things later on.
+             <p class="paragraph-mobile-small desktop:paragraph-regular">
+              <b>Card sorting or tree testing?</b> For a while, I played around with the idea of doing some card sorting or tree testing sessions, but I eventually gave up on these, as I realised the site is structured quite simply, and I didn’t think it warranted the time and effort of card sorting/tree testing sessions, even if I had to rearrange some things later on.
             </p>
             <p class="paragraph-mobile-small desktop:paragraph-regular">
               One of the more complex parts of the website’s infrastructure might be how the products are sorted into categories, but that’s traditionally done by the publisher (or the editor of a given book) — and, in a way, that process is standardised to fit in with other retailers’ systems, like Bookline’s or Libri’s, and it’s not unique to GABO. How these subjects or categories are divided could probably be improved in some cases, but that should be a part of a much larger UX project.
