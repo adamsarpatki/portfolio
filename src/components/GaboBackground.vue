@@ -67,8 +67,8 @@
             <a href="https://www.gabo.hu/hu/" class="text-link" target="_blank"
               >GABO Online</a
             >
-            is severely outdated. It doesn’t look or feel like a truly modern
-            site, and it’s not responsive, so on mobile, you only get the
+            is <b>severely outdated</b>. It doesn’t look or feel like a truly modern
+            site, and it’s <b>not responsive</b>, so on mobile, you only get the
             desktop site, really zoomed out.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
@@ -92,7 +92,7 @@
         <h4 class="h4-medium mb-4 text-gray-900">Problem #2</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            The publishing group doesn’t have a unified branding. Their online
+            The publishing group <b>doesn’t have a unified branding</b>. Their online
             shop looks vastly different from their social media presence, Ciceró
             even has
             <a
@@ -104,8 +104,8 @@
             where you can’t buy anything, it just advertises their books. Akkord
             doesn’t have either a website or a social media account. GABO’s
             purple-black logo is not present on GABO Online, only on their
-            socials. Also, it’s not immediately obvious that these three
-            publishers operate as one group. This discrepancy could be jarring
+            socials. Also, <b>it’s not immediately obvious that these three
+            publishers operate as one group</b>. This discrepancy could be jarring
             for (new) customers and should be solved. (I can also imagine how
             difficult it makes things from a marketing perspective.)
           </p>
@@ -150,7 +150,7 @@
         <h4 class="h4-medium mb-4 text-gray-900">Disclaimer</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            First and foremost, the solution I propose here is a concept. I
+            First and foremost, the solution I propose here is <b>a concept</b>. I
             wasn’t contacted by anyone at GABO to do this project, I did
             everything in my free time, and for no compensation whatsoever.
             During the project I paid special attention not to infringe on
@@ -176,8 +176,8 @@
             profit.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            I wanted to focus mostly on redesigning GABO Online (for desktop and
-            for mobile), and, to a lesser extent, on branding. I’m not a graphic
+            <b>I wanted to focus mostly on redesigning GABO Online (for desktop and
+            for mobile), and, to a lesser extent, on branding.</b> I’m not a graphic
             designer, so I felt like I shouldn’t spend too much time on the
             latter.
           </p>
@@ -187,7 +187,7 @@
             page needed some extra features, like a sign-up flow, and after the
             product page, creating the cart popup and the first stage of the
             checkout process seemed like logical next steps. So this project
-            grew a bit as time went on...
+            grew quite a bit as time went on...
           </p>
         </div>
       </div>
@@ -197,11 +197,11 @@
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             Even though branding wasn’t my main concern, I had jotted down some
             thoughts after checking out some of GABO’s competitors. As one of
-            Hungary’s largest publishing groups,
+            Hungary’s largest publishing groups, <b>
             <a href="https://libricsoport.hu" class="text-link" target="_blank"
               >Libri</a
             >
-            should be an example to follow, at least in many ways. This group
+            should be an example to follow</b>, at least in many ways. This group
             has 5 publishers under its name, and while each of their websites is
             unique, their design is basically the same. So when you open one,
             you can immediately see that it’s a part of a larger entity. And
@@ -210,11 +210,11 @@
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             I think GABO Online should become a main online shop like that -
-            just like it is now, while also having secondary sites for the three
-            publishers, introducing them and their books, authors, translators,
+            just like it is now, while also having <b>secondary sites for the three
+            publishers</b>, introducing them and their books, authors, translators,
             editors. Each site could be unique while being similar enough to
-            lessen the users’ cognitive load. These changes would make the
-            publishing group’s online presence more personal and I think that
+            <b>lessen the users’ cognitive load</b>. These changes would <b>make the
+            publishing group’s online presence more personal</b> and I think that
             would be invaluable.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
