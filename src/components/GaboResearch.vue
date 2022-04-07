@@ -348,6 +348,28 @@
         </p>
       </div>
     </div>
+  </div>
+<div class="grid grid-cols-12 gap-4 h-full mb-12">
+    <div class="col-span-full">
+      <figure><picture>
+        <source
+          media="(max-width: 639px)"
+          srcset="/src/assets/gabo-socials-vertical@2x.jpg"
+        />
+        <source
+          media="(max-width: 767px)"
+          srcset="/src/assets/gabo-socials-vertical@2x.jpg"
+        />
+        <img
+          class="w-full"
+          src="/src/assets/gabo-socials@2x.jpg"
+          alt="Screenshots of GABO's and Ciceró's Facebook pages and Ciceró's website, showing their various contact details."
+        />
+      <figcaption class="caption">Screenshots of GABO's and Ciceró's Facebook pages and Ciceró's website, showing their various contact details.</figcaption>
+      </picture></figure>
+    </div>
+  </div>
+    <div class="study-grid h-auto mb-12">
     <div
       class="
         desktop:col-start-1 desktop:col-end-13
@@ -385,7 +407,8 @@
         </div>
       </div>
     </div>
-  </div>
+    </div>
+
 </template>
 
 <script>
