@@ -11,6 +11,9 @@
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             I also knew that since their audience is so varied, my redesign shouldn’t alienate anyone. Therefore I’ve aimed for a more minimalistic approach.
           </p>
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
+            Feel free to check out <a href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3458764514616321658&cot=14" target="_blank" class="text-link">the persona on my Miro project page</a> for more details.
+          </p>
         </div>
       </div>
       <div class="">
@@ -25,7 +28,7 @@
           </p>
           <h5 class="h5-bold mb-4 mt-6 text-gray-900">Sketches</h5>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            After gathering inspiration, I started sketching my ideas on paper. Interestingly enough, not the home page was the most challenging, but the product page and the product cards. Product cards needed to convey a lot of information in a very tight space, even on desktop, so I’ve sketched different versions until I was kind of happy with them. These were also the hardest to design — they took the longest since they are just so finicky. However, one of my testers said when he saw how my design showed the search results: "You did a phenomenal job on this.” So I think the time and effort was worth it.
+            After gathering inspiration, I started sketching my ideas on paper. Interestingly enough, not the home page was the most challenging, but the product page and the product cards. <b>Product cards needed to convey a lot of information in a very tight space, even on desktop, so I’ve sketched different versions until I was kind of happy with them.</b> These were also the hardest to design — they took the longest since they are just so finicky. However, one of my testers said when he saw how my design showed the search results: <b>"You did a phenomenal job on this.”</b> So I think the time and effort was worth it.
           </p>
         </div>
       </div>
@@ -58,7 +61,7 @@
           <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2 desktop:mt-0">
             <h5 class="h5-bold mb-4 text-gray-900">Information Architecture</h5>
             <p class="paragraph-mobile-small desktop:paragraph-regular">
-              <b>Sitemap.</b> One thing that helped me tremendously in my ideation was creating a sitemap of the current site. Nothing fancy, just some post-its in a kind of wireframe, representing each page of the site. This also revealed some previously unknown issues, like inconsistent naming on the profile page.
+              <b>Sitemap.</b> One thing that helped me tremendously in my ideation was creating a sitemap of the current site. Nothing fancy, just some post-its in a kind of wireframe, representing each page of the site. This also <b>revealed some previously unknown issues, like inconsistent naming on the profile page</b>.
             </p>
             <p class="paragraph-mobile-small desktop:paragraph-regular">
               I wanted to simplify things. No sidebar, just a header and a footer. And, if it could be avoided, no unnecessary redundancy.

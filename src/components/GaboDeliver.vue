@@ -13,17 +13,17 @@
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             I’ve also realised, quite early on in the process, that the colour
-            scheme of the design will be difficult to figure out. The current
-            colours of GABO and Ciceró just don’t go together. At least I
+            scheme of the design will be difficult to figure out. <b>The current
+            colours of GABO and Ciceró just don’t work well together.</b> At least I
             couldn’t figure out a good solution. (I probably could have solved
             this problem more easily had I chosen a different hue of purple and
             green.)
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             After realising GABO Online currently has 5 different fonts (Arial,
-            Helvetica, Verdana, Times New Roman, Questrial Regular), I wanted to
-            simplify things in this regard, too. I’ve opted for a single font
-            for the headers and the text — Work Sans. It’s nothing fancy, but I
+            Helvetica, Verdana, Times New Roman, Questrial Regular), <b>I wanted to
+            simplify things</b> in this regard, too. <b>I’ve opted for a single font
+            for the headers and the text — Work Sans.</b> It’s nothing fancy, but I
             think that’s why it’s perfect: there is already so much going on on
             each page that some simplicity is important.
           </p>
@@ -44,9 +44,9 @@
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             Next, I started the longest phase of the design process: creating a
-            working, high-fidelity prototype. Creating font and colour styles
-            was my first step. To simplify matters, I finally chose purple as my
-            main colour — in the exact hue that GABO uses on social media —, and
+            working, high-fidelity prototype. <b>Creating font and colour styles
+            was my first step.</b> To simplify matters, I finally chose <b>purple</b> as my
+            main colour — in <b>the exact hue that GABO uses on social media</b> —, and
             went from there: I’ve selected multiple variants for the primary
             colour, the secondary colour, and the colours of the error and
             success states, while also selecting various shades of grey as well.
@@ -63,7 +63,7 @@
             >.
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
-            I’ve designed a desktop and a mobile version. For the latter, I’ve
+            <b>I’ve designed a desktop and a mobile version.</b> For the latter, I’ve
             opted for the screen size of a smaller iPhone, like an iPhone 7,
             because that’s what I had on hand to check if my design looked good
             or not on a real device.
@@ -71,9 +71,9 @@
           <p class="desktop:paragraph-regular paragraph-mobile-small">
             I quickly realised that some parts of my low-fi prototype were way
             too small, so I had to work my way through some of these issues. All
-            in all, not much of my first plans changed fundamentally. While
-            prototyping I’ve also been doing constant research to find the most
-            usable solution for all my questions — reading articles, looking at
+            in all, <b>not much of my first plans changed fundamentally</b>. While
+            prototyping I’ve also been doing <b>constant research to find the most
+            usable solution for all my questions</b> — reading articles, looking at
             competitors of GABO Online, and checking Baymard Institute’s
             resources.
           </p>
@@ -86,8 +86,8 @@
             on desktop as well as on mobile.
           </p>
           <p class="desktop:paragraph-regular paragraph-mobile-small">
-            It was my overall aim to design a site that required little or no
-            effort to learn to use after using either the desktop or the mobile
+            It was my overall aim to <b>design a site that required little or no
+            effort to learn to use</b> after using either the desktop or the mobile
             version. After running usability tests on the high-fidelity
             prototype, I think I was successful in this regard.
           </p>
@@ -149,7 +149,7 @@
       <h4 class="h4-medium mb-4 text-gray-900">Testing</h4>
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
-          At the beginning of February, I’ve scheduled 5 unmoderated interviews
+          At the beginning of February, I’ve scheduled <b>5 unmoderated interviews</b>
           with the users who previously tested the current (or old) site of GABO
           Online. This way they had some insight into how much has changed
           during the redesign. And, thankfully, they were more than happy to
@@ -157,11 +157,11 @@
           appreciated.
         </p>
         <p class="desktop:paragraph-regular paragraph-mobile-small">
-          I’ve had one more conversation — with my UX/UI designer friend who
+          I’ve had one more conversation — <b>with my UX/UI designer friend</b> who
           couldn’t participate in this round of usability testing, so when I
           started implementing my changes based on the results of said testing,
-          we had a two-hour-long talk, going through everything I had done,
-          examining possibilities etc. This opportunity provided me with some
+          <b>we had a two-hour-long talk, going through everything I had done,
+          examining possibilities etc.</b> This opportunity provided me with some
           invaluable insights.
         </p>
       </div>
@@ -187,7 +187,7 @@
           class="
             font-heading
             text-xl
-            font-medium
+            font-bold
             leading-6
             text-gray-900 text-center
             mb-4
@@ -221,7 +221,7 @@
     >
       <h5 class="h5-bold mb-4 mt-6 text-gray-900">Insights</h5>
       <p class="paragraph-mobile-small desktop:paragraph-regular">
-        Overall, participants liked my design. They found no blocking issues and
+        Overall, participants liked my design. They found <b>no blocking issues</b> and
         nothing that seemed too annoying. The new site even passed the
         accessibility test: they all used their own computers with different
         screen sizes, and all of them could see and read everything without
@@ -230,12 +230,12 @@
         okay to him.
       </p>
       <p class="paragraph-mobile-small desktop:paragraph-regular">
-        There were, however, some issues I had to address in the next iteration.
+        There were, however, <b>some issues I had to address in the next iteration</b>.
         Since there was a lot of feedback from participants, after I synthesized
         the insights, I, again, colour coded them: red for high priority, orange
         for medium priority, yellow for low priority issues, and green for
-        things that were good and didn’t need changing. Then I’ve arranged the
-        non-green post-its on a Time/Importance matrix — obviously, their colour
+        things that were good and didn’t need changing. Then <b>I’ve arranged the
+        non-green post-its on a Time/Importance matrix</b> — obviously, their colour
         already showed their importance, but this way I could prioritise them
         better. It was an imperfect solution since some tasks needed more or
         less time than I predicted, either way, it made sense of the chaos, and
@@ -254,34 +254,34 @@
       "
     >
       <p class="paragraph-mobile-small desktop:paragraph-regular">
-        Key insights:
+        <b>Key insights:</b>
       </p>
       <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4">
         <div class="">
           <ul
             class="paragraph-mobile-small desktop:paragraph-regular list-disc"
           >
-            <li>The site is much better than the old design.</li>
+            <li>The site is <b>much better than the old design</b>.</li>
             <li>
               It’s easy to switch between the desktop and mobile sites — if you
               know one, you know the other.
             </li>
             <li>
-              The site is intuitive to use, nothing is in a very weird location.
+              The site is <b>intuitive</b> to use, nothing is in a very weird location.
             </li>
             <li>No blocking issues were present.</li>
             <li>
-              The site is a bit top-heavy, the header could be arranged better.
+              The site is <b>a bit top-heavy</b>, the header could be arranged better.
               Looks a bit too industrial.
             </li>
             <li>
-              Participants expected the Profile icon in the mobile header.
+              Participants expected the <b>Profile icon</b> in the mobile header.
             </li>
             <li>
-              Participants expected “Advanced search” under the Search bar.
+              Participants expected <b>“Advanced search”</b> under the Search bar.
             </li>
             <li>
-              Cart popup and cart page were redundant since they provided
+              <b>Cart popup and cart page were redundant</b> since they provided
               basically the same details.
             </li>
           </ul>
@@ -367,7 +367,7 @@
     >
       <h5 class="h5-bold mb-4 text-gray-900">Improved header</h5>
       <p class="paragraph-mobile-small desktop:paragraph-regular">
-        I’ve changed the colours, the hover effect and the general layout of the header, according to participant feedback, to not look that industrial and to improve readability.
+        I’ve changed the colours, the hover effect and the general layout of the header, according to participant feedback, to lose the industrial look and improve readability.
       </p>
       <h5 class="h5-bold mb-4 text-gray-900">Improved buttons</h5>
       <p class="paragraph-mobile-small desktop:paragraph-regular">
@@ -401,6 +401,35 @@
         <p class="paragraph-mobile-small desktop:paragraph-regular">
         It’s not a perfect solution — it requires one extra tap from users — but I think this is where nice design meets usability and results in a compromise.
       </p>
+      
+    </div>
+
+    <div
+      class="
+        sm:px-3 sm:pl-8 sm:pr-4
+        mt-2 desktop:mt-0
+        desktop:col-start-7 desktop:col-end-13
+        col-span-full
+        text-left
+      "
+    >
+      <h5 class="h5-bold mb-4 text-gray-900">Profile icon</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        I’ve rearranged the header and the menu of the mobile design, so now the user profile can be accessed from the top right of the page.
+      </p>
+      <h5 class="h5-bold mb-4 text-gray-900">Product carousel</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        I got rid of it on the desktop site. While it’s a necessity on mobile since one can’t show too many rows of products to users without a deadly amount of vertical scrolling, on desktop one hardly has this problem. And a carousel would hide important products one might want to be visible. For now, I’m not worried that having a carousel on mobile would affect sales too much since every participant said that they generally shop on their computers, not on their phones. I would of course do further research about this if this project wasn’t a concept.
+      </p>
+
+      <h5 class="h5-bold mb-4 text-gray-900">Cart page</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        I’ve abandoned the cart page. The cart popup is more than enough to show every necessary detail about the products in your cart, so when you click “Checkout”, it starts the checkout process immediately. Users can always open the cart popup again if they needed it.
+      </p>
+      <h5 class="h5-bold mb-4 text-gray-900">Filters & categories</h5>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">
+        I have reworked this functionality in both the desktop and the mobile design since it caused some confusion among the participants. Now when they select some filters, the “Filters” button will show them how many are selected already, and when they choose a category, breadcrumbs will appear on top of the page heading, so that people know where they are at any given time. I was already using breadcrumbs for the product pages, so it made sense to reuse the function, and not come up with a different solution. And breadcrumbs could be used on both the desktop and the mobile site, which would probably make a developer’s job much easier.
+      </p>
       <h5 class="h5-bold mb-4 text-gray-900">Smaller changes</h5>
       <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4 mt-2">
             <div class="">
@@ -421,37 +450,6 @@
             </div>
           </div>
     </div>
-
-    <div
-      class="
-        sm:px-3 sm:pl-8 sm:pr-4
-        mt-2 desktop:mt-0
-        desktop:col-start-7 desktop:col-end-13
-        col-span-full
-        text-left
-      "
-    >
-      <h5 class="h5-bold mb-4 text-gray-900">Profile icon</h5>
-      <p class="paragraph-mobile-small desktop:paragraph-regular">
-        I’ve rearranged the header and the menu of the mobile design, so now the user profile can be accessed from the top right of the page.
-      </p>
-      <h5 class="h5-bold mb-4 text-gray-900">Product carousel</h5>
-      <p class="paragraph-mobile-small desktop:paragraph-regular">
-        I got rid of it on the desktop site. While it’s a necessity on mobile since one can’t show too many rows of products to users without a deadly amount of vertical scrolling, on desktop one hardly has this problem. And a carousel would hide important products one might want to be visible. For now, I’m not worried that having a carousel on mobile would affect sales too much since every participant said that they generally shop on their computers, not on their phones. I would of course do further research about this if this project wasn’t a concept.
-      </p>
-            <p class="paragraph-mobile-small desktop:paragraph-regular">
-        One of the reasons the CTA to buy an e-book is a secondary button is because I think for GABO Online selling e-books should not be a primary concern — at least not the way they currently sell them, via Dibook, a distributor that presumably takes a cut of the profit. Yes, those are still sales, but probably less profitable than physical books purchased directly from the publisher.
-      </p>
-      <h5 class="h5-bold mb-4 text-gray-900">Cart page</h5>
-      <p class="paragraph-mobile-small desktop:paragraph-regular">
-        I’ve abandoned the cart page completely. The cart popup is more than enough to show every necessary detail about the products in your cart, so when you click “Checkout”, it starts the checkout process immediately. Users can always open the cart popup again if they needed it.
-      </p>
-      <h5 class="h5-bold mb-4 text-gray-900">Filters & categories</h5>
-      <p class="paragraph-mobile-small desktop:paragraph-regular">
-        I have reworked this functionality in both the desktop and the mobile design since it caused some confusion among the participants. Now when they select some filters, the “Filters” button will show them how many are selected already, and when they choose a category, breadcrumbs will appear on top of the page heading, so that people know where they are at any given time. I was already using breadcrumbs for the product pages, so it made sense to reuse the function, and not come up with a different solution. And breadcrumbs could be used on both the desktop and the mobile site, which would probably make a developer’s job much easier.
-      </p>
-      
-    </div>
     </div>
 
 <div class="grid grid-cols-12 gap-4 h-full mb-12">
@@ -468,11 +466,39 @@
         <img
           class="w-full"
           src="/src/assets/iteration@2x.jpg"
-          alt="Examples to show how I've iterated on the design both on desktop and mobile."
-        /><figcaption class="caption">Examples to show how I've iterated on the design both on desktop and mobile.</figcaption>
+          alt="Examples to show how I've iterated on the design both on desktop and mobile, showing changes to the cart page, the filters and categories, and the mobile menu and header."
+        /><figcaption class="caption">Examples to show how I've iterated on the design both on desktop and mobile, showing changes to the cart page, the filters and categories, and the mobile menu and header.</figcaption>
       </picture></figure>
     </div>
   </div>
+
+<div class="study-grid h-auto mb-12">
+<div
+      class="
+        sm:col-start-3 sm:col-end-11
+        desktop:col-start-4 desktop:col-end-10
+        col-span-full
+        row-span-1
+        self-center
+      "
+    >
+      <div
+        class="
+          flex
+          items-center
+          md:px-12
+          sm:px-8
+          md:mx-12
+          px-4
+          h-48
+          bg-gray-300
+          rounded-md
+        "
+      >
+        <p class="subheading-bold">You can check out my final prototype by <a href="https://www.figma.com/proto/2ricnzWQNFa1VKvriNKnUa/GABO-Online-redesign?node-id=167%3A6008&scaling=min-zoom&page-id=167%3A5997&starting-point-node-id=167%3A6008&show-proto-sidebar=1" target="_blank" class="text-link">clicking here.</a></p>
+      </div>
+    </div>
+</div>
 
 </template>
 
