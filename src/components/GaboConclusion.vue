@@ -55,6 +55,9 @@
     <p>Google icon:<a href="https://developers.google.com/identity/branding-guidelines" target="_blank"> "Sign-In Branding Guidelines"</a></p>
   </div>
 </div>
+<div class="flex flex-row desktop:px-32 px-4 md:px-6 sm:px-4 mb-16 self-center text-left">
+    <p>First published on 7 April 2022.</p>
+  </div>
 </template>
 
 <script>
