@@ -90,30 +90,30 @@
       <br />
       <p>
         <a
-          href="https://www.figma.com/file/cw84bQiFN7BI1NTvpsAwcl/Material-Design-Icons-(Community)?node-id=8%3A1809"
+          href="https://www.figma.com/community/file/1083171276892345691"
           target="_blank"
           >Material Design Icons</a
         >
       </p>
       <p>
         <a
-          href="https://www.figma.com/file/E4tmsmdPw49oCtBo9cg4cB/iOS14-%26-iOS15-Safari-UI-Kit-(Community)?node-id=0%3A1"
+          href="https://www.figma.com/community/file/922738986195002030"
           target="_blank"
-          >iOS14 & iOS15 Safari UI Kit (Community)</a
+          >iOS 15 Safari UI Kit</a
         >
       </p>
       <p>
         <a
           href="https://unsplash.com/collections/1vnTNCXD1Xw/gabo-redesign-project"
           target="_blank"
-          >Images I've used or considered using for the project, under the Unsplash License</a
+          >Images I've used or considered using for the project</a
         >
       </p>
       <p>
         <a
-          href="https://www.figma.com/file/iBmB6wieTtJQGd7KOcnj9q/Device-Mockups-(Community)?node-id=64%3A453"
+          href="https://www.figma.com/community/file/775789888359782610"
           target="_blank"
-          >Device Mockups (Community)</a
+          >Device Mockups</a
         >
       </p>
     </div>

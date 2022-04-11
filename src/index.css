@@ -95,7 +95,7 @@
     }
 
     .caption {
-        @apply text-center text-sm font-body sm:px-8 desktop:p-0 mt-1
+        @apply text-center text-sm font-body px-1 sm:px-8 desktop:p-0 mt-1
     }
 
     .footer-regular {

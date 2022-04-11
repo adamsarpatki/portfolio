@@ -49,8 +49,8 @@
         <img
           class="w-full"
           src="/src/assets/sitemap@2x.jpg"
-          alt="Screenshots of the sitemaps: one for the current design, and one for my new one."
-        /><figcaption class="caption">Screenshots of the sitemaps: one for the current design, and one for my new one.</figcaption>
+          alt="Sitemaps: one for the current design, and one for my new one."
+        /><figcaption class="caption">Sitemaps: one for the current design, and one for my new one.</figcaption>
       </picture></figure>
     </div>
   </div>

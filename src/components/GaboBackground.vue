@@ -241,9 +241,9 @@
         <img
           class="w-full"
           src="/src/assets/desktop@2x.jpg"
-          alt="Screenshots of my redesign of GABO Online on desktop and on mobile."
+          alt="Screenshots of my redesign on desktop and on mobile."
         />
-      <figcaption class="caption">Screenshots of my redesign of GABO Online on desktop and on mobile.</figcaption></picture></figure>
+      <figcaption class="caption">Screenshots of my redesign on desktop and on mobile.</figcaption></picture></figure>
     </div>
   </div>
 </template>

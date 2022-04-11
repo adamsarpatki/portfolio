@@ -313,9 +313,9 @@
         <img
           class="w-full"
           src="/src/assets/affinitymap@2x.jpg"
-          alt="Post-it notes showing information about the usability test insights."
+          alt="Post-it notes of the insights from the usability tests."
         />
-      <figcaption class="caption">Post-it notes showing information about the usability test insights.</figcaption>
+      <figcaption class="caption">Post-it notes of the insights from the usability tests.</figcaption>
       </picture></figure>
     </div>
   </div>
