@@ -466,8 +466,8 @@
         <img
           class="w-full"
           src="/src/assets/iteration@2x.jpg"
-          alt="Examples to show how I've iterated on the design both on desktop and mobile, showing changes to the cart page, the filters and categories, and the mobile menu and header."
-        /><figcaption class="caption">Examples to show how I've iterated on the design both on desktop and mobile, showing changes to the cart page, the filters and categories, and the mobile menu and header.</figcaption>
+          alt="Examples to show my iteration on both the desktop and the mobile design, showing changes to the cart page, the filters and categories, and the mobile menu and header."
+        /><figcaption class="caption">Examples to show my iteration on both the desktop and the mobile design, showing changes to the cart page, the filters and categories, and the mobile menu and header.</figcaption>
       </picture></figure>
     </div>
   </div>
