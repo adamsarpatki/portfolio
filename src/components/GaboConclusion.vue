@@ -89,60 +89,31 @@
         
       <br />
       <p>
-        Onboarding illustrations:
         <a
-          href="https://blush.design/collections/rES6I5tBfNMgTeKOCQjg/charco"
+          href="https://www.figma.com/file/cw84bQiFN7BI1NTvpsAwcl/Material-Design-Icons-(Community)?node-id=8%3A1809"
           target="_blank"
-          >Charco by Karthik Srinivas</a
+          >Material Design Icons</a
         >
       </p>
       <p>
-        Icons:
         <a
-          href="https://www.figma.com/community/file/878585965681562011"
+          href="https://www.figma.com/file/E4tmsmdPw49oCtBo9cg4cB/iOS14-%26-iOS15-Safari-UI-Kit-(Community)?node-id=0%3A1"
           target="_blank"
-          >Material Design Icons by smrkv</a
-        >,
-        <a href="https://developer.apple.com/sf-symbols/" target="_blank"
-          >SF Symbols 2</a
+          >iOS14 & iOS15 Safari UI Kit (Community)</a
         >
       </p>
       <p>
-        iOS UI elements:
         <a
-          href="https://www.figma.com/community/file/858143367356468985"
+          href="https://unsplash.com/collections/1vnTNCXD1Xw/gabo-redesign-project"
           target="_blank"
-          >(Variants) iOS & iPadOS 14 UI Kit for Figma by Joey Banks</a
+          >Images I've used or considered using for the project, under the Unsplash License</a
         >
       </p>
       <p>
-        Blinking cursor:
         <a
-          href="https://www.figma.com/community/file/905067239318782670"
+          href="https://www.figma.com/file/iBmB6wieTtJQGd7KOcnj9q/Device-Mockups-(Community)?node-id=64%3A453"
           target="_blank"
-          >Cursors by The Human Interface</a
-        >
-      </p>
-      <p>
-        Apple icon:
-        <a
-          href="https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple/overview/introduction/"
-          target="_blank"
-          >"Sign in with Apple"</a
-        >
-      </p>
-      <p>
-        Facebook icon:
-        <a href="https://en.facebookbrand.com/facebookapp/" target="_blank"
-          >"Brand Resources"</a
-        >
-      </p>
-      <p>
-        Google icon:<a
-          href="https://developers.google.com/identity/branding-guidelines"
-          target="_blank"
-        >
-          "Sign-In Branding Guidelines"</a
+          >Device Mockups (Community)</a
         >
       </p>
     </div>

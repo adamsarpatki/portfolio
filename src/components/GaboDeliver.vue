@@ -495,7 +495,7 @@
           rounded-md
         "
       >
-        <p class="subheading-bold">You can check out my final prototype by <a href="https://www.figma.com/proto/2ricnzWQNFa1VKvriNKnUa/GABO-Online-redesign?node-id=167%3A6008&scaling=min-zoom&page-id=167%3A5997&starting-point-node-id=167%3A6008&show-proto-sidebar=1" target="_blank" class="text-link">clicking here.</a></p>
+        <p class="subheading-bold">Feel free to check out the final prototype by <a href="https://www.figma.com/proto/2ricnzWQNFa1VKvriNKnUa/GABO-Online-redesign?node-id=167%3A6008&scaling=min-zoom&page-id=167%3A5997&starting-point-node-id=167%3A6008&show-proto-sidebar=1" target="_blank" class="text-link">clicking here.</a></p>
       </div>
     </div>
 </div>
