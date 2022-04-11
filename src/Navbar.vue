@@ -17,7 +17,7 @@
       sm:items-center
     "
   >
-    <div class="flex items-center justify-between px-4 py-3 sm:py-0 h-24">
+    <div class="flex items-center justify-between px-4 py-3 sm:py-0 h-14">
       <router-link class="nav-link" to="/">Ádám Sárpátki</router-link>
       <div class="sm:hidden">
         <button
