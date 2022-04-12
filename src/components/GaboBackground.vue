@@ -72,6 +72,15 @@
           get the desktop site, really zoomed out.
         </p>
         <p class="paragraph-mobile-small desktop:paragraph-regular">
+            For a publisher, having a nice online shop is important — when
+            customers buy books directly from you, you get to keep every cent,
+            so it’s in your interest for your shop to be nice and usable. With books,
+            it’s also difficult, because once you print them, you can’t sell
+            those copies for more money than the price on their back covers, so
+            you cannot make up the difference your distributors keep from the
+            profit.
+          </p>
+        <p class="paragraph-mobile-small desktop:paragraph-regular">
           Just in case they update it in the future, feel free to check out the
           <a
             href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3074457366784305196&cot=14"
@@ -80,7 +89,7 @@
           >
             “Current User Flow” frame
           </a>
-          on my project’s Miro board
+          on my project’s Miro board.
         </p>
       </div>
     </div>
@@ -165,7 +174,7 @@
             First and foremost, the solution I propose here is <b>a concept</b>.
             I wasn’t contacted by anyone at GABO to do this project, I did
             everything in my free time, and for no compensation whatsoever.
-            During the project I paid special attention not to infringe on
+            During the project I paid special attention to not infringe on
             GABO’s copyright in any way - that’s why I created fictitious book
             titles and author names for my prototype. Also, I was GABO’s social
             media manager for a couple of years, and I probably know the site
@@ -178,15 +187,6 @@
       <div class="desktop:col-start-1 desktop:col-end-7">
         <h4 class="h4-medium mb-4 text-gray-900">Scope</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
-            For a publisher, having a nice online shop is important — when
-            customers buy books directly from you, you get to keep every cent,
-            so it’s in your interest your shop is nice and usable. With books,
-            it’s also difficult, because once you print them, you can’t sell
-            those copies for more money than the price on their back covers, so
-            you cannot make up the difference your distributors keep from the
-            profit.
-          </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             <b
               >I wanted to focus mostly on redesigning GABO Online (for desktop

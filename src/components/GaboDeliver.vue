@@ -150,7 +150,7 @@
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
         <p class="desktop:paragraph-regular paragraph-mobile-small">
           At the beginning of February, I’ve scheduled <b>5 unmoderated interviews</b>
-          with the users who previously tested the current (or old) site of GABO
+          with the users who previously tested GABO
           Online. This way they had some insight into how much has changed
           during the redesign. And, thankfully, they were more than happy to
           offer their honest criticisms about my work, which is always very
@@ -231,7 +231,7 @@
       </p>
       <p class="paragraph-mobile-small desktop:paragraph-regular">
         There were, however, <b>some issues I had to address in the next iteration</b>.
-        Since there was a lot of feedback from participants, after I synthesized
+        Since there was a lot of feedback from participants, after synthesizing
         the insights, I, again, colour coded them: red for high priority, orange
         for medium priority, yellow for low priority issues, and green for
         things that were good and didn’t need changing. Then <b>I’ve arranged the
@@ -296,7 +296,7 @@
             class="text-link"
             >“Usability Testing - New Design - Round 1” frame</a
           >
-          on my Miro project page
+          on my Miro project page.
         </p>
     </div>
 

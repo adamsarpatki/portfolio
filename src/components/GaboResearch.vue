@@ -125,8 +125,7 @@
           <h5 class="h5-bold mb-4 mt-6 text-gray-900">Synthesis</h5>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             After the interviews, I watched the recordings and gathered quite a
-            lot of insights, then arranged them on a Miro board to better
-            synthesize them, using <b>affinity mapping</b>. It took a long time, but it
+            lot of insights, then arranged them on a Miro board to synthesize them, using <b>affinity mapping</b>. It took a long time, but it
             was a necessary step.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
@@ -327,13 +326,13 @@
           Customer Service
         </h5>
         <p class="paragraph-mobile-small desktop:paragraph-regular">
-          One thing I didn’t tackle in this project was the issue of contacting the publishing group. After checking their websites and socials, there seem to be <b>4 e-mail addresses and 4 phone numbers a customer can use to contact them, and GABO Online has a Contact Page with a contact form, that has two options</b>: one if you want to write to the customer service, and one if you want to write to the publishers. However, this contact page doesn’t have every phone number and e-mail address listed. And, interestingly, there are contact details in the site’s footer as well.
+          One thing I didn’t tackle in this project was the issue of contacting the publishing group. After checking their websites and socials, there seem to be <b>4 e-mail addresses and 4 phone numbers a customer can use to contact them, and GABO Online has a Contact Page with a contact form that has two options</b>: one if you want to write to the customer service, and one if you want to write to the publishers. However, this contact page doesn’t have every phone number and e-mail address listed. And, interestingly, there are contact details in the site’s footer as well.
         </p>
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           The <b>participants</b> of the usability tests were also confused about this, although they only saw the footer and the Contact Page due to the scope of the tests. They also <b>mentioned how much better it would be if the Contact Page contained at least a phone number, an e-mail address, some info about when to expect an answer</b>, and they also felt the contact form wasn’t very intuitive, <b>some of its functions didn’t work at all</b> (like selecting a previous order, even though we were using a live account with very current previous orders — this hasn’t been fixed yet, as of March 26, 2022).
         </p>
         <p class="paragraph-mobile-small desktop:paragraph-regular">
-          I think 4 e-mail addresses and the same amount of phone numbers, a Contact Page and several social media pages should be more than enough channels for people to contact GABO, Ciceró or Akkord. So, in a way, that’s good. You can definitely reach them somehow. However, <b>I would examine if this amount of contactability is really necessary</b>. Depending on how the publishing group is structured (and that’s something beyond my knowledge), having only one e-mail address and one phone number, combined with a better Contact Page could be enough. E-mails can be sorted behind the scenes, calls can be redirected, and <b>customers would probably not be confused if they only had one or two options to choose from</b>.
+          <b>I would examine if this amount of contactability is really necessary</b>. Depending on how the publishing group is structured (and that’s something beyond my knowledge), having only one e-mail address and one phone number, combined with a better Contact Page could be enough. E-mails can be sorted behind the scenes, calls can be redirected, and <b>customers would probably not be confused if they only had one or two options to choose from</b>.
         </p>
       </div>
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
@@ -382,16 +381,16 @@
         <h4 class="h4-medium mb-4 text-gray-900">Competitive Analysis</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            While working on affinity mapping, <b>I’ve examined the websites of 4 competitors</b>: Libri, Bookline, Líra and Agave Könyvek. I’ve analysed their home page, sign-up/sign-in process, checkout process, search and filtering options, product page, footer, and - if they had the option - how they handled requests for out-of-stock books. During this process, I once again took an abundance of screenshots, then used post-its to highlight positive and negative elements on each page, just like I did when analysing GABO Online at the beginning.
+            While working on affinity mapping, <b>I’ve examined the websites of 4 competitors</b>: Libri, Bookline, Líra and Agave Könyvek. These 4 competitors are quite popular, especially Libri, Bookline and Líra — they mostly sell books published by them and by hundreds of other publishers, while Agave is a smaller but still popular publishing house, and their shop only sells their products, so I thought it provided a nice addition, as being somewhat similar to what GABO Online is.
+          </p>
+          <p class="paragraph-mobile-small desktop:paragraph-regular">
+            I’ve analysed their home page, sign-up/sign-in process, checkout process, search and filtering options, product page, footer, and - if they had the option - how they handled requests for out-of-stock books. During this process, I once again took an abundance of screenshots, then used post-its to highlight positive and negative elements on each page, just like I did when analysing GABO Online at the beginning.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             Neither of them is perfect, but each of them has some interesting solutions.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            Next, I listed out the commonalities of these sites, to, once again, help me in my redesign. These 4 competitors are quite popular, especially Libri, Bookline and Líra — they mostly sell books published by them and by hundreds of other publishers, while Agave is a smaller but still popular publishing house, and their shop only sells their products, so I thought it provided a nice addition, as being somewhat similar to what GABO Online is.
-          </p>
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
-            In short, <b>I’ve assembled their commonalities to have a more detailed list of what might be expected by or familiar to users on these kinds of e-commerce sites</b>.
+            Next, <b>I listed out the commonalities of these sites, to have a more detailed list of what might be expected by or familiar to users on these kinds of e-commerce sites</b>.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             Feel free to check out the <a href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3458764514005635254&cot=14" target="_blank" class="text-link">“Competitive Analysis” frame on my Miro project page</a> for more details.
