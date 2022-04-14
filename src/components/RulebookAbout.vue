@@ -126,7 +126,7 @@
         </defs>
       </svg>
       <h3 class="h3-bold text-gray-900 mb-7">Timeline</h3>
-      <p class="paragraph-mobile-small desktop:paragraph-regular">March - June 2021</p>
+      <p class="paragraph-mobile-small desktop:paragraph-regular">March - June 2021.<br/>I've worked on this project in my free time, while having a full-time job as a translator/editor.</p>
     </div>
 
     <div
