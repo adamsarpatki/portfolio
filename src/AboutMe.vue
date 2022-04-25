@@ -6,31 +6,28 @@
     <h1 class="sm:h1-bold h2-bold text-blue-900 desktop:col-start-7 desktop:col-end-13 desktop:text-left text-center col-span-full leading-56 md:order-1 mb-5">Hi, I’m Ádám, a UX designer based in Budapest, Hungary.</h1>
     <div class="desktop:paragraph-regular paragraph-mobile desktop:col-start-7 desktop:col-end-13 col-span-full sm:text-left text-center order-2">
       <p class="mb-4">
-        I have a background in <b>library and information science, customer
-        support, and translation</b>, so I know all too well how frustrating it can
-        be when a website or a service is not designed with the end-users in
-        mind. And while I liked helping people navigate the ins and outs of such
-        services in the past, I would much better <b>create human-centered
-        solutions</b>.
+        I have a professional background in <b>library science</b>, but I’m currently working as a freelance literary translator and editor for several Hungarian publishers — at this point, I’ve worked on more than 50 books.
       </p>
       <p class="mb-4">
-        I have started my user experience design journey with <b>Udacity's UX
-        Nanodegree Program</b>. It taught me the basic concepts and processes of
-        UX/UI, but I'm constantly reading articles or watching videos about the
-        profession, and practising to learn even more - as much as I can. Feel free to check out <a href="https://dribbble.com/adamsarpatki" class="text-link font-bold" target="_blank">my Dribbble profile</a>.
+        So you might ask the question: why do I want to switch to UX design?
       </p>
       <p class="mb-4">
-        I enjoy <b>working on products from end to end</b>, from the research phase to
-        development.
+        Well, I think <b>a part of me was always interested in UX</b>, just didn’t have the word for it. But now that I’m learning more and more about it, I realise <b>a lot of the things a librarian does is UX</b>: answering reference questions, understanding your patrons’ needs and problems, organizing information using various classification systems, helping patrons find what they’re looking for, saving them a lot of time and effort. Sounds familiar?
       </p>
       <p class="mb-4">
-        Outside of UX, I like to spend my time reading, cooking, tending to my
-        plants, and listening to podcasts or music. I also love playing RPGs and
-        video games, painting miniatures, or drawing fantasy maps. I’m a dog
-        person.
+        Since I graduated from university in 2012, I’ve used a lot of software that wasn’t user-friendly. So that taught me <b>how important it is to have human-centred solutions, and now I want to make a positive impact by creating these solutions</b>.
+      </p>
+      <p class="mb-4">
+        That’s why, in March 2021, I’ve enrolled in Udacity’s UX Nanodegree Program. I’ve learned a lot about the concepts and processes of UX, but it didn’t teach me everything, so <b>I’m always looking for new challenges and projects to try my hand at</b>.
+      </p>
+      <p class="mb-4">
+        <b>I have a generalist mindset</b>: I love working on complex projects from the research phase to development.
+      </p>
+      <p class="mb-4">
+        Outside of UX, I like to spend my time knitting, cooking, and listening to podcasts or music. I also love playing RPGs and video games, painting miniatures, or drawing fantasy maps.
       </p>
     </div>
-      <div class="desktop:col-start-1 desktop:col-end-5 col-span-full sm:col-start-3 sm:col-end-11  content-center mt-72 order-4">
+      <!-- <div class="desktop:col-start-1 desktop:col-end-5 col-span-full sm:col-start-3 sm:col-end-11  content-center mt-72 order-4">
         <svg class="h-10 w-10 m-auto" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M39.1922 37.1359L2.86406 0.807813C2.74671 0.69069 2.58767 0.624938 2.42188 0.625H1.25C1.08424 0.625 0.925268 0.690848 0.808058 0.808058C0.690848 0.925269 0.625 1.08424 0.625 1.25V38.75C0.625 38.9158 0.690848 39.0747 0.808058 39.1919C0.925268 39.3092 1.08424 39.375 1.25 39.375H38.75C38.9158 39.375 39.0747 39.3092 39.1919 39.1919C39.3092 39.0747 39.375 38.9158 39.375 38.75V37.5781C39.3751 37.4123 39.3093 37.2533 39.1922 37.1359ZM38.125 38.125H35.625V36.875C35.625 36.7092 35.5592 36.5503 35.4419 36.4331C35.3247 36.3158 35.1658 36.25 35 36.25C34.8342 36.25 34.6753 36.3158 34.5581 36.4331C34.4408 36.5503 34.375 36.7092 34.375 36.875V38.125H31.875V37.5C31.875 37.3342 31.8092 37.1753 31.6919 37.0581C31.5747 36.9408 31.4158 36.875 31.25 36.875C31.0842 36.875 30.9253 36.9408 30.8081 37.0581C30.6908 37.1753 30.625 37.3342 30.625 37.5V38.125H28.125V36.875C28.125 36.7092 28.0592 36.5503 27.9419 36.4331C27.8247 36.3158 27.6658 36.25 27.5 36.25C27.3342 36.25 27.1753 36.3158 27.0581 36.4331C26.9408 36.5503 26.875 36.7092 26.875 36.875V38.125H24.375V37.5C24.375 37.3342 24.3092 37.1753 24.1919 37.0581C24.0747 36.9408 23.9158 36.875 23.75 36.875C23.5842 36.875 23.4253 36.9408 23.3081 37.0581C23.1908 37.1753 23.125 37.3342 23.125 37.5V38.125H20.625V36.875C20.625 36.7092 20.5592 36.5503 20.4419 36.4331C20.3247 36.3158 20.1658 36.25 20 36.25C19.8342 36.25 19.6753 36.3158 19.5581 36.4331C19.4408 36.5503 19.375 36.7092 19.375 36.875V38.125H16.875V37.5C16.875 37.3342 16.8092 37.1753 16.6919 37.0581C16.5747 36.9408 16.4158 36.875 16.25 36.875C16.0842 36.875 15.9253 36.9408 15.8081 37.0581C15.6908 37.1753 15.625 37.3342 15.625 37.5V38.125H13.125V36.875C13.125 36.7092 13.0592 36.5503 12.9419 36.4331C12.8247 36.3158 12.6658 36.25 12.5 36.25C12.3342 36.25 12.1753 36.3158 12.0581 36.4331C11.9408 36.5503 11.875 36.7092 11.875 36.875V38.125H9.375V37.5C9.375 37.3342 9.30915 37.1753 9.19194 37.0581C9.07473 36.9408 8.91576 36.875 8.75 36.875C8.58424 36.875 8.42527 36.9408 8.30806 37.0581C8.19085 37.1753 8.125 37.3342 8.125 37.5V38.125H5.625V36.875C5.625 36.7092 5.55915 36.5503 5.44194 36.4331C5.32473 36.3158 5.16576 36.25 5 36.25C4.83424 36.25 4.67527 36.3158 4.55806 36.4331C4.44085 36.5503 4.375 36.7092 4.375 36.875V38.125H1.875V35.625H3.125C3.29076 35.625 3.44973 35.5592 3.56694 35.4419C3.68415 35.3247 3.75 35.1658 3.75 35C3.75 34.8342 3.68415 34.6753 3.56694 34.5581C3.44973 34.4408 3.29076 34.375 3.125 34.375H1.875V31.875H2.5C2.66576 31.875 2.82473 31.8092 2.94194 31.6919C3.05915 31.5747 3.125 31.4158 3.125 31.25C3.125 31.0842 3.05915 30.9253 2.94194 30.8081C2.82473 30.6908 2.66576 30.625 2.5 30.625H1.875V28.125H3.125C3.29076 28.125 3.44973 28.0592 3.56694 27.9419C3.68415 27.8247 3.75 27.6658 3.75 27.5C3.75 27.3342 3.68415 27.1753 3.56694 27.0581C3.44973 26.9408 3.29076 26.875 3.125 26.875H1.875V24.375H2.5C2.66576 24.375 2.82473 24.3092 2.94194 24.1919C3.05915 24.0747 3.125 23.9158 3.125 23.75C3.125 23.5842 3.05915 23.4253 2.94194 23.3081C2.82473 23.1908 2.66576 23.125 2.5 23.125H1.875V20.625H3.125C3.29076 20.625 3.44973 20.5592 3.56694 20.4419C3.68415 20.3247 3.75 20.1658 3.75 20C3.75 19.8342 3.68415 19.6753 3.56694 19.5581C3.44973 19.4408 3.29076 19.375 3.125 19.375H1.875V16.875H2.5C2.66576 16.875 2.82473 16.8092 2.94194 16.6919C3.05915 16.5747 3.125 16.4158 3.125 16.25C3.125 16.0842 3.05915 15.9253 2.94194 15.8081C2.82473 15.6908 2.66576 15.625 2.5 15.625H1.875V13.125H3.125C3.29076 13.125 3.44973 13.0592 3.56694 12.9419C3.68415 12.8247 3.75 12.6658 3.75 12.5C3.75 12.3342 3.68415 12.1753 3.56694 12.0581C3.44973 11.9408 3.29076 11.875 3.125 11.875H1.875V9.375H2.5C2.66576 9.375 2.82473 9.30915 2.94194 9.19194C3.05915 9.07473 3.125 8.91576 3.125 8.75C3.125 8.58424 3.05915 8.42527 2.94194 8.30806C2.82473 8.19085 2.66576 8.125 2.5 8.125H1.875V5.625H3.125C3.29076 5.625 3.44973 5.55915 3.56694 5.44194C3.68415 5.32473 3.75 5.16576 3.75 5C3.75 4.83424 3.68415 4.67527 3.56694 4.55806C3.44973 4.44085 3.29076 4.375 3.125 4.375H1.875V1.875H2.16328L38.125 37.8367V38.125Z" fill="#075985"/>
 <path d="M8.75 31.875H22.5C22.6236 31.875 22.7444 31.8384 22.8472 31.7697C22.95 31.701 23.0301 31.6034 23.0774 31.4892C23.1247 31.375 23.1371 31.2493 23.113 31.1281C23.0889 31.0068 23.0294 30.8955 22.9419 30.8081L9.19195 17.0581C9.10454 16.9707 8.99318 16.9111 8.87194 16.887C8.7507 16.8629 8.62503 16.8753 8.51082 16.9226C8.39661 16.9699 8.299 17.05 8.23032 17.1528C8.16165 17.2556 8.125 17.3764 8.125 17.5V31.25C8.125 31.4158 8.19085 31.5748 8.30806 31.692C8.42527 31.8092 8.58424 31.875 8.75 31.875ZM9.375 19.0089L20.9911 30.625H9.375V19.0089Z" fill="#075985"/>
@@ -77,7 +74,7 @@
 
         <p class="font-heading font-medium text-3xl sm:text-38 text-blue-900 my-5 sm:m-5">Communication</p>
         <p class="desktop:paragraph-regular paragraph-mobile">Good and constant communication is key in any situation, although I think some uninterrupted time can be beneficial, too.</p>
-      </div>
+      </div> -->
     </div>
 <WorkTogether/>
 </template>

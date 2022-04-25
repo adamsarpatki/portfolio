@@ -24,7 +24,7 @@
       </h1>
       <p class="subheading-regular text-gray-700 mb-14 desktop:px-64">
         an enthusiastic UX designer based in Budapest, Hungary, with a
-        background in library and information science, customer service and
+        professional background in library and information science, and
         translation.
       </p>
       <router-link to="/about-me"
