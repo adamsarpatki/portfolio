@@ -67,7 +67,7 @@
               I wanted to simplify things. No sidebar, just a header and a footer. And, if it could be avoided, no unnecessary redundancy.
             </p>
             <p class="paragraph-mobile-small desktop:paragraph-regular">
-              Feel free to check out my <a href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3074457368210395158&cot=14" target="_blank" class="text-link">my sitemap frames on my Miro project page</a> for more details.
+              Feel free to check out <a href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3074457368210395158&cot=14" target="_blank" class="text-link">my sitemap frames on my Miro project page</a> for more details.
             </p>
              <p class="paragraph-mobile-small desktop:paragraph-regular">
               <b>Card sorting or tree testing?</b> For a while, I played around with the idea of doing some card sorting or tree testing sessions, but I eventually gave up on these, as I realised the site is structured quite simply, and I didn’t think it warranted the time and effort of card sorting/tree testing sessions, even if I had to rearrange some things later on.

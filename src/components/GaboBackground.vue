@@ -249,7 +249,7 @@
             I think that would be invaluable.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            For my current design, I’ve opted for something simpler: I put some
+            Since this topic should be a part of a larger business decision that's not the scope of my project, for my current design, I’ve opted for something simpler: I put some
             links about the group in the footer, and I’ve used GABO’s current
             purple-black logo as an inspiration for the colour scheme.
           </p>

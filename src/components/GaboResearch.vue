@@ -103,7 +103,7 @@
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <h5 class="h5-bold mb-4 mt-6 text-gray-900">Participants</h5>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            I recruited <b>6 participants between the ages of 29-35</b>. According to
+            I recruited <b>6 participants between the ages of 29-35</b>. They are people I know, who like reading and could possibly become customers of GABO Publishing. According to
             them, they are confident online shoppers, but never, or almost never
             use their mobiles or tablets to buy something. They have quite
             different needs when it comes to buying books. <b>4 participants
@@ -112,21 +112,14 @@
             previously.</b>
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            I should mention it, one of the participants was a fellow UX/UI
-            designer, and I was afraid her feedback won’t be as usable as the
-            others, since it’s inevitable that a designer will look at a site
-            differently than a regular user. However, even though she mentioned
-            a lot of small details (good and bad), I was happy when other
-            participants mentioned those too. So I kept her insights in my
-            research notes.
+            And even though one participant was a fellow UX/UI designer, the others mentioned almost the same things, so I kept her insights in my research notes.
           </p>
         </div>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <h5 class="h5-bold mb-4 mt-6 text-gray-900">Synthesis</h5>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             After the interviews, I watched the recordings and gathered quite a
-            lot of insights, then arranged them on a Miro board to synthesize them, using <b>affinity mapping</b>. It took a long time, but it
-            was a necessary step.
+            lot of insights, then started the long but necessary process of arranging and synthesizing them on a Miro board, using <b>affinity mapping</b>.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             With the tasks I’ve given to participants, I wanted to follow a
@@ -343,7 +336,7 @@
           Having a lot of insight is good, however, it soon became overwhelming. I didn’t know where to start with my design. So <b>I’ve prioritized the main issues about the site</b> using <a href="https://maze.co/guides/usability-testing/results/" target="_blank" class="text-link">a technique I’ve read about on Maze</a>: I sorted my summary post-its into <b>five categories, ranging from critical issues to no issues</b>. For some reality check, I’ve asked the help of one of my developer friends, which turned out to be a good thing — some issues were more serious than I thought and vice versa.
         </p>
         <p class="paragraph-mobile-small desktop:paragraph-regular">
-          This prioritized list helped me set the direction of my redesign. Feel free to check out the <a href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3458764514007662274&cot=14" target="_blank" class="text-link">“Issue Prioritisation” frame on my Miro project page</a> for more details
+          This prioritized list helped me set the direction of my redesign. Feel free to check out the <a href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3458764514007662274&cot=14" target="_blank" class="text-link">“Issue Prioritisation” frame on my Miro project page</a> for more details.
         </p>
       </div>
     </div>
@@ -390,7 +383,7 @@
             Neither of them is perfect, but each of them has some interesting solutions.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
-            Next, <b>I listed out the commonalities of these sites, to have a more detailed list of what might be expected by or familiar to users on these kinds of e-commerce sites</b>.
+            Next, as a kind of benchmarking step, <b>I listed out the commonalities of these sites, to have a more detailed list of what might be expected by or familiar to users on these kinds of e-commerce sites</b>.
           </p>
           <p class="paragraph-mobile-small desktop:paragraph-regular">
             Feel free to check out the <a href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3458764514005635254&cot=14" target="_blank" class="text-link">“Competitive Analysis” frame on my Miro project page</a> for more details.
