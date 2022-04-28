@@ -6,6 +6,8 @@
   <div class="study-grid h-auto">
     <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">What I’ve Learned</h3>
+      <div class="">
+        <h4 class="h4-medium mb-4 text-gray-900">Endurance</h4>
       <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           Even though I’ve designed and developed my own website, <b>I count this
@@ -24,6 +26,11 @@
           a step back</b> and try something again after a few days had passed, that
           way a solution might be instantly obvious.
         </p>
+        </div>
+      </div>
+      <div class="">
+        <h4 class="h4-medium mb-4 text-gray-900">Resource Management</h4>
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           There were some things that I was thinking about doing, like creating
           an empathy map, or a user journey map, but in the end, I didn’t spend
@@ -34,6 +41,11 @@
           doesn’t mean you have to do it if ultimately you won’t get closer to
           your goal</b>.
         </p>
+        </div>
+      </div>
+      <div class="">
+        <h4 class="h4-medium mb-4 text-gray-900">Instinct vs. Proof</h4>
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
         <p class="paragraph-mobile-small desktop:paragraph-regular">
           I’ve also come to the conclusion that only doing something because
           your gut tells you to, or because you think <b>“I just like it this way”
@@ -51,6 +63,7 @@
           make. So these things were a bit overwhelming during this project. But
           I’m sure this feeling will kind of go away as I gain more experience.
         </p>
+      </div>
       </div>
     </div>
   </div>
