@@ -111,7 +111,7 @@
     }
     
     .text-link {
-        @apply border-b p-px border-blue-800 hover:border-yellow-400
+        @apply border-b p-px border-blue-800 hover:border-gray-900 hover:bg-yellow-400 hover:text-gray-900
     }
 
     .nav-link:active {

@@ -37,30 +37,30 @@
 <div class="flex flex-row desktop:px-32 px-4 md:px-6 sm:px-4 mb-16 self-center text-left">
   <div class="paragraph-mobile-small desktop:paragraph-regular m-auto">
     <p class="">
-          Research: <a href="https://miro.com/app/board/o9J_l7eYgew=/" target="_blank">Miro board</a>
+          Research: <a href="https://miro.com/app/board/o9J_l7eYgew=/" target="_blank" class="text-link">Miro board</a>
     </p>
     <p class="">
             Prototypes:
-            <a href="https://www.figma.com/file/XgMwHN8PArib3q6jgdnAjR/Lo-fi-prototype?node-id=0%3A1" target="_blank">Low-fidelity prototype</a>,
-            <a href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1" target="_blank">High-Fidelity Prototype v1</a>,
-            <a href="https://www.figma.com/file/XqD0EAVTg9PA58jHaM8ssQ/High-Fidelity-Prototype-Accessibility" target="_blank">Current design</a>
+            <a href="https://www.figma.com/file/XgMwHN8PArib3q6jgdnAjR/Lo-fi-prototype?node-id=0%3A1" target="_blank" class="text-link">Low-fidelity prototype</a>,
+            <a href="https://www.figma.com/file/zHSNdDsbsXFXFytnRkAHV3/High-Fidelity-Prototype?node-id=0%3A1" target="_blank" class="text-link">High-Fidelity Prototype v1</a>,
+            <a href="https://www.figma.com/file/XqD0EAVTg9PA58jHaM8ssQ/High-Fidelity-Prototype-Accessibility" target="_blank" class="text-link">Current design</a>
     </p>
     <p class="">
             
     </p>
     <p class="">
-            Accessibility & usability testing: <a href="https://www.figma.com/file/kQmg70uB9PViL3PAubin8I/Accessibility-Progress-and-Iteration" target="_blank">FigJam board</a>
+            Accessibility & usability testing: <a href="https://www.figma.com/file/kQmg70uB9PViL3PAubin8I/Accessibility-Progress-and-Iteration" target="_blank" class="text-link">FigJam board</a>
     </p>
 
     <br/>
-    <p>Sample text: <a href="https://dnd.wizards.com/articles/features/systems-reference-document-srd" target="_blank">System Reference Document</a></p>
-    <p>Onboarding illustrations: <a href="https://blush.design/collections/rES6I5tBfNMgTeKOCQjg/charco" target="_blank">Charco by Karthik Srinivas</a></p>
-    <p>Icons: <a href="https://www.figma.com/community/file/878585965681562011" target="_blank">Material Design Icons by smrkv</a>, <a href="https://developer.apple.com/sf-symbols/" target="_blank">SF Symbols 2</a></p>
-    <p>iOS UI elements: <a href="https://www.figma.com/community/file/858143367356468985" target="_blank">(Variants) iOS & iPadOS 14 UI Kit for Figma by Joey Banks</a></p>
-    <p>Blinking cursor: <a href="https://www.figma.com/community/file/905067239318782670" target="_blank">Cursors by The Human Interface</a></p>
-    <p>Apple icon: <a href="https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple/overview/introduction/" target="_blank">"Sign in with Apple"</a></p>
-    <p>Facebook icon: <a href="https://en.facebookbrand.com/facebookapp/" target="_blank">"Brand Resources"</a></p>
-    <p>Google icon:<a href="https://developers.google.com/identity/branding-guidelines" target="_blank"> "Sign-In Branding Guidelines"</a></p>
+    <p>Sample text: <a href="https://dnd.wizards.com/articles/features/systems-reference-document-srd" target="_blank" class="text-link">System Reference Document</a></p>
+    <p>Onboarding illustrations: <a href="https://blush.design/collections/rES6I5tBfNMgTeKOCQjg/charco" target="_blank" class="text-link">Charco by Karthik Srinivas</a></p>
+    <p>Icons: <a href="https://www.figma.com/community/file/878585965681562011" target="_blank" class="text-link">Material Design Icons by smrkv</a>, <a href="https://developer.apple.com/sf-symbols/" target="_blank" class="text-link">SF Symbols 2</a></p>
+    <p>iOS UI elements: <a href="https://www.figma.com/community/file/858143367356468985" target="_blank" class="text-link">(Variants) iOS & iPadOS 14 UI Kit for Figma by Joey Banks</a></p>
+    <p>Blinking cursor: <a href="https://www.figma.com/community/file/905067239318782670" target="_blank" class="text-link">Cursors by The Human Interface</a></p>
+    <p>Apple icon: <a href="https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple/overview/introduction/" target="_blank" class="text-link">"Sign in with Apple"</a></p>
+    <p>Facebook icon: <a href="https://en.facebookbrand.com/facebookapp/" target="_blank" class="text-link">"Brand Resources"</a></p>
+    <p>Google icon:<a href="https://developers.google.com/identity/branding-guidelines" target="_blank" class="text-link"> "Sign-In Branding Guidelines"</a></p>
   </div>
 </div>
 </template>
