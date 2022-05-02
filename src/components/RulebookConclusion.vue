@@ -4,24 +4,24 @@
   </div>
 
   <div class="study-grid h-auto">
-    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
+    <div class="xl:col-start-1 xl:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">What I’ve Learned</h3>
       <div class="sm:px-3 sm:pl-8 sm:pr-4">
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           Designing D&D Rulebook from start to finish was a thoroughly
           enjoyable, but not always an easy process. It taught me a lot about the
           process of user-centered design, about the value of proper research
           and user testing, about listening to one's guts, and not being afraid
           to change something if it results in a better product.
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">Research is something I would definitely do differently, more thoroughly now, using more techniques, not just user interviews. I would also start designing with atomic design in mind — this is something I didn't know much about when I began working on this project, but now I see that it would have made things so much easier and cleaner.</p>
+        <p class="paragraph-mobile-small xl:paragraph-regular">Research is something I would definitely do differently, more thoroughly now, using more techniques, not just user interviews. I would also start designing with atomic design in mind — this is something I didn't know much about when I began working on this project, but now I see that it would have made things so much easier and cleaner.</p>
       </div>
     </div>
 
-    <div class="desktop:col-start-7 desktop:col-end-13 col-span-full text-left">
+    <div class="xl:col-start-7 xl:col-end-13 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Next Steps</h3>
       <div class="sm:px-3 sm:pl-8 sm:pr-4">
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           I’m not done with this project yet. It still needs a lot of work and a lot of testing until I am willing to say it’s finished (let's be honest, no project is ever really finished). And while I cannot really provide numbers on business impact, I am confident that should I have the necessary resources to make D&D Rulebook more than just a concept, it would solve a lot of problems for D&D players.
         </p>
       </div>
@@ -34,8 +34,8 @@
     <h2 class="col-span-full self-center h2-bold text-gray-900">Resources</h2>
 </div>
 
-<div class="flex flex-row desktop:px-32 px-4 md:px-6 sm:px-4 mb-16 self-center text-left">
-  <div class="paragraph-mobile-small desktop:paragraph-regular m-auto">
+<div class="flex flex-row xl:px-32 px-4 md:px-6 sm:px-4 mb-16 self-center text-left">
+  <div class="paragraph-mobile-small xl:paragraph-regular m-auto">
     <p class="">
           Research: <a href="https://miro.com/app/board/o9J_l7eYgew=/" target="_blank">Miro board</a>
     </p>

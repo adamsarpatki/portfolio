@@ -1,9 +1,9 @@
 <template>
   <div class="study-grid h-auto mb-12">
-    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
+    <div class="xl:col-start-1 xl:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">Define</h3>
       <div class="sm:px-3 sm:pl-8 sm:pr-4">
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           After the interviews, I took the insights gathered, and using
           <b>affinity mapping</b> I've arranged them by participants on a Miro
           board, then started clustering them based on similarities. This was a
@@ -11,11 +11,11 @@
           to narrow down the prevalent themes of my findings. I could then start
           identifying problems and discoveries.</p>
           
-          <p class="paragraph-mobile-small font-bold desktop:paragraph-regular-bold">Check out my <a href="https://miro.com/app/board/o9J_l7eYgew=/" class="text-link" target="_blank">
+          <p class="paragraph-mobile-small font-bold xl:paragraph-regular-bold">Check out my <a href="https://miro.com/app/board/o9J_l7eYgew=/" class="text-link" target="_blank">
            Miro board</a>.
         </p>
 
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           Based on this, I have asked myself the question:
         </p>
         <div class="mt-3 md:px-12 sm:px-8 md:mx-12 px-4 py-4 bg-gray-300 rounded-md text-center">
@@ -29,9 +29,9 @@
     </div>
     <div
       class="
-        desktop:col-start-7 desktop:col-end-13
+        xl:col-start-7 xl:col-end-13
         col-span-full
-        desktop:mt-16
+        xl:mt-16
         mt-3
         text-left
       "
@@ -42,7 +42,7 @@
         <div class="sm:px-3 pl-8 sm:pl-14 sm:pr-4 mt-2">
           <div class="">
             <ul
-              class="paragraph-mobile-small desktop:paragraph-regular list-disc"
+              class="paragraph-mobile-small xl:paragraph-regular list-disc"
             >
               <li>It's difficult to find every rule and explanation.</li>
               <li>The rules are sometimes vague or confusing.</li>
@@ -56,7 +56,7 @@
             <div class="">
               <ul
                 class="
-                  paragraph-mobile-small desktop:paragraph-regular
+                  paragraph-mobile-small xl:paragraph-regular
                   list-disc
                 "
               >
@@ -80,7 +80,7 @@
             <div class="">
               <ul
                 class="
-                  paragraph-mobile-small desktop:paragraph-regular
+                  paragraph-mobile-small xl:paragraph-regular
                   list-disc
                 "
               >

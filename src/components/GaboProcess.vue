@@ -5,12 +5,12 @@
     </h2>
   </div>
 
-  <div class="flex flex-row desktop:px-32 mt-14 mb-16 self-center">
-    <p class="paragraph-mobile-small desktop:mb-0 desktop:paragraph-regular px-8 desktop:px-80">
+  <div class="flex flex-row xl:px-32 mt-14 mb-16 self-center">
+    <p class="paragraph-mobile-small xl:mb-0 xl:paragraph-regular px-8 xl:px-80">
       Once again, I’ve followed the steps outlined in the double-diamond process, going back and forth as needed.
     </p>
   </div>
-  <div class="desktop:px-32 px-4 md:px-6 flex flex-col mb-12">
+  <div class="xl:px-32 px-4 md:px-6 flex flex-col mb-12">
     <figure><img
       class="w-full"
       src="/src/assets/1801_HV_Revamped_Double_Diamond_Design_Process_Framework.007.jpeg"

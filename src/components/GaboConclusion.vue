@@ -4,10 +4,12 @@
   </div>
 
   <div class="study-grid h-auto">
-    <div class="desktop:col-start-1 desktop:col-end-13 col-span-full text-left">
+    <div class="xl:col-start-1 xl:col-end-13 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">What I’ve Learned</h3>
+        <div class="">
+        <h4 class="h4-medium mb-4 text-gray-900">Endurance</h4>
       <div class="sm:px-3 sm:pl-8 sm:pr-4">
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           Even though I’ve designed and developed my own website, <b>I count this
           project as my first full-blown website design</b>, with lots of moving
           parts and small details that needed attention. I enjoyed the process,
@@ -17,14 +19,19 @@
           only remember them once I publish this case study for everyone to see,
           but that’s okay.
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           I’ve learned that website design is an incredibly complex job, <b>these
           4.5 months were a true marathon</b>, especially as a team of one. But it
           was also enjoyable, and I’ve learned that <b>sometimes it’s good to take
           a step back</b> and try something again after a few days had passed, that
           way a solution might be instantly obvious.
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        </div>
+      </div>
+      <div class="">
+        <h4 class="h4-medium mb-4 text-gray-900">Resource Management</h4>
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           There were some things that I was thinking about doing, like creating
           an empathy map, or a user journey map, but in the end, I didn’t spend
           time on them, because for this project I felt they weren’t necessary.
@@ -34,13 +41,18 @@
           doesn’t mean you have to do it if ultimately you won’t get closer to
           your goal</b>.
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        </div>
+      </div>
+      <div class="">
+        <h4 class="h4-medium mb-4 text-gray-900">Instinct vs. Proof</h4>
+      <div class="sm:px-3 sm:pl-8 sm:pr-4">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           I’ve also come to the conclusion that only doing something because
           your gut tells you to, or because you think <b>“I just like it this way”
           is not enough</b>. There needs to be a balance between instinct — which
           you will probably develop with experience — and well-formed reasons.
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           I like reading about best practices while sketching or even
           prototyping, to find out, for example, what the best location is for
           CTAs on a form. Most of the time, I have assumptions, but <b>it’s always
@@ -51,6 +63,7 @@
           make. So these things were a bit overwhelming during this project. But
           I’m sure this feeling will kind of go away as I gain more experience.
         </p>
+      </div>
       </div>
     </div>
   </div>
@@ -64,7 +77,7 @@
   <div
     class="
       flex flex-row
-      desktop:px-32
+      xl:px-32
       px-4
       md:px-6
       sm:px-4
@@ -73,7 +86,7 @@
       text-left
     "
   >
-    <div class="paragraph-mobile-small desktop:paragraph-regular m-auto">
+    <div class="paragraph-mobile-small xl:paragraph-regular m-auto">
       <p class="">
         <a href="https://miro.com/app/board/o9J_loXL4Jk=/?share_link_id=144180012134" target="_blank"
           >Research</a
