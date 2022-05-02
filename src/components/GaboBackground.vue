@@ -265,11 +265,11 @@
         <picture>
           <source
             media="(max-width: 639px)"
-            srcset="/src/assets/xl-vertical@2x.jpg"
+            srcset="/src/assets/desktop-vertical@2x.jpg"
           />
           <source
             media="(max-width: 767px)"
-            srcset="/src/assets/xl-vertical@2x.jpg"
+            srcset="/src/assets/desktop-vertical@2x.jpg"
           />
           <img
             class="w-full"
