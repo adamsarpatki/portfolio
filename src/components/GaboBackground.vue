@@ -5,10 +5,10 @@
     </h2>
   </div>
 
-  <div class="study-grid h-auto mt-12 desktop:mt-0 desktop:pt-56">
+  <div class="study-grid h-auto mt-12 xl:mt-0 xl:pt-56">
     <div
       class="
-        desktop:col-start-1 desktop:col-end-7
+        xl:col-start-1 xl:col-end-7
         col-span-full
         row-start-1
         text-left
@@ -16,7 +16,7 @@
     >
       <h3 class="h3-bold text-gray-900 mb-7">Overview</h3>
       <div class="sm:px-3 sm:pl-8 sm:pr-8">
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           GABO Publishing is a Hungarian group, consisting of three publishers:
           GABO, Ciceró Könyvstúdió and Akkord. Each year they publish a lot of
           works on a lot of different topics, in multiple genres: romantic
@@ -29,7 +29,7 @@
 
     <div
       class="
-        desktop:pt-72 desktop:col-start-7 desktop:col-end-13
+        xl:pt-72 xl:col-start-7 xl:col-end-13
         col-span-full
         row-span-1
         text-left
@@ -38,7 +38,7 @@
       <div class="">
         <h4 class="h4-medium mb-4 text-gray-900">Timeline</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small xl:paragraph-regular">
             <b>About 4.5 months, from November 2021 to March 2022.</b> I've worked on this project in my free time, while having a full-time job as a translator/editor.
           </p>
         </div>
@@ -47,7 +47,7 @@
       <div class="">
         <h4 class="h4-medium mb-4 text-gray-900">My Role</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small xl:paragraph-regular">
             I am the sole designer on this project, doing everything myself from
             research to prototyping.
           </p>
@@ -56,13 +56,13 @@
     </div>
   </div>
 
-  <div class="study-grid h-auto mb-12 mt-12 desktop:mt-0 desktop:pt-56">
-    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
+  <div class="study-grid h-auto mb-12 mt-12 xl:mt-0 xl:pt-56">
+    <div class="xl:col-start-1 xl:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">The Problems</h3>
 
       <h4 class="h4-medium mb-4 text-gray-900">Problem #1</h4>
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           The design of GABO’s current online shop,
           <a href="https://www.gabo.hu/hu/" class="text-link" target="_blank"
             >GABO Online</a
@@ -71,7 +71,7 @@
           modern site, and it’s <b>not responsive</b>, so on mobile, you only
           get the desktop site, really zoomed out.
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
             For a publisher, having a nice online shop is important — when
             customers buy books directly from you, you get to keep every cent,
             so it’s in your interest for your shop to be nice and usable. With books,
@@ -80,7 +80,7 @@
             you cannot make up the difference your distributors keep from the
             profit.
           </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           Just in case they update it in the future, feel free to check out the
           <a
             href="https://miro.com/app/board/o9J_loXL4Jk=/?moveToWidget=3074457366784305196&cot=14"
@@ -96,15 +96,15 @@
 
     <div
       class="
-        desktop:pt-72
+        xl:pt-72
         col-start-1 col-end-13
-        desktop:col-start-7 desktop:col-end-13
+        xl:col-start-7 xl:col-end-13
         text-left
       "
     >
       <h4 class="h4-medium mb-4 text-gray-900">Problem #2</h4>
       <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           The publishing group <b>doesn’t have a unified branding</b>. Their
           online shop looks vastly different from their social media presence,
           Ciceró even has
@@ -160,17 +160,17 @@
   <div class="study-grid h-auto mb-12">
     <div
       class="
-        desktop:col-start-1 desktop:col-end-13
+        xl:col-start-1 xl:col-end-13
         col-span-full
         row-start-2
         text-left
       "
     >
       <h3 class="h3-bold text-gray-900 mb-7">Solution</h3>
-      <div class="desktop:col-start-1 desktop:col-end-7">
+      <div class="xl:col-start-1 xl:col-end-7">
         <h4 class="h4-medium mb-4 text-gray-900">Disclaimer</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small xl:paragraph-regular">
             First and foremost, the solution I propose here is <b>a concept</b>.
             I wasn’t contacted by anyone at GABO to do this project, I did
             everything in my free time, and for no compensation whatsoever.
@@ -184,10 +184,10 @@
           </p>
         </div>
       </div>
-      <div class="desktop:col-start-1 desktop:col-end-7">
+      <div class="xl:col-start-1 xl:col-end-7">
         <h4 class="h4-medium mb-4 text-gray-900">Scope</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small xl:paragraph-regular">
             <b
               >I wanted to focus mostly on redesigning GABO Online (for desktop
               and for mobile), and, to a lesser extent, on branding.</b
@@ -195,7 +195,7 @@
             I’m not a graphic designer, so I felt like I shouldn’t spend too
             much time on the latter.
           </p>
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small xl:paragraph-regular">
             I also knew that redesigning a whole site is a lot of work, so I set
             out to create a new home page and a new product page. But the home
             page needed some extra features, like a sign-up flow, and after the
@@ -203,7 +203,7 @@
             checkout process seemed like logical next steps. So this project
             grew quite a bit as time went on...
           </p>
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small xl:paragraph-regular">
               While the analysis of this is beyond the scope of this project, the group’s distributor, <a
                 href="https://www.facebook.com/GABOKIADO/posts/419854423071594"
                 class="text-link"
@@ -216,10 +216,10 @@
               >, selling their older books for a lower price. However, they don’t seem to advertise this site anywhere on GABO Online, and since it looks like <a href="https://www.gabo.hu/hu/content/5-altalanos-szerzodesi-feltetelek" class="text-link" target="_blank">GABO Online is also operated by Talentum</a>, from a product strategy perspective I think it was a weird decision to sell their books for a lower price here, and a higher price there. <b>Why not enhance GABO Online’s user experience, and try selling bargain-priced books for their existing buyers?</b> Why do users have to sign up for another site? Why create <a href="https://www.facebook.com/akcioskonyvek.hu" class="text-link" target="_blank">a separate Facebook page</a> for akcióskönyvek.hu?</p>
         </div>
       </div>
-      <div class="desktop:col-start-1 desktop:col-end-7">
+      <div class="xl:col-start-1 xl:col-end-7">
         <h4 class="h4-medium mb-4 text-gray-900">Branding</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small xl:paragraph-regular">
             Even though branding wasn’t my main concern, I had jotted down some
             thoughts after checking out some of GABO’s competitors. As one of
             Hungary’s largest publishing groups,
@@ -238,7 +238,7 @@
             for show: you can select books to buy, add them to your cart, and
             then buy them on their main online shop.
           </p>
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small xl:paragraph-regular">
             I think GABO Online should become a main online shop like that -
             just like it is now, while also having
             <b>secondary sites for the three publishers</b>, introducing them
@@ -248,7 +248,7 @@
             <b>make the publishing group’s online presence more personal</b> and
             I think that would be invaluable.
           </p>
-          <p class="paragraph-mobile-small desktop:paragraph-regular">
+          <p class="paragraph-mobile-small xl:paragraph-regular">
             Since this topic should be a part of a larger business decision that's not the scope of my project, for my current design, I’ve opted for something simpler: I put some
             links about the group in the footer, and I’ve used GABO’s current
             purple-black logo as an inspiration for the colour scheme.

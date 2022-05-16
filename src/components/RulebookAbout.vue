@@ -91,7 +91,7 @@
         </defs>
       </svg>
       <h3 class="h3-bold text-gray-900 mb-7">Background</h3>
-      <p class="paragraph-mobile-small desktop:paragraph-regular">
+      <p class="paragraph-mobile-small xl:paragraph-regular">
         D&D Rulebook started as a concept I did for Udacity's User Experience
         Nanodegree program, but it soon became a passion project of mine.
       </p>
@@ -126,7 +126,7 @@
         </defs>
       </svg>
       <h3 class="h3-bold text-gray-900 mb-7">Timeline</h3>
-      <p class="paragraph-mobile-small desktop:paragraph-regular">March - June 2021.<br/>I've worked on this project in my free time, while having a full-time job as a translator/editor.</p>
+      <p class="paragraph-mobile-small xl:paragraph-regular">March - June 2021.<br/>I've worked on this project in my free time, while having a full-time job as a translator/editor.</p>
     </div>
 
     <div
@@ -162,7 +162,7 @@
       </svg>
 
       <h3 class="h3-bold text-gray-900 mb-7">My Role</h3>
-      <p class="paragraph-mobile-small desktop:paragraph-regular">
+      <p class="paragraph-mobile-small xl:paragraph-regular">
         As the sole UX/UI designer on this project, I was involved in every
         phase of the process from research through ideation to prototyping and
         testing.
@@ -171,23 +171,23 @@
   </div>
 
   <div class="study-grid h-auto mb-12">
-    <div class="desktop:col-start-1 desktop:col-end-7 col-span-full text-left">
+    <div class="xl:col-start-1 xl:col-end-7 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">The Problem</h3>
       <div class="sm:px-3 sm:pl-8 sm:pr-4">
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           In recent years Dungeons & Dragons (D&D) became more popular than
           ever. During the COVID-19 pandemic, it became impossible for players
           of tabletop RPGs to meet in person — this made online gaming even more
           popular than before. People started playing on Zoom or Discord, and
           the number of users of virtual tabletops skyrocketed.
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           So that got me thinking. Since most everyone in the hobby — including
           my own gaming group — used online, or at least digital tools to play
           at the time, that had to come with its own set of problems. I knew I've
           had those, so why wouldn't others have them, too?
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           I've decided to focus on an area that I've always found problematic.
           <b
             >Dungeons & Dragons has such extensive rules, that I think it's
@@ -195,17 +195,17 @@
             game sessions.</b
           >
         </p>
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           So I set out to see what opportunities and needs might exist for new
           products aimed at D&D players.
         </p>
       </div>
     </div>
 
-    <div class="desktop:col-start-7 desktop:col-end-13 col-span-full text-left">
+    <div class="xl:col-start-7 xl:col-end-13 col-span-full text-left">
       <h3 class="h3-bold text-gray-900 mb-7">The Solution</h3>
       <div class="sm:px-3 sm:pl-8 sm:pr-4">
-        <p class="paragraph-mobile-small desktop:paragraph-regular">
+        <p class="paragraph-mobile-small xl:paragraph-regular">
           D&D Rulebook is a new mobile app for D&D players. In its most basic
           form, users can access the official rules of the game, both in a
           browsable, more book-like format (for casual reading between game

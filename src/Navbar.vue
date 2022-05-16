@@ -3,7 +3,7 @@
   <header
     class="
       bg-blue-900
-      desktop:px-32
+      xl:px-32
       md:px-6
       sm:px-4
       px-4
@@ -72,7 +72,7 @@
     >
         <router-link class="
             sm:text-base
-            desktop:text-xl
+            xl:text-xl
             sm:w-20
             sm:mx-2.5
             px-2
@@ -86,7 +86,7 @@
         </router-link>
         <router-link  class="
             sm:text-base
-            desktop:text-xl
+            xl:text-xl
             sm:w-20
             sm:mx-2.5
             mt-1

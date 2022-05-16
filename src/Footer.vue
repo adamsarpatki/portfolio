@@ -9,13 +9,13 @@
           items-center
           flex-col
           px-4
-          desktop:px-32
+          xl:px-32
           md:px-6
           sm:px-4
           flex
         "
       >
-      <div class="desktop:px-400 md:px-166 sm:px-124 px-6 mb-8 mt-6 max-w-1184">
+      <div class="desktop:px-400 xl:px-64 md:px-166 sm:px-124 px-6 mb-8 mt-6 max-w-1184">
        <p class="h4-medium text-gray-50 mb-1">Ádám Sárpátki</p>
        <p class="footer-regular text-gray-50">An enthusiastic UX designer based in Budapest, who loves combining his attention to detail with his creativity.</p>
       </div>

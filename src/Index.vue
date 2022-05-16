@@ -6,7 +6,7 @@
       h-496
       sm:h-496
       px-4
-      desktop:px-32
+      xl:px-32
       md:px-6
       sm:px-4
       flex flex-col
@@ -18,11 +18,11 @@
       sm:mb-20
     "
   >
-    <div class="desktop:px-72 sm:px-4 md:px-68">
+    <div class="xl:px-72 sm:px-4 md:px-68">
       <h1 class="sm:h1-bold h2-bold text-blue-900 mb-11">
         Hi, I'm Ádám Sárpátki,
       </h1>
-      <p class="subheading-regular text-gray-700 mb-14 desktop:px-64">
+      <p class="subheading-regular text-gray-700 mb-14 xl:px-162 desktop:px-64">
         an enthusiastic UX designer based in Budapest, Hungary, with a
         professional background in library and information science, and
         translation.
@@ -45,7 +45,7 @@
       mx-auto
       my-8
       sm:mx-0
-      desktop:px-32
+      xl:px-32
       md:px-6
       sm:px-4
       min-h-720
@@ -67,7 +67,7 @@
           srcset="/src/assets/study-card-gabo-mobile@2x.png"
         />
         <source
-          media="(max-width: 1439px)"
+          media="(max-width: 1279px)"
           srcset="/src/assets/study-card-gabo-tablet@2x.png"
         />
         <img
@@ -86,11 +86,11 @@
           mt-4
           sm:mt-0
           h-full
-          desktop:w-1/2
+          xl:w-1/2
           md:w-1/2
           sm:w-3/5
           w-343
-          desktop:left-6
+          xl:left-6
           md:left-4
           md:pr-0
           sm:left-1
@@ -144,7 +144,7 @@
           srcset="/src/assets/study-card-mobile@2x.png"
         />
         <source
-          media="(max-width: 1439px)"
+          media="(max-width: 1279px)"
           srcset="/src/assets/study-card-tablet@2x.png"
         />
         <img

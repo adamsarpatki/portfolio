@@ -1,10 +1,10 @@
 <template>
     <!-- About Me -->
-  <div class="px-4 desktop:px-32 md:px-6 sm:px-4 sm:mt-24 pt-12 grid grid-cols-12 gap-4">
-    <img class="desktop:col-span-6 desktop:row-span-2 desktop:self-center desktop:mt-0 order-3 desktop:order-1 desktop:w-5/6 desktop:justify-self-center col-span-full mt-1 fix-blur" src="/src/assets/adam-sarpatki-bench-web.jpg" alt="Image of Adam Sarpatki sitting on a bench">
+  <div class="px-4 xl:px-32 md:px-6 sm:px-4 sm:mt-24 pt-12 grid grid-cols-12 gap-4">
+    <img class="xl:col-span-6 xl:row-span-2 xl:self-top xl:mt-0 order-3 xl:order-1 xl:w-5/6 xl:justify-self-center col-span-full mt-1 fix-blur" src="/src/assets/adam-sarpatki-bench-web.jpg" alt="Image of Adam Sarpatki sitting on a bench">
     
-    <h1 class="sm:h1-bold h2-bold text-blue-900 desktop:col-start-7 desktop:col-end-13 desktop:text-left text-center col-span-full leading-56 md:order-1 mb-5">Hi, I’m Ádám, a UX designer based in Budapest, Hungary.</h1>
-    <div class="desktop:paragraph-regular paragraph-mobile desktop:col-start-7 desktop:col-end-13 col-span-full sm:text-left text-center order-2">
+    <h1 class="sm:h1-bold h2-bold text-blue-900 xl:col-start-7 xl:col-end-13 xl:text-left text-center col-span-full leading-56 md:order-1 mb-5">Hi, I’m Ádám, a UX designer based in Budapest.</h1>
+    <div class="xl:paragraph-regular paragraph-mobile xl:col-start-7 xl:col-end-13 col-span-full sm:text-left text-center order-2">
       <p class="mb-4">
         I have a professional background in <b>library science</b>, but I’m currently working as a freelance literary translator and editor for several Hungarian publishers — at this point, I’ve worked on more than 50 books.
       </p>
@@ -27,7 +27,7 @@
         Outside of UX, I like to spend my time knitting, cooking, and listening to podcasts or music. I also love playing RPGs and video games, painting miniatures, or drawing fantasy maps.
       </p>
     </div>
-
+      
     </div>
 <WorkTogether/>
 </template>

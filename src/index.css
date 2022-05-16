@@ -107,7 +107,7 @@
     }
 
     .nav-link {
-        @apply font-subheading desktop:text-xl md:text-base font-normal text-gray-50
+        @apply font-subheading xl:text-xl md:text-base font-normal text-gray-50
     }
     
     .text-link {
@@ -119,11 +119,11 @@
     }
     
     .btn {
-        @apply h-20 w-296 desktop:w-184 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md hover:bg-blue-800 hover:text-gray-50 transition duration-200 ease-in-out
+        @apply h-20 w-296 xl:w-184 text-xl font-bold text-gray-900 bg-yellow-400 font-body rounded-md hover:bg-blue-800 hover:text-gray-50 transition duration-200 ease-in-out
     }   
 
     .btn-disabled {
-        @apply h-20 w-296 desktop:w-184 text-xl font-bold text-gray-900 bg-gray-300 font-body rounded-md
+        @apply h-20 w-296 xl:w-184 text-xl font-bold text-gray-900 bg-gray-300 font-body rounded-md
     }
     
 }
@@ -135,7 +135,7 @@
     }
 
 .study-grid {
-    @apply grid grid-cols-12 gap-4 px-4 desktop:px-32 md:px-6 sm:px-4
+    @apply grid grid-cols-12 gap-4 px-4 xl:px-32 md:px-6 sm:px-4
 }
 
 td {
