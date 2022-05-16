@@ -196,7 +196,7 @@
             much time on the latter.
           </p>
           <p class="paragraph-mobile-small xl:paragraph-regular">
-            I also knew that redesigning a whole site is a lot of work, so I set
+            I also suspected that redesigning a whole site is a lot of work, so I set
             out to create a new home page and a new product page. But the home
             page needed some extra features, like a sign-up flow, and after the
             product page, creating the cart popup and the first stage of the

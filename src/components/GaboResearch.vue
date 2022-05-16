@@ -93,7 +93,7 @@
           <p class="paragraph-mobile-small xl:paragraph-regular">
             Next, I facilitated quite long (1.5-2hrs) and detailed <b>usability
             testing sessions over Zoom</b> to find out what other people’s pain
-            points and needs are when encountering this webshop. These sessions
+            points and needs are when encountering this webshop, and to verify or disprove my assumptions. These sessions
             started with a <b>short user interview</b>, where we talked about how
             participants shop online in general, what kind of books they like,
             from where they buy them etc., then we started <b>testing the site,
