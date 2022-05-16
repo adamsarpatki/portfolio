@@ -24,7 +24,7 @@
       </h1>
       <p class="subheading-regular text-gray-700 mb-14 xl:px-162 desktop:px-64">
         an enthusiastic UX designer based in Budapest, Hungary, with a
-        background in library and information science, customer service and
+        professional background in library and information science, and
         translation.
       </p>
       <router-link to="/about-me"
@@ -102,7 +102,7 @@
         <p class="uppercase sm:paragraph-regular paragraph-regular-small desktop:mb-28 md:mb-12 sm:mb-14 mb-4">Concept / UX / E-Commerce</p>
         <h2 class="px-2 sm:p-0 sm:inline sm:display-medium-smaller h1-medium text-gray-900">GABO Online</h2>
         <p class="md:subheading-italic subheading-italic-small text-gray-900 desktop:mb-9 sm:mb-7 mb-5">
-          Redesigning a Hungarian publisher's website and webshop.
+          Redesigning a Hungarian publisher's website and online shop.
         </p>
         <router-link to="/gabo">
         <button class="btn">View Case Study</button></router-link>

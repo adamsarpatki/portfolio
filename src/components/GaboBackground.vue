@@ -39,7 +39,7 @@
         <h4 class="h4-medium mb-4 text-gray-900">Timeline</h4>
         <div class="sm:px-3 sm:pl-8 sm:pr-4 mt-2">
           <p class="paragraph-mobile-small xl:paragraph-regular">
-            About 4.5 months, from November 2021 to March 2022.
+            <b>About 4.5 months, from November 2021 to March 2022.</b> I've worked on this project in my free time, while having a full-time job as a translator/editor.
           </p>
         </div>
       </div>

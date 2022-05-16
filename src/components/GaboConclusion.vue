@@ -88,14 +88,14 @@
   >
     <div class="paragraph-mobile-small xl:paragraph-regular m-auto">
       <p class="">
-        <a href="https://miro.com/app/board/o9J_loXL4Jk=/?share_link_id=144180012134" target="_blank"
+        <a href="https://miro.com/app/board/o9J_loXL4Jk=/?share_link_id=144180012134" target="_blank" class="text-link"
           >Research</a
         >
       </p>
       <p>
         <a
           href="https://www.figma.com/proto/2ricnzWQNFa1VKvriNKnUa/GABO-Online-redesign?node-id=167%3A6008&scaling=min-zoom&page-id=167%3A5997&starting-point-node-id=167%3A6008&show-proto-sidebar=1"
-          target="_blank"
+          target="_blank" class="text-link"
           >Final prototype</a
         >
       </p>
@@ -104,28 +104,28 @@
       <p>
         <a
           href="https://www.figma.com/community/file/1083171276892345691"
-          target="_blank"
+          target="_blank" class="text-link"
           >Material Design Icons</a
         >
       </p>
       <p>
         <a
           href="https://www.figma.com/community/file/922738986195002030"
-          target="_blank"
+          target="_blank" class="text-link"
           >iOS 15 Safari UI Kit</a
         >
       </p>
       <p>
         <a
           href="https://unsplash.com/collections/1vnTNCXD1Xw/gabo-redesign-project"
-          target="_blank"
+          target="_blank" class="text-link"
           >Images I've used or considered using for the project</a
         >
       </p>
       <p>
         <a
           href="https://www.figma.com/community/file/775789888359782610"
-          target="_blank"
+          target="_blank" class="text-link"
           >Device Mockups</a
         >
       </p>
