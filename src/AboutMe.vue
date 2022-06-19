@@ -12,7 +12,7 @@
         So you might ask the question: why do I want to switch to UX design?
       </p>
       <p class="mb-4">
-        Well, I think <b>a part of me was always interested in UX</b>, just didn’t have the word for it. But now that I’m learning more and more about it, I realise <b>a lot of the things a librarian does is UX</b>: answering reference questions, understanding your patrons’ needs and problems, organizing information using various classification systems, helping patrons find what they’re looking for, saving them a lot of time and effort. Sounds familiar?
+        Well, I think <b>a part of me was always interested in UX</b>, just didn’t have the word for it. But now that I’m learning more and more about it, I realise <b>a lot of the things a librarian does is related to UX</b>: answering reference questions, understanding your patrons’ needs and problems, organizing information using various classification systems, helping patrons find what they’re looking for, saving them a lot of time and effort. Sounds familiar?
       </p>
       <p class="mb-4">
         Since I graduated from university in 2012, I’ve used a lot of software that wasn’t user-friendly. So that taught me <b>how important it is to have human-centred solutions, and now I want to make a positive impact by creating these solutions</b>.
