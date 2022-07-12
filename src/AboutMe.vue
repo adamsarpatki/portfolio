@@ -1,7 +1,7 @@
 <template>
     <!-- About Me -->
   <div class="px-4 xl:px-32 md:px-6 sm:px-4 sm:mt-24 pt-12 grid grid-cols-12 gap-4">
-    <img class="xl:col-span-6 xl:row-span-2 xl:self-top xl:mt-0 order-3 xl:order-1 xl:w-5/6 xl:justify-self-center col-span-full mt-1 fix-blur" src="/src/assets/adam-sarpatki-bench-web.jpg" alt="Image of Adam Sarpatki sitting on a bench">
+    <img class="xl:col-span-6 xl:row-span-2 xl:self-top xl:mt-0 order-3 xl:order-1 xl:w-5/6 xl:justify-self-center col-span-full mt-1 fix-blur" src="/src/assets/adam-sarpatki.png" alt="An image of Adam Sarpatki standing in front of a white wall and smiling.">
     
     <h1 class="sm:h1-bold h2-bold text-blue-900 xl:col-start-7 xl:col-end-13 xl:text-left text-center col-span-full leading-56 md:order-1 mb-5">Hi, I’m Ádám, a UX designer based in Budapest.</h1>
     <div class="xl:paragraph-regular paragraph-mobile xl:col-start-7 xl:col-end-13 col-span-full sm:text-left text-center order-2">
