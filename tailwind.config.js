@@ -1,8 +1,11 @@
 const colors = require('tailwindcss/colors')
 
 module.exports = {
-  purge: [],
-  darkMode: false, // or 'media' or 'class'
+  mode: 'jit',
+  content: [
+    './src/**/*.{html,js,vue}',
+    './index.html'
+  ],
   theme: {
 
     screens: {
@@ -131,11 +134,7 @@ module.exports = {
 
     },
   },
-  variants: {
-    extend: {
-      stroke: ['hover', 'focus'],
-    },
-  },
+  
   plugins: [
     require('@tailwindcss/aspect-ratio'),
   ],

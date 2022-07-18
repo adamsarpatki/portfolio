@@ -1,11 +1,13 @@
 @tailwind base;
 @tailwind components;
+@tailwind utilities;
 
-.cs-heading {
-    @apply font-heading text-4xl desktop:text-5xl md:text-5xl sm:text-4xl font-medium
-}
+@layer components {
 
-@responsive {
+    .cs-heading {
+        @apply font-heading text-4xl desktop:text-5xl md:text-5xl sm:text-4xl font-medium
+    }
+
     .display-medium {
         @apply font-heading text-display font-medium
         
@@ -126,7 +128,6 @@
         @apply h-20 w-296 xl:w-184 text-xl font-bold text-gray-900 bg-gray-300 font-body rounded-md
     }
     
-}
 
     li > ol,
     li > ul,
@@ -155,4 +156,4 @@ a {
     @apply paragraph-regular bg-gray-300 rounded-md mb-8 placeholder-gray-500 px-3
 }
 
-@tailwind utilities;
+}
