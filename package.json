@@ -8,18 +8,20 @@
   },
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.2.2",
-    "feather-icons": "^4.28.0",
-    "vue": "^3.2.31",
+    "feather-icons": "^4.29.0",
+    "vue": "^3.2.37",
     "vue-feather": "^2.0.0",
-    "vue-router": "^4.0.14"
+    "vue-router": "^4.1.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.10.2",
-    "@vue/compiler-sfc": "^3.2.31",
-    "autoprefixer": "^10.4.4",
-    "postcss": "^8.4.12",
+    "@vue/compiler-sfc": "^3.2.37",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.1.12",
     "tailwindcss": "^2.2.19",
     "tailwindcss-image-rendering": "^1.0.2",
-    "vite": "^2.8.6"
+    "vite": "^2.9.14"
   }
 }
