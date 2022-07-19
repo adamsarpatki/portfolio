@@ -35,173 +35,24 @@ Are you interested in working together?
       
   </div>
   <div class="col-start-9 col-end-13 self-top fix-blur mt-72">
-      <img class="" src="/src/assets/adam-sarpatki.png" alt="An image of Adam Sarpatki standing in front of a white wall and smiling."></div>
+      <img class="rounded-full border-solid border-gray-900 border-2" src="/src/assets/me_2022_medium_v2.jpg" alt="An image of Adam Sarpatki standing in front of a white wall and smiling."></div>
   </div>
     
 
-  <div
-    class="
-      flex flex-row
-      items-center
-      justify-center
-      md:h-456
-      sm:h-456
-      w-343
-      sm:w-auto
-      mx-auto
-      my-8
-      sm:mx-0
-      xl:px-32
-      md:px-6
-      sm:px-4
-      min-h-720
-      rounded-md
-      sm:rounded-none
-      bg-gabo
-      sm:bg-transparent
-      shadow-card sm:shadow-none
-    "
-  >
-    <div class="sm:relative flex flex-col sm:shadow-card order-last sm:order-none w-auto mx-auto rounded-md">
-      <picture>
-        <source
-          media="(max-width: 639px)"
-          srcset="/src/assets/study-card-gabo-small@2x.png"
-        />
-        <source
-          media="(max-width: 767px)"
-          srcset="/src/assets/study-card-gabo-mobile@2x.png"
-        />
-        <source
-          media="(max-width: 1279px)"
-          srcset="/src/assets/study-card-gabo-tablet@2x.png"
-        />
-        <img
-          class="h-456 sm:rounded-md rounded-md"
-          srcset="/src/assets/study-card-gabo-desktop@2x.png"
-          alt="The header image of the GABO Redesign"
-        />
-      </picture>
 
-      <div
-        class="
-          sm:absolute
-          sm:text-left
-          flex flex-col
-          sm:justify-center
-          mt-4
-          sm:mt-0
-          h-full
-          xl:w-1/2
-          md:w-1/2
-          sm:w-3/5
-          w-343
-          xl:left-6
-          md:left-4
-          md:pr-0
-          sm:left-1
-          sm:px-4
-          order-first
-          sm:order-none
-        "
-      >
-        <p class="uppercase sm:paragraph-regular paragraph-regular-small desktop:mb-28 md:mb-12 sm:mb-14 mb-4">Concept / UX / E-Commerce</p>
-        <h2 class="px-2 sm:p-0 sm:inline sm:display-medium-smaller h1-medium text-gray-900">GABO Online</h2>
-        <p class="md:subheading-italic subheading-italic-small text-gray-900 desktop:mb-9 sm:mb-7 mb-5">
-          Redesigning a Hungarian publisher's website and online shop.
-        </p>
-        <router-link to="/gabo">
-        <button class="btn">View Case Study</button></router-link>
-      </div>
-    </div>
-  </div>
-
-  <div
-    class="
-      flex flex-row
-      items-center
-      justify-center
-      md:h-456
-      sm:h-456
-      w-343
-      sm:w-auto
-      mx-auto
-      my-8
-      sm:mx-0
-      desktop:px-32
-      md:px-6
-      sm:px-4
-      min-h-720
-      rounded-md
-      sm:rounded-none
-      bg-rulebook
-      sm:bg-transparent
-      shadow-card sm:shadow-none
-    "
-  >
-    <div class="sm:relative flex flex-col sm:shadow-card order-last sm:order-none w-auto mx-auto rounded-md">
-      <picture>
-        <source
-          media="(max-width: 639px)"
-          srcset="/src/assets/study-card-small@2x.png"
-        />
-        <source
-          media="(max-width: 767px)"
-          srcset="/src/assets/study-card-mobile@2x.png"
-        />
-        <source
-          media="(max-width: 1279px)"
-          srcset="/src/assets/study-card-tablet@2x.png"
-        />
-        <img
-          class="h-456 sm:rounded-md rounded-md"
-          srcset="/src/assets/study-card-desktop@2x.png"
-          alt="The header image of the D&D Rulebook project"
-        />
-      </picture>
-
-      <div
-        class="
-          sm:absolute
-          sm:text-left
-          flex flex-col
-          sm:justify-center
-          mt-4
-          sm:mt-0
-          h-full
-          desktop:w-984
-          md:w-3/5
-          sm:w-1/2
-          w-343
-          desktop:left-6
-          md:left-4
-          md:pr-0
-          sm:left-1
-          sm:px-4
-          order-first
-          sm:order-none
-        "
-      >
-        <p class="uppercase sm:paragraph-regular paragraph-regular-small desktop:mb-28 md:mb-12 sm:mb-14 mb-4">Concept / UX / Gaming</p>
-        <h2 class="sm:display-medium-smaller h1-medium text-gray-900">D&D Rulebook</h2>
-        <p class="md:subheading-italic subheading-italic-small text-gray-900 desktop:mb-9 sm:mb-7 mb-5">
-          A mobile-based solution for the players of Dungeons & Dragons.
-        </p>
-        <router-link to="/rulebook"><button class="btn">View Case Study</button></router-link>
-      </div>
-    </div>
-  </div>
-
+  <CaseStudies />
   <WorkTogether />
 </template>
 
 <script>
 import WorkTogether from "./WorkTogether.vue";
+import CaseStudies from "./CaseStudies.vue";
 
 export default {
   name: "Index",
   components: {
     WorkTogether,
+    CaseStudies,
   },
 };
 </script>

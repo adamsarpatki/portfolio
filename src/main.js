@@ -7,6 +7,7 @@ import "./index.css"
 import Index from "./Index.vue"
 import AboutMe from "./AboutMe.vue"
 import WorkTogether from "./WorkTogether.vue"
+import CaseStudies from "./CaseStudies.vue"
 import Rulebook from "./Rulebook.vue"
 import Gabo from "./Gabo.vue"
 import Privacy from "./Privacy.vue"
@@ -15,6 +16,7 @@ const routes = [
     { path: '/', component: Index },
     { path: '/about-me', component: AboutMe },
     { path: '/worktogether', component: WorkTogether},
+    { path: '/casestudies', component: CaseStudies},
     { path: '/rulebook', component: Rulebook},
     { path: '/gabo', component: Gabo},
     { path: '/privacy', component: Privacy},
