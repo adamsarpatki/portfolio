@@ -2,13 +2,11 @@
   <!-- Navbar -->
   <header
     class="
-      bg-blue-900
+    bg-white
       xl:px-32
       md:px-6
       sm:px-4
       px-4
-      
-      shadow-navbar
       sticky
       z-50
       top-0
@@ -17,8 +15,8 @@
       sm:items-center
     "
   >
-    <div class="flex items-center justify-between px-4 py-3 sm:py-0 h-16">
-      <router-link class="nav-link" to="/">Ádám Sárpátki</router-link>
+    <div class="flex items-center justify-between py-3 sm:py-0 h-16">
+      <router-link class="nav-link font-bold" to="/">Ádám Sárpátki</router-link>
       <div class="sm:hidden">
         <button
           @click="isOpen = !isOpen"
@@ -26,9 +24,7 @@
           class="
             flex flex-row
             items-center
-            text-gray-50
-            hover:text-yellow-400
-            focus:text-yellow-400
+            text-gray-900
             focus:outline-none
           "
         >
@@ -78,11 +74,10 @@
             px-2
             py-1
             block
-            text-gray-50
+            text-gray-900
             font-subheading
-            hover:text-yellow-400
             "
-            to="/">Work
+            to="/"><span class=" hover:bg-yellow-300 hover:text-gray-900 hover:underline decoration-gray-900">Work</span>
         </router-link>
         <router-link  class="
             sm:text-base
@@ -94,10 +89,8 @@
             block
             px-2
             py-1
-            text-gray-50
-            font-subheading
-            hover:text-yellow-400
-            " to="/about-me">About
+            text-gray-900
+            font-subheading" to="/about-me"><span class=" hover:bg-yellow-300 hover:text-gray-900 hover:underline decoration-gray-900">About</span>
         </router-link>
         
     </nav>
