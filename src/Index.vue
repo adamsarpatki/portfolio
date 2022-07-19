@@ -41,6 +41,7 @@ Are you interested in working together?
 
 
   <CaseStudies />
+  <Dribbble />
   <Values />
   <WorkTogether />
 
@@ -50,6 +51,7 @@ Are you interested in working together?
 import WorkTogether from "./WorkTogether.vue";
 import CaseStudies from "./CaseStudies.vue";
 import Values from "./Values.vue";
+import Dribbble from "./Dribbble.vue";
 
 export default {
   name: "Index",
@@ -57,6 +59,7 @@ export default {
     CaseStudies,
     Values,
     WorkTogether,
-  },
+    Dribbble
+},
 };
 </script>

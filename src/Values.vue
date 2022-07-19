@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-72">
+  <div class="mt-20">
     <h2 class="h2-bold mb-72">Why Work with Me?</h2>
   </div>
 
