@@ -105,15 +105,15 @@
     }
 
     .footer-link {
-        @apply font-body text-tiny text-gray-50 font-normal border-b p-px border-gray-50 hover:border-yellow-400
+        @apply font-body text-tiny font-normal underline decoration-teal-400 hover:bg-yellow-300 hover:text-gray-900 hover:underline hover:decoration-gray-900 decoration-2
     }
 
     .nav-link {
-        @apply font-subheading xl:text-xl md:text-base font-normal text-gray-900 hover:bg-yellow-300 hover:text-gray-900 hover:underline decoration-gray-900
+        @apply font-subheading xl:text-xl md:text-base font-normal text-gray-900 hover:bg-yellow-300 hover:text-gray-900 hover:underline decoration-gray-900 decoration-2
     }
     
     .text-link {
-        @apply p-px underline text-gray-900 decoration-teal-400 hover:bg-yellow-300 hover:text-gray-900 hover:underline hover:decoration-gray-900
+        @apply underline text-gray-900 decoration-teal-400 hover:bg-yellow-300 hover:text-gray-900 hover:underline hover:decoration-gray-900 decoration-2
     }
 
     
@@ -145,7 +145,7 @@ th {
 }
 
 a {
-    @apply hover:text-yellow-400 text-blue-800
+    @apply hover:text-yellow-400 text-gray-900
 }
 
 
