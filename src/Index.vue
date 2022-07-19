@@ -41,18 +41,22 @@ Are you interested in working together?
 
 
   <CaseStudies />
+  <Values />
   <WorkTogether />
+
 </template>
 
 <script>
 import WorkTogether from "./WorkTogether.vue";
 import CaseStudies from "./CaseStudies.vue";
+import Values from "./Values.vue";
 
 export default {
   name: "Index",
   components: {
-    WorkTogether,
     CaseStudies,
+    Values,
+    WorkTogether,
   },
 };
 </script>
