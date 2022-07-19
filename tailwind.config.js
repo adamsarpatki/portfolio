@@ -30,8 +30,8 @@ module.exports = {
     },
 
     fontFamily: {
-      'display': ['Montserrat'],
-      'heading': ['Montserrat'],
+      'display': ['Raleway'],
+      'heading': ['Raleway'],
       'body': ['Raleway'],
       'subheading': ['Raleway']
     },
@@ -67,10 +67,15 @@ module.exports = {
       red: colors.red,
       blue: colors.sky,
       yellow: colors.amber,
+      teal: colors.teal,
     },
 
     extend: {
       
+      colors:{
+        'white': '#ffffff',
+      },
+
       spacing: {
         '184': '11.5rem',
         '54': '3.375rem',
