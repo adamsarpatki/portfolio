@@ -6,9 +6,57 @@
 
   <div class="study-grid">
 
-<div class="col-start-1 col-end-7 border-2 border-solid h-72"></div>
+<div class="col-start-1 col-end-7 h-auto">
 
-<div class="col-start-7 col-end-13 border-2 border-solid h-72"></div>
+  <div class="border-2 border-gray-900 sm:relative flex flex-col order-last sm:order-none w-auto mx-auto">
+      <picture>
+        <source
+          media="(max-width: 639px)"
+          srcset="/src/assets/study-card-gabo-small@2x.png"
+        />
+        <source
+          media="(max-width: 767px)"
+          srcset="/src/assets/study-card-gabo-mobile@2x.png"
+        />
+        <source
+          media="(max-width: 1279px)"
+          srcset="/src/assets/study-card-gabo-tablet@2x.png"
+        />
+        <img
+          class="h-438"
+          srcset="/src/assets/rulebook-redesigned-study-card.jpg"
+          alt="The header image of the GABO Redesign"
+        />
+      </picture>
+  </div>
+
+</div>
+
+<div class="col-start-7 col-end-13 h-auto">
+
+<div class="border-2 border-gray-900 sm:relative flex flex-col order-last sm:order-none w-auto mx-auto">
+      <picture>
+        <source
+          media="(max-width: 639px)"
+          srcset="/src/assets/study-card-gabo-small@2x.png"
+        />
+        <source
+          media="(max-width: 767px)"
+          srcset="/src/assets/study-card-gabo-mobile@2x.png"
+        />
+        <source
+          media="(max-width: 1279px)"
+          srcset="/src/assets/study-card-gabo-tablet@2x.png"
+        />
+        <img
+          class="h-438 "
+          srcset="/src/assets/gabo-redesigned-study-card.jpg"
+          alt="The header image of the GABO Redesign"
+        />
+      </picture>
+  </div>
+
+</div>
 
   </div>
 
