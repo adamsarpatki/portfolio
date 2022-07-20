@@ -13,6 +13,7 @@ import Dribbble from "./Dribbble.vue"
 import Rulebook from "./Rulebook.vue"
 import Gabo from "./Gabo.vue"
 import Privacy from "./Privacy.vue"
+import Contact from "./Contact.vue"
 
 const routes = [
     { path: '/', component: Index },
@@ -24,6 +25,7 @@ const routes = [
     { path: '/rulebook', component: Rulebook},
     { path: '/gabo', component: Gabo},
     { path: '/privacy', component: Privacy},
+    { path: '/contact', component: Contact},
   ]
 
 const router = createRouter({
