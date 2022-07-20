@@ -23,7 +23,7 @@
 
     <div class="xl:col-start-8 xl:col-end-13 self-top fix-blur xl:order-1 xl:justify-self-center col-span-full">
       <img
-        class=""
+        class="w-auto"
         src="/src/assets/corgi.png"
         alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
       />

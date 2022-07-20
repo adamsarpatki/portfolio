@@ -1,11 +1,11 @@
 <template>
-  <Navbar/>
-
-<div class="max-w-screen-desktop m-auto">
-  <router-view></router-view>
-</div>
-  
-  <Footer />
+  <div>
+    <Navbar/>
+    <div class="max-w-screen-desktop m-auto">
+      <router-view></router-view>
+    </div>
+    <Footer />
+  </div>
 </template>
 
 <style>
@@ -15,6 +15,8 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #111827;
+  display: flex;
+  align-items: center;
   /* margin-top: 60px; */
 }
 </style>
