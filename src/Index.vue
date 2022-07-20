@@ -11,6 +11,7 @@
       sm:mb-72
       grid grid-cols-12 
       text-left
+      selection:bg-yellow-200 selection:text-gray-900
     "
   >
     <div class="col-start-1 col-end-9 sm:px-4 md:px-68 xl:px-0">
