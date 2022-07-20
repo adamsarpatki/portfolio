@@ -4,6 +4,10 @@
 
 @layer components {
 
+    .router-link-exact-active{
+        @apply bg-teal-500;
+      }
+
     .cs-heading {
         @apply font-heading text-4xl desktop:text-5xl md:text-5xl sm:text-4xl font-medium
     }
@@ -105,20 +109,20 @@
     }
 
     .footer-link {
-        @apply font-body text-tiny font-normal underline decoration-teal-400 hover:bg-yellow-300 hover:text-gray-900 hover:underline hover:decoration-gray-900 decoration-2
+        @apply font-body text-tiny font-normal underline decoration-teal-400 hover:bg-yellow-300 hover:text-gray-900 active:decoration-teal-400 hover:underline hover:decoration-gray-900 decoration-2
     }
 
     .nav-link {
-        @apply font-subheading xl:text-xl md:text-base font-normal text-gray-900 hover:bg-yellow-300 hover:text-gray-900 hover:underline decoration-gray-900 decoration-2
+        @apply font-subheading xl:text-xl md:text-base font-normal text-gray-900 hover:bg-yellow-300 hover:text-gray-900 active:decoration-teal-400 hover:underline decoration-gray-900 decoration-2
     }
     
     .text-link {
-        @apply underline text-gray-900 decoration-teal-400 hover:bg-yellow-300 hover:text-gray-900 hover:underline hover:decoration-gray-900 decoration-2
+        @apply underline text-gray-900 decoration-teal-400 hover:bg-yellow-300 hover:text-gray-900 hover:underline hover:decoration-gray-900 active:decoration-teal-400 decoration-2
     }
 
     
     .btn {
-        @apply h-20 w-296 xl:w-184 text-xl font-bold border-solid border-2 border-gray-900 text-gray-900 bg-teal-400 shadow-lg shadow-teal-600/30 font-body rounded-full hover:bg-yellow-300 hover:text-gray-900 hover:shadow-yellow-500/30 transition duration-200 ease-in-out
+        @apply h-20 w-296 xl:w-184 text-xl font-bold border-solid border-2 border-gray-900 text-gray-900 bg-teal-400 shadow-lg shadow-teal-600/30 font-body rounded-full hover:bg-yellow-300 hover:text-gray-900 hover:shadow-yellow-500/30 transition duration-200 ease-in-out active:border-teal-400
     }   
 
     .btn-disabled {

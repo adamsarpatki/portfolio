@@ -13,6 +13,8 @@
         text-left
         bg-gray-50
         rounded-xl
+        border-2 border-solid border-gray-900
+        hover:shadow-lg hover:shadow-teal-600/20
       "
     >
       <h3 class="h5-bold mb-4">Experienced with Users</h3>
@@ -37,6 +39,8 @@
         text-left
         bg-gray-50
         rounded-xl
+        border-2 border-solid border-gray-900
+        hover:shadow-lg hover:shadow-teal-600/20
       "
     >
       <h3 class="h5-bold mb-4">Experienced with Language</h3>
@@ -58,6 +62,8 @@
         text-left
         bg-gray-50
         rounded-xl
+        border-2 border-solid border-gray-900
+        hover:shadow-lg hover:shadow-teal-600/20
       "
     >
       <h3 class="h5-bold mb-4">Remote, Hybrid or On-Site</h3>
