@@ -77,7 +77,7 @@
             text-gray-900
             font-subheading
             "
-            to="/"><span class=" hover:bg-yellow-300 hover:text-gray-900 hover:underline decoration-gray-900">Work</span>
+            to="/"><span class=" nav-link">Work</span>
         </router-link>
         <router-link  class="
             sm:text-base
@@ -90,7 +90,7 @@
             px-2
             py-1
             text-gray-900
-            font-subheading" to="/about-me"><span class=" hover:bg-yellow-300 hover:text-gray-900 hover:underline decoration-gray-900">About</span>
+            font-subheading" to="/about-me"><span class=" nav-link">About</span>
         </router-link>
         
     </nav>
