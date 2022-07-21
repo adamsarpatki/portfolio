@@ -3,11 +3,11 @@
     <h2 class="h2-bold mb-72">Why Work with Me?</h2>
   </div>
 
-  <div class="study-grid">
+  <div class="xl:px-32 md:px-4 flex xl:flex-row flex-col gap-4 justify-center items-stretch mb-72">
     <div
       class="
         h-auto
-        col-start-1 col-end-5
+        xl:basis-1/3 
         py-8
         px-8
         text-left
@@ -33,7 +33,7 @@
     <div
       class="
         h-auto
-        col-start-5 col-end-9
+        xl:basis-1/3 
         py-8
         px-8
         text-left
@@ -56,7 +56,7 @@
     <div
       class="
         h-auto
-        col-start-9 col-end-13
+        xl:basis-1/3
         py-8
         px-8
         text-left

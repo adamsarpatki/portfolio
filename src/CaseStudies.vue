@@ -8,7 +8,7 @@
 
 
 
-<div class="xl:basis-1/2 ">
+<div class="xl:basis-1/2">
 
 <div class="group sm:relative flex flex-col mx-auto">
       <picture>
