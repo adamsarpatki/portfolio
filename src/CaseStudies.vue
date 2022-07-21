@@ -4,30 +4,30 @@
     <h2 class="h2-bold mb-72">Case Studies</h2>
   </div>
 
-  <div class="study-grid">
+  <div class="xl:px-32 md:px-4 flex xl:flex-row flex-col gap-4 justify-center items-center">
 
 
 
-<div class="col-start-1 col-end-7 h-auto">
+<div class="xl:basis-1/2 ">
 
-<div class="group sm:relative flex flex-col order-last sm:order-none w-auto mx-auto">
+<div class="group sm:relative flex flex-col mx-auto">
       <picture>
         <source
           media="(max-width: 639px)"
-          srcset="/src/assets/study-card-gabo-small@2x.png"
+          srcset="/src/assets/gabo-redesigned-study-card.jpg"
         />
         <source
           media="(max-width: 767px)"
-          srcset="/src/assets/study-card-gabo-mobile@2x.png"
+          srcset="/src/assets/gabo-redesigned-study-card.jpg"
         />
         <source
           media="(max-width: 1279px)"
-          srcset="/src/assets/study-card-gabo-tablet@2x.png"
+          srcset="/src/assets/gabo-redesigned-study-card.jpg"
         />
         <img
-          class="object-cover h-438 border-2 border-gray-900 rounded-xl"
+          class="object-cover xl:h-438 border-2 border-gray-900 rounded-xl"
           srcset="/src/assets/gabo-redesigned-study-card.jpg"
-          alt="The header image of the GABO Redesign"
+          alt="An image showing screens of GABO Publishing's redesigned website."
         />
         <div
             class="absolute bottom-0 left-0 w-full h-0 flex flex-col justify-center items-center bg-teal-900 opacity-0 group-hover:h-full group-hover:opacity-90 duration-500 rounded-xl px-16">
@@ -40,26 +40,26 @@
 
 </div>
 
-<div class="col-start-7 col-end-13 h-auto">
+<div class="xl:basis-1/2">
 
-  <div class="group sm:relative flex flex-col order-last sm:order-none w-auto mx-auto">
+  <div class="group sm:relative flex flex-col mx-auto">
       <picture>
         <source
           media="(max-width: 639px)"
-          srcset="/src/assets/study-card-gabo-small@2x.png"
+          srcset="/src/assets/rulebook-redesigned-study-card.jpg"
         />
         <source
           media="(max-width: 767px)"
-          srcset="/src/assets/study-card-gabo-mobile@2x.png"
+          srcset="/src/assets/rulebook-redesigned-study-card.jpg"
         />
         <source
           media="(max-width: 1279px)"
-          srcset="/src/assets/study-card-gabo-tablet@2x.png"
+          srcset="/src/assets/rulebook-redesigned-study-card.jpg"
         />
         <img
-          class="object-cover h-438 border-2 border-gray-900 rounded-xl"
+          class="object-cover xl:h-438 border-2 border-gray-900 rounded-xl"
           srcset="/src/assets/rulebook-redesigned-study-card.jpg"
-          alt="The header image of the GABO Redesign"
+          alt="An image showing screens of the D&D Rulebook mobile app."
         />
         <div
             class="absolute bottom-0 left-0 w-full h-0 flex flex-col justify-center items-center bg-teal-900 opacity-0 group-hover:h-full group-hover:opacity-90 duration-500 rounded-xl px-16">
