@@ -3,7 +3,7 @@
     <h2 class="h2-bold mb-72">Why Work with Me?</h2>
   </div>
 
-  <div class="xl:px-32 md:px-4 flex xl:flex-row flex-col gap-4 justify-center items-stretch mb-72">
+  <div class="xl:px-32 md:px-4 flex xl:flex-row flex-col gap-4 justify-center items-stretch">
     <div
       class="
         h-auto
@@ -14,7 +14,7 @@
         bg-gray-50
         rounded-xl
         border-2 border-solid border-gray-900
-        hover:shadow-lg hover:shadow-yellow-500/20
+        
       "
     >
       <h3 class="h5-bold mb-4">Experienced with Users</h3>
@@ -40,7 +40,7 @@
         bg-gray-50
         rounded-xl
         border-2 border-solid border-gray-900
-        hover:shadow-lg hover:shadow-yellow-500/20
+        
       "
     >
       <h3 class="h5-bold mb-4">Experienced with Language</h3>
@@ -63,7 +63,7 @@
         bg-gray-50
         rounded-xl
         border-2 border-solid border-gray-900
-        hover:shadow-lg hover:shadow-yellow-500/20
+        
       "
     >
       <h3 class="h5-bold mb-4">Remote, Hybrid or On-Site</h3>
