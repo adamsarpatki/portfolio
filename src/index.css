@@ -104,6 +104,22 @@
         @apply text-center text-sm font-body px-2 sm:px-8 desktop:p-0 mt-1
     }
 
+    .footer-container {
+        @apply grid grid-cols-2 max-w-1184
+    }
+
+    .footer-column {
+        @apply flex flex-col p-4
+    }
+
+    .footer-column-header {
+        @apply h4-bold
+    }
+
+    .footer-icon {
+        @apply text-teal-500 fill-current hover:fill-current hover:text-yellow-300
+    }
+
     .footer-regular {
         @apply font-body text-tiny
     }
