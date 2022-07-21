@@ -64,3 +64,9 @@ export default {
 },
 };
 </script>
+
+<style scoped>
+.fix-blur {
+  image-rendering: -webkit-optimize-contrast;
+}
+</style>
