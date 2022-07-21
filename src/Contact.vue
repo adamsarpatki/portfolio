@@ -1,6 +1,6 @@
 <template>
   <div
-    class="
+    class=" 
       h-auto
       px-4
       xl:px-32
