@@ -30,7 +30,7 @@ I want to solve real problems in a friendly, diverse and inclusive environment, 
                   <p class="h4-regular text-gray-900 mb-8">
 Are you interested in working together?
       </p>
-      <router-link to="/"
+      <router-link to="/contact"
         ><button class="btn mt-4">Let's Talk</button></router-link
       >
       

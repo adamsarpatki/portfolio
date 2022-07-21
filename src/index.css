@@ -105,11 +105,11 @@
     }
 
     .footer-container {
-        @apply grid grid-cols-2 max-w-1184
+        @apply grid grid-cols-2 desktop:max-w-1184 xl:max-w-5xl
     }
 
     .footer-column {
-        @apply flex flex-col p-4
+        @apply flex flex-col px-4 mb-4 md:px-0
     }
 
     .footer-column-header {

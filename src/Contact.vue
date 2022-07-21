@@ -1,16 +1,15 @@
 <template>
   <div
-    class=" 
-      h-auto
+    class="
       px-4
+      h-auto
       xl:px-32
       md:px-6
-      sm:px-4
-      sm:mt-72
-      sm:mb-72
+      sm:px-4 sm:mt-72 sm:mb-72
       grid grid-cols-12
       text-left
       selection:bg-yellow-200 selection:text-gray-900
+      pb-10
     "
   >
     <div class="col-start-1 col-end-8 sm:px-4 md:px-68 xl:px-0">
