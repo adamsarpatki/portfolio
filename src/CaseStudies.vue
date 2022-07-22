@@ -25,15 +25,15 @@
           srcset="/src/assets/gabo-redesigned-study-card.jpg"
         />
         <img
-          class="object-cover xl:h-438 border-2 border-gray-900 rounded-xl"
+          class="object-cover xl:h-438 xl:border-2 border-gray-900 xl:rounded-xl rounded-t-xl rounded-r-xl rounded-b-none border-b-0 border-x-2 border-t-2"
           srcset="/src/assets/gabo-redesigned-study-card.jpg"
           alt="An image showing screens of GABO Publishing's redesigned website."
         />
         <div
-            class="absolute bottom-0 left-0 w-full h-0 flex flex-col justify-center items-center bg-teal-900 opacity-0 group-hover:h-full group-hover:opacity-90 duration-500 rounded-xl px-16">
-            <h3 class="h3-bold text-white mb-4">GABO Online Redesign</h3>
-            <p class="subheading-italic text-white mb-4">Redesigning a Hungarian publisher's website and online shop.</p>
-            <router-link to="/gabo"><p class="text-white subheading-bold text-link">Read the Case Study</p></router-link>
+            class="xl:absolute xl:bottom-0 xl:left-0 w-full xl:h-0 flex flex-col justify-center xl:items-center items-start xl:bg-teal-900 bg-teal-400 xl:opacity-0 xl:group-hover:h-full xl:group-hover:opacity-90 xl:duration-500 xl:rounded-xl xl:px-16 rounded-b-xl xl:border-none border-b-2 border-x-2 border-gray-900 px-6  xl:mb-0 mb-4">
+            <h3 class="h3-bold xl:text-white text-gray-900 xl:mb-4 mt-4 xl:mt-0">GABO Online Redesign</h3>
+            <p class="subheading-italic xl:text-white text-gray-900 mb-4">Redesigning a Hungarian publisher's website and online shop.</p>
+            <router-link to="/gabo"><p class="xl:text-white text-gray-900 subheading-bold text-link xl:mb-0 mb-4">Read the Case Study</p></router-link>
         </div>
       </picture>
   </div>
@@ -57,15 +57,15 @@
           srcset="/src/assets/rulebook-redesigned-study-card.jpg"
         />
         <img
-          class="object-cover xl:h-438 border-2 border-gray-900 rounded-xl"
+          class="object-cover xl:h-438 xl:border-2 border-gray-900 xl:rounded-xl rounded-t-xl rounded-r-xl rounded-b-none border-b-0 border-x-2 border-t-2"
           srcset="/src/assets/rulebook-redesigned-study-card.jpg"
           alt="An image showing screens of the D&D Rulebook mobile app."
         />
         <div
-            class="absolute bottom-0 left-0 w-full h-0 flex flex-col justify-center items-center bg-teal-900 opacity-0 group-hover:h-full group-hover:opacity-90 duration-500 rounded-xl px-16">
-            <h3 class="h3-bold text-white mb-4">D&D Rulebook</h3>
-            <p class="subheading-italic text-white mb-4">A mobile-based solution for the players of Dungeons & Dragons.</p>
-            <router-link to="/rulebook"><p class="text-white subheading-bold text-link">Read the Case Study</p></router-link>
+            class="xl:absolute xl:bottom-0 xl:left-0 w-full xl:h-0 flex flex-col justify-center xl:items-center items-start xl:bg-teal-900 bg-yellow-300 xl:opacity-0 xl:group-hover:h-full xl:group-hover:opacity-90 xl:duration-500 xl:rounded-xl xl:px-16 rounded-b-xl xl:border-none border-b-2 border-x-2 border-gray-900 px-6  xl:mb-0 mb-4">
+            <h3 class="h3-bold xl:text-white text-gray-900 xl:mb-4 mt-4 xl:mt-0">D&D Rulebook</h3>
+            <p class="subheading-italic xl:text-white text-gray-900 mb-4">A mobile-based solution for the players of Dungeons & Dragons.</p>
+            <router-link to="/rulebook"><p class="xl:text-white text-gray-900 subheading-bold text-link xl:mb-0 mb-4">Read the Case Study</p></router-link>
         </div>
       </picture>
       
