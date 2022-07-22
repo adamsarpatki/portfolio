@@ -12,7 +12,7 @@
       text-left
     "
   >
-    <div class="col-start-1 xl:col-end-9 col-end-13 sm:px-4 md:px-0">
+    <div class="col-start-1 xl:col-end-9 col-end-13">
       <h1 class="sm:h1-bold h2-bold text-gray-900 mb-11 col-span-full">About Me</h1>
       <p class="paragraph-mobile-small xl:paragraph-regular text-gray-900 mb-8">
         I have a professional background in <b>library science</b>, but I’m currently
