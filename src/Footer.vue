@@ -4,7 +4,7 @@
     <div class="footer-container">
 
       <!-- Left column -->
-      <div class="footer-column text-left space-y-1">
+      <div class="footer-column sm:text-left space-y-1">
         <div class="footer-column-header">Ádám Sárpátki</div>
         <div>
           <p class="footer-regular">
@@ -17,8 +17,8 @@
 
       <!-- Right column -->
 
-      <div class="footer-column space-y-1">
-        <div class="flex-row flex justify-end space-x-4">
+      <div class="sm:footer-column space-y-1 flex flex-col mb-4 items-center">
+        <div class="flex-row flex sm:justify-end justify-center sm:space-x-2">
           <a href="https://www.linkedin.com/in/adamsarpatki/" target="_blank">
             <vue-feather type="linkedin" class="footer-icon"></vue-feather>
           </a>

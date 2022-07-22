@@ -5,7 +5,7 @@
       h-auto
       xl:px-32
       md:px-6
-      sm:px-4 sm:mt-72 sm:mb-20 xl:mb-24 
+      sm:px-4 sm:mt-72 sm:mb-20 mb-16 xl:mb-24 
       grid grid-cols-12
       text-left
       selection:bg-yellow-200 selection:text-gray-900

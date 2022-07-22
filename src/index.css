@@ -105,7 +105,7 @@
     }
 
     .footer-container {
-        @apply grid grid-cols-2 desktop:max-w-1184 xl:max-w-5xl md:px-6
+        @apply grid sm:grid-cols-2 desktop:max-w-1184 xl:max-w-5xl md:px-6
     }
 
     .footer-column {
@@ -117,7 +117,7 @@
     }
 
     .footer-icon {
-        @apply text-teal-500 fill-current hover:fill-current hover:text-yellow-300
+        @apply text-teal-500 fill-current hover:fill-current hover:text-yellow-300 sm:m-0 mx-2
     }
 
     .footer-regular {
