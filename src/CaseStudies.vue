@@ -10,7 +10,7 @@
 
 <div class="xl:basis-1/2">
 
-<div class="group sm:relative flex flex-col mx-auto">
+<div class="group relative flex flex-col mx-auto">
       <picture>
         <source
           media="(max-width: 639px)"
@@ -34,8 +34,8 @@
         
         <div
             class="xl:absolute xl:bottom-0 xl:left-0 w-full xl:h-0 flex flex-col justify-center xl:items-center items-start xl:bg-teal-900 bg-teal-400 xl:opacity-0 xl:group-hover:h-full xl:group-hover:opacity-90 xl:duration-500 xl:rounded-xl xl:px-16 rounded-b-xl xl:border-none border-b-2 border-x-2 border-gray-900 px-6  xl:mb-0 mb-4">
-            <h3 class="h3-bold xl:text-white text-gray-900 xl:mb-4 mt-4 xl:mt-0">GABO Online Redesign</h3>
-            <p class="subheading-italic xl:text-white text-gray-900 mb-4">Redesigning a Hungarian publisher's website and online shop.</p>
+            <h3 class="h3-bold xl:text-white text-gray-900 xl:mb-4 mt-4 xl:mt-0 text-left xl:text-center">GABO Online Redesign</h3>
+            <p class="subheading-italic xl:text-white text-gray-900 mb-4 text-left xl:text-center">Redesigning a Hungarian publisher's website and online shop.</p>
             <router-link to="/gabo"><p class="xl:text-white text-gray-900 subheading-bold text-link decoration-teal-300 xl:mb-0 mb-4">Read the Case Study</p></router-link>
         </div>
       </picture>

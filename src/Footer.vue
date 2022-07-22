@@ -17,7 +17,7 @@
 
       <!-- Right column -->
 
-      <div class="sm:footer-column space-y-1 flex flex-col mb-4 items-center">
+      <div class="sm:footer-column sm:items-end space-y-1 flex flex-col mb-4 items-center">
         <div class="flex-row flex sm:justify-end justify-center sm:space-x-2">
           <a href="https://www.linkedin.com/in/adamsarpatki/" target="_blank">
             <vue-feather type="linkedin" class="footer-icon"></vue-feather>

@@ -1,6 +1,6 @@
 <template>
   <div class="mt-20">
-    <h2 class="h2-bold mb-72">Why Work with Me?</h2>
+    <h2 class="h2-bold mb-72 sm:px-0 px-4">Why Work with Me?</h2>
   </div>
 
   <div class="xl:px-32 px-4 flex xl:flex-row flex-col gap-4 justify-center items-stretch">
@@ -8,8 +8,10 @@
       class="
         h-auto
         xl:basis-1/3 
-        py-8
-        px-8
+        sm:py-8
+        sm:px-8
+        py-6
+        px-6
         text-left
         bg-gray-50
         rounded-xl
@@ -34,8 +36,10 @@
       class="
         h-auto
         xl:basis-1/3 
-        py-8
-        px-8
+        sm:py-8
+        sm:px-8
+        py-6
+        px-6
         text-left
         bg-gray-50
         rounded-xl
@@ -57,8 +61,10 @@
       class="
         h-auto
         xl:basis-1/3
-        py-8
-        px-8
+        sm:py-8
+        sm:px-8
+        py-6
+        px-6
         text-left
         bg-gray-50
         rounded-xl
