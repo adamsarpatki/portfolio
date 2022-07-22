@@ -1,19 +1,31 @@
 <template>
   <!-- About Me -->
 
+
+<div class="sm:mt-72 mt-12 text-left px-4
+      xl:px-32
+      md:px-6">
+      <h1 class="sm:h1-bold h2-bold text-gray-900 mb-11">About Me</h1>
+     </div>   
   <div
     class="
       h-auto
       px-4
       xl:px-32
       md:px-6
-      sm:mt-72 mt-12 mb-72
-      grid grid-cols-12
+      mb-72 
       text-left
     "
   >
-    <div class="col-start-1 xl:col-end-9 col-end-13">
-      <h1 class="sm:h1-bold h2-bold text-gray-900 mb-11 col-span-full">About Me</h1>
+    
+      <div class="">
+        <div class="fix-blur w-1/3 float-right pt-0 pr-0 pb-5 pl-5 [shape-outside:circle()]">
+        <img
+          class="rounded-full border-solid border-gray-900 border-2"
+          src="/src/assets/me_2022_medium_v2.jpg"
+          alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
+        />
+      </div>
       <p class="paragraph-mobile-small xl:paragraph-regular text-gray-900 mb-8">
         I have a professional background in <b>library science</b>, but I’m currently
         working as a freelance literary translator and editor for several
@@ -62,16 +74,12 @@
         to podcasts or music. I also love playing RPGs and video games, painting
         miniatures, or drawing fantasy maps.
       </p>
-      
+        
+</div>
+
     </div>
-    <div class="xl:col-start-9 xl:col-end-13 xl:pt-72 self-top fix-blur xl:order-1 xl:justify-self-center col-span-full">
-      <img
-        class="rounded-full border-solid border-gray-900 border-2"
-        src="/src/assets/me_2022_medium_v2.jpg"
-        alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
-      />
-    </div>
-  </div>
+    
+  
 
   <Values />
   <WorkTogether />
