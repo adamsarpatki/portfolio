@@ -14,11 +14,11 @@
       selection:bg-yellow-200 selection:text-gray-900
     "
   >
-    <div class="col-start-1 col-end-9 sm:px-4 xl:px-0">
+    <div class="col-start-1 col-end-9 sm:px-4 md:px-0">
       <h1 class="sm:h1-bold h2-bold text-gray-900 mb-11">
         Hi, I'm Ádám Sárpátki,
       </h1>
-      <p class="h4-regular text-gray-900 mb-8 ">
+      <p class="h4-regular text-gray-900 mb-8">
         an enthusiastic UX designer based in Budapest, Hungary, with a
         professional background in library and information science, and
         translation.

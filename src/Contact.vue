@@ -12,7 +12,7 @@
       pb-10
     "
   >
-    <div class="col-start-1 col-end-8 sm:px-4 md:px-68 xl:px-0">
+    <div class="col-start-1 xl:col-end-8 col-end-10 sm:px-4 md:px-68 xl:px-0">
       <h1 class="sm:h1-bold h2-bold text-gray-900 mb-11">
         How Can I Help You?
       </h1>
@@ -46,7 +46,7 @@
 
     <div
       class="
-        col-start-8 col-end-13
+        xl:col-start-8 col-start-10 col-end-13
         self-top
         fix-blur
         xl:order-1 xl:justify-self-center
