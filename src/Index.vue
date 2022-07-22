@@ -18,28 +18,32 @@
     "
   >
     <div class="">
-      <div class="fix-blur w-1/3 float-right pt-0 pr-0 pb-5 pl-5 [shape-outside:circle()]">
+      <div class="fix-blur xl:w-1/3 w-1/2 float-right pt-0 pr-0 sm:pb-5 sm:pl-5 pb-1 pl-1 [shape-outside:circle()]">
       <img
         class="rounded-full border-solid border-gray-900 border-2"
         src="/src/assets/me_2022_medium_v2.jpg"
         alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
       />
-    </div>
-      <p class="h4-regular text-gray-900 mb-8">
+      </div>
+      <div class="">
+      <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
         an enthusiastic UX designer based in Budapest, Hungary, with a
         professional background in library and information science, and
         translation.
       </p>
-      <p class="h4-regular text-gray-900 mb-8">
+      <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
         I want to solve real problems in a friendly, diverse and inclusive
         environment, with incredible people.
       </p>
-      <p class="h4-regular text-gray-900 mb-8">
+      <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
         Are you interested in working together?
       </p>
+      </div>
+      <div class="flex justify-center sm:justify-start">
       <router-link to="/contact"
         ><button class="btn mt-4">Let's Talk</button></router-link
       >
+      </div>
     </div>
     
   </div>

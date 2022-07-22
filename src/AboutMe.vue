@@ -19,7 +19,7 @@
   >
     
       <div class="">
-        <div class="fix-blur w-1/3 float-right pt-0 pr-0 pb-5 pl-5 [shape-outside:circle()]">
+        <div class="fix-blur xl:w-1/3 w-1/2 float-right pt-0 pr-0 sm:pb-5 sm:pl-5 pb-2 pl-2 [shape-outside:circle()]">
         <img
           class="rounded-full border-solid border-gray-900 border-2"
           src="/src/assets/me_2022_medium_v2.jpg"
