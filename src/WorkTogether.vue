@@ -2,11 +2,8 @@
   <!-- Contact Me -->
   <div
     class="
-      h-510
-      px-4
-      xl:px-32
-      md:px-6
-      sm:px-4
+      h-auto
+      mt-72 mb-72
       flex flex-col
       items-center
       justify-center

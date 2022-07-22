@@ -3,7 +3,7 @@
     <h2 class="h2-bold mt-20 mb-72">From Dribble</h2>
   </div>
 
-  <div class="xl:px-32 md:px-4 flex xl:flex-row flex-col gap-4 justify-center items-stretch h-auto">
+  <div class="xl:px-32 px-4 flex xl:flex-row flex-col gap-4 justify-center items-stretch h-auto">
 
     <div class="xl:basis-2/6">
       <a href="https://dribbble.com/shots/18159083-Landing-Page-Daily-UI-003" target="_blank">

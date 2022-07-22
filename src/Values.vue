@@ -3,7 +3,7 @@
     <h2 class="h2-bold mb-72">Why Work with Me?</h2>
   </div>
 
-  <div class="xl:px-32 md:px-4 flex xl:flex-row flex-col gap-4 justify-center items-stretch">
+  <div class="xl:px-32 px-4 flex xl:flex-row flex-col gap-4 justify-center items-stretch">
     <div
       class="
         h-auto
