@@ -1,27 +1,9 @@
 <template>
-  <div class="sm:mt-72 mt-12 text-left px-4 xl:px-32 md:px-6">
-    <h1 class="sm:h1-bold h2-bold text-gray-900 mb-11">How Can I Help You?</h1>
-  </div>
-  <div class="h-auto px-4 xl:px-32 md:px-6 mb-72 text-left">
-    <div class="">
-      <div
-        class="
-          fix-blur
-          float-right
-          w-1/3
-          pt-0
-          pr-0
-          pb-5
-          pl-5
-          [shape-outside:square()]
-        "
-      >
-        <img
-          class=""
-          src="/src/assets/corgi.png"
-          alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
-        />
-      </div>
+  <div class="px-4 xl:px-32 md:px-6 mb-72 text-left flex flex-row gap-4">
+    <div class="h-auto sm:mt-72 mt-12 md:basis-2/3 basis-3/4">
+      <h1 class="sm:h1-bold h2-bold text-gray-900 mb-11">
+        How Can I Help You?
+      </h1>
       <p class="subheading-regular text-gray-900 mb-8">
         I'm currently open to new job opportunities in the UX and product design
         field, so feel free to drop me an e-mail at
@@ -48,6 +30,13 @@
           >Dribbble</a
         >.
       </p>
+    </div>
+    <div class="fix-blur flex flex-col items-center md:basis-1/3 basis-1/4 sm:mt-72 mt-12">
+      <img
+        class="h-64 "
+        src="/src/assets/corgi.png"
+        alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
+      />
     </div>
   </div>
 </template>
