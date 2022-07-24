@@ -40,7 +40,7 @@
       :delay="700">
         <img
           class="rounded-full border-solid border-gray-900 border-2"
-          src="/src/assets/adam-sarpatki-on-bench.jpeg"
+          src="/src/assets/adam_sarpatki_on_a_bench.jpg"
           alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
         />
       </div>
