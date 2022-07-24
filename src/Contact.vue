@@ -58,7 +58,7 @@
         >.
       </p>
     </div>
-    <div class="fix-blur md:visible hidden md:flex md:flex-col md:items-center md:basis-1/3 sm:mt-72 mt-12" v-motion
+    <div class="fix-blur md:visible hidden md:flex md:flex-col md:items-center md:basis-1/3 sm:mt-72 mt-12 " v-motion
       :initial="{
         opacity: 0,
         y: 100,
@@ -69,9 +69,9 @@
       }"
       :delay="540">
       <img
-        class="h-64"
-        src="/src/assets/corgi.png"
-        alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
+        class="border-2 border-solid border-gray-900 rounded-full sm:pb-4 sm:pl-4 bg-gray-100 xl:h-64"
+        src="/src/assets/corgi-round.png"
+        alt="A drawing of an extremely cute corgi."
       />
     </div>
   </div>
