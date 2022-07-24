@@ -2,7 +2,19 @@
   <!-- Hero -->
 
   <div class="h-auto px-4 xl:px-32 md:px-6 mb-72 text-left sm:mt-72 mt-12">
-    <h1 class="sm:h1-bold h2-bold text-gray-900 mb-11">
+    <h1
+      class="sm:h1-bold h2-bold text-gray-900 mb-11"
+      v-motion
+      :initial="{
+        opacity: 0,
+        y: 100,
+      }"
+      :enter="{
+        opacity: 1,
+        y: 0,
+      }"
+      :delay="350"
+    >
       Hi, I'm Ádám Sárpátki,
     </h1>
 
@@ -20,6 +32,16 @@
         pl-1
         [shape-outside:circle()]
       "
+      v-motion
+      :initial="{
+        opacity: 0,
+        y: 100,
+      }"
+      :enter="{
+        opacity: 1,
+        y: 0,
+      }"
+      :delay="700"
     >
       <img
         class="rounded-full border-solid border-gray-900 border-2"
@@ -28,20 +50,68 @@
       />
     </div>
     <div class="">
-      <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
+      <p
+        class="xl:h4-regular subheading-regular text-gray-900 mb-8"
+        v-motion
+        :initial="{
+          opacity: 0,
+          y: 100,
+        }"
+        :enter="{
+          opacity: 1,
+          y: 0,
+        }"
+        :delay="400"
+      >
         an enthusiastic UX designer based in Budapest, Hungary, with a
         professional background in library and information science, and
         translation.
       </p>
-      <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
+      <p
+        class="xl:h4-regular subheading-regular text-gray-900 mb-8"
+        v-motion
+        :initial="{
+          opacity: 0,
+          y: 100,
+        }"
+        :enter="{
+          opacity: 1,
+          y: 0,
+        }"
+        :delay="540"
+      >
         I want to solve real problems in a friendly, diverse and inclusive
         environment, with incredible people.
       </p>
-      <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
+      <p
+        class="xl:h4-regular subheading-regular text-gray-900 mb-8"
+        v-motion
+        :initial="{
+          opacity: 0,
+          y: 100,
+        }"
+        :enter="{
+          opacity: 1,
+          y: 0,
+        }"
+        :delay="640"
+      >
         Are you interested in working together?
       </p>
     </div>
-    <div class="flex justify-center sm:justify-start">
+    <div
+      class="flex justify-center sm:justify-start"
+      v-motion
+      :initial="{
+        opacity: 0,
+        y: 100,
+      }"
+      :enter="{
+        opacity: 1,
+        y: 0,
+      }"
+      :delay="780"
+    >
       <router-link to="/contact"
         ><button class="btn mt-4">Let's Talk</button></router-link
       >
