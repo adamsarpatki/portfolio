@@ -1,6 +1,6 @@
 <template>
   <div class="px-4 xl:px-32 md:px-6 mb-72 text-left flex flex-row gap-4">
-    <div class="h-auto sm:mt-72 mt-12 md:basis-2/3 basis-3/4">
+    <div class="h-auto sm:mt-72 mt-12 md:basis-2/3">
       <h1 class="sm:h1-bold h2-bold text-gray-900 mb-11">
         How Can I Help You?
       </h1>
@@ -31,7 +31,7 @@
         >.
       </p>
     </div>
-    <div class="fix-blur flex flex-col items-center md:basis-1/3 basis-1/4 sm:mt-72 mt-12">
+    <div class="fix-blur md:visible hidden md:flex md:flex-col md:items-center md:basis-1/3 sm:mt-72 mt-12">
       <img
         class="h-64"
         src="/src/assets/corgi.png"
