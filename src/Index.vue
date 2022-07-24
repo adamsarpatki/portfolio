@@ -6,49 +6,47 @@
       Hi, I'm Ádám Sárpátki,
     </h1>
 
-
-      <div
-        class="
-          fix-blur
-          xl:w-1/3
-          sm:w-1/2
-          w-full
-          sm:float-right
-          pt-0
-          pr-0
-          sm:pb-5 sm:pl-5
-          pb-11
-          pl-1
-          [shape-outside:circle()]
-        "
-      >
-        <img
-          class="rounded-full border-solid border-gray-900 border-2"
-          src="/src/assets/me_2022_medium_v2.jpg"
-          alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
-        />
-      </div>
-      <div class="">
-        <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
-          an enthusiastic UX designer based in Budapest, Hungary, with a
-          professional background in library and information science, and
-          translation.
-        </p>
-        <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
-          I want to solve real problems in a friendly, diverse and inclusive
-          environment, with incredible people.
-        </p>
-        <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
-          Are you interested in working together?
-        </p>
-      </div>
-      <div class="flex justify-center sm:justify-start">
-        <router-link to="/contact"
-          ><button class="btn mt-4">Let's Talk</button></router-link
-        >
-      </div>
+    <div
+      class="
+        fix-blur
+        xl:w-1/3
+        sm:w-1/2
+        w-full
+        sm:float-right
+        pt-0
+        pr-0
+        sm:pb-5 sm:pl-5
+        pb-11
+        pl-1
+        [shape-outside:circle()]
+      "
+    >
+      <img
+        class="rounded-full border-solid border-gray-900 border-2"
+        src="/src/assets/me_2022_medium_v2.jpg"
+        alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
+      />
     </div>
-
+    <div class="">
+      <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
+        an enthusiastic UX designer based in Budapest, Hungary, with a
+        professional background in library and information science, and
+        translation.
+      </p>
+      <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
+        I want to solve real problems in a friendly, diverse and inclusive
+        environment, with incredible people.
+      </p>
+      <p class="xl:h4-regular subheading-regular text-gray-900 mb-8">
+        Are you interested in working together?
+      </p>
+    </div>
+    <div class="flex justify-center sm:justify-start">
+      <router-link to="/contact"
+        ><button class="btn mt-4">Let's Talk</button></router-link
+      >
+    </div>
+  </div>
 
   <CaseStudies />
   <Dribbble />

@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import VueFeather from 'vue-feather';
+import { MotionPlugin } from '@vueuse/motion';
 
 import { createRouter, createWebHashHistory } from 'vue-router'
 import "./index.css"
@@ -40,5 +41,6 @@ router.beforeEach(() => {
 
 const app = createApp(App);
 app.use(router);
+app.use(MotionPlugin);
 app.component(VueFeather.name, VueFeather);
 app.mount('#app');
