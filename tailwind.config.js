@@ -127,8 +127,8 @@ module.exports = {
 
       backgroundColor: theme => ({
         ...theme('colors'),
-        'rulebook': '#489fb5',
-        'gabo': '#ffeddf',
+        'rulebook': '#a3d0d9',
+        'gabo': '#C5D8D1',
       }),
 
       lineHeight: {

@@ -18,7 +18,7 @@
         <p class="paragraph-mobile-small xl:paragraph-regular">
           Based on this, I have asked myself the question:
         </p>
-        <div class="mt-3 md:px-12 sm:px-8 md:mx-12 px-4 py-4 bg-gray-300 rounded-md text-center">
+        <div class="mt-3 md:px-12 sm:px-8 md:mx-12 px-4 py-4 bg-gray-200 rounded-md text-center">
           <p class="subheading-bold">
             How might we provide information about game mechanics for the
             players of Dungeons and Dragons 5th edition, so they can find

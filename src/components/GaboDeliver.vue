@@ -113,7 +113,7 @@
           md:mx-12
           px-4
           h-48
-          bg-gray-300
+          bg-gray-200
           rounded-md
         "
       >
@@ -318,7 +318,7 @@
           md:mx-12
           px-4
           h-48
-          bg-gray-300
+          bg-gray-200
           rounded-md
         "
       >
@@ -491,7 +491,7 @@
           md:mx-12
           px-4
           h-48
-          bg-gray-300
+          bg-gray-200
           rounded-md
         "
       >

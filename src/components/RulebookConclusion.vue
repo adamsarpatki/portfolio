@@ -1,5 +1,5 @@
 <template>
-    <div class="study-grid bg-gray-300 h-40 mb-12">
+    <div class="study-grid bg-gray-200 h-40 mb-12">
     <h2 class="col-span-full self-center h2-bold text-gray-900">Conclusion</h2>
   </div>
 
@@ -30,7 +30,7 @@
 
 <WorkTogether/>
 
-<div class="study-grid bg-gray-300 h-40 mb-12">
+<div class="study-grid bg-gray-200 h-40 mb-12">
     <h2 class="col-span-full self-center h2-bold text-gray-900">Resources</h2>
 </div>
 

@@ -1,5 +1,5 @@
 <template>
-    <div class="study-grid bg-gray-300 h-40">
+    <div class="study-grid bg-gray-200 h-40">
     <h2 class="col-span-full self-center h2-bold text-gray-900">
       About the Project
     </h2>

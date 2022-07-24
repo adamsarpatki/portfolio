@@ -116,7 +116,7 @@
     </div>
     <div
       class="
-        xl:col-start-8 xl:col-end-12
+        xl:col-start-8 xl:col-end-13
         sm:col-start-3 sm:col-end-11
         col-start-1 col-end-13
         self-center

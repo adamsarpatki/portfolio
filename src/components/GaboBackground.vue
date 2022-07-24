@@ -1,5 +1,5 @@
 <template>
-  <div class="study-grid bg-gray-300 h-40">
+  <div class="study-grid bg-gray-200 h-40">
     <h2 class="col-span-full px-4 md:px-0 self-center h2-bold text-gray-900">
       The Background
     </h2>

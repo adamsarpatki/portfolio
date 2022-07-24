@@ -103,7 +103,7 @@
 
   <div class="study-grid h-auto mb-12">
     <table class="bg-gray-50 col-span-full border-collapse">
-      <thead class="bg-gray-300 border text-center h-16">
+      <thead class="bg-gray-200 border text-center h-16">
         <tr>
           <th></th>
           <th>Started playing...</th>

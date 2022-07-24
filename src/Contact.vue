@@ -33,7 +33,7 @@
     </div>
     <div class="fix-blur flex flex-col items-center md:basis-1/3 basis-1/4 sm:mt-72 mt-12">
       <img
-        class="h-64 "
+        class="h-64"
         src="/src/assets/corgi.png"
         alt="An image of Adam Sarpatki standing in front of a white wall and smiling."
       />
