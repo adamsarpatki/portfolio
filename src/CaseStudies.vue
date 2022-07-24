@@ -25,7 +25,7 @@
           srcset="/src/assets/gabo-redesigned-study-card.jpg"
         />
         <img
-          class="object-cover xl:h-438 xl:border-2 border-gray-900 xl:rounded-xl rounded-t-xl rounded-r-xl rounded-b-none border-b-0 border-x-2 border-t-2"
+          class="object-cover h-auto xl:border-2 border-gray-900 xl:rounded-xl rounded-t-xl rounded-r-xl rounded-b-none border-b-0 border-x-2 border-t-2"
           srcset="/src/assets/gabo-redesigned-study-card.jpg"
           alt="An image showing screens of GABO Publishing's redesigned website."
         />
@@ -60,7 +60,7 @@
           srcset="/src/assets/rulebook-redesigned-study-card.jpg"
         />
         <img
-          class="object-cover xl:h-438 xl:border-2 border-gray-900 xl:rounded-xl rounded-t-xl rounded-r-xl rounded-b-none border-b-0 border-x-2 border-t-2"
+          class="object-cover h-auto xl:border-2 border-gray-900 xl:rounded-xl rounded-t-xl rounded-r-xl rounded-b-none border-b-0 border-x-2 border-t-2"
           srcset="/src/assets/rulebook-redesigned-study-card.jpg"
           alt="An image showing screens of the D&D Rulebook mobile app."
         />
