@@ -58,7 +58,7 @@
         working as a freelance literary translator and editor for several
         Hungarian publishers — at this point, I’ve worked on more than 50 books.
         I have publications ranging from fantasy novels to library science
-        articles, feel free to check out the whole list if you’re interested.
+        articles, <a href="/src/assets/Publications_by_AdamSarpatki.pdf" target="_blank" class="text-link">feel free to check out the whole list if you’re interested.</a>
       </p>
       <p class="paragraph-mobile-small xl:paragraph-regular text-gray-900 mb-8" v-motion
         :initial="{
