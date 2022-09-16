@@ -24,6 +24,9 @@
           books, crime fiction, non-fiction, cooking etc. I would consider them
           one of the most prolific publishing groups in the country.
         </p>
+        <p class="paragraph-mobile-small xl:paragraph-regular">
+          <b>Update, 16/09/2022:</b> GABO has <a href="https://www.facebook.com/GABOKIADO/videos/1067298883985516/" target="_blank" class="text-link">updated their website/online shop</a> on 14 September 2022, however I don't analyze these changes. The scope of my case study is the previous design.
+        </p>
       </div>
     </div>
 
