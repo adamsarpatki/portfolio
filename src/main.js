@@ -13,6 +13,7 @@ import Values from "./Values.vue"
 import Dribbble from "./Dribbble.vue"
 import Rulebook from "./Rulebook.vue"
 import Gabo from "./Gabo.vue"
+import Multiverse from "./Multiverse.vue"
 import Privacy from "./Privacy.vue"
 import Contact from "./Contact.vue"
 
@@ -25,6 +26,7 @@ const routes = [
     { path: '/dribbble', component: Dribbble},
     { path: '/rulebook', component: Rulebook},
     { path: '/gabo', component: Gabo},
+    { path: '/multiverse', component: Multiverse},
     { path: '/privacy', component: Privacy},
     { path: '/contact', component: Contact},
   ]
