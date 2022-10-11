@@ -42,13 +42,13 @@
               border-b-0 border-x-2 border-t-2
             "
             srcset="/src/assets/multiverse_study_card_tall.png"
-            alt="An image showing screens of GABO Publishing's redesigned website."
+            alt="An image showing a screen of the dashboard design."
           />
 
           <!-- Overlay -->
 
-          <router-link to=""
-            ><div
+          
+            <div
               class="
                 xl:absolute xl:bottom-0 xl:left-0
                 w-full
@@ -111,8 +111,7 @@
               >
                 Coming soon.
               </p>
-            </div></router-link
-          >
+            </div>
         </picture>
       </div>
     </div>
