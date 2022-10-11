@@ -58,7 +58,7 @@
                 xl:items-center
                 items-start
                 xl:bg-teal-900
-                bg-teal-400
+                bg-yellow-300
                 xl:opacity-0
                 xl:group-hover:h-full
                 xl:group-hover:opacity-90
