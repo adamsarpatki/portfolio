@@ -15,6 +15,7 @@ import Rulebook from "./Rulebook.vue"
 import Gabo from "./Gabo.vue"
 import Privacy from "./Privacy.vue"
 import Contact from "./Contact.vue"
+import Publications from "./Publications.vue"
 
 const routes = [
     { path: '/', component: Index },
@@ -27,6 +28,7 @@ const routes = [
     { path: '/gabo', component: Gabo},
     { path: '/privacy', component: Privacy},
     { path: '/contact', component: Contact},
+    { path: '/publications', component: Publications},
   ]
 
 const router = createRouter({

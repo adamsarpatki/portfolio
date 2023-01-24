@@ -92,6 +92,19 @@
             text-gray-900
             font-subheading" to="/about-me"><span class=" nav-link">About</span>
         </router-link>
+        <router-link  class="
+            sm:text-base
+            xl:text-xl
+            sm:w-20
+            sm:mx-2.5
+            mt-1
+            sm:mt-0
+            block
+            px-2
+            py-1
+            text-gray-900
+            font-subheading" to="/publications"><span class=" nav-link">Publications</span>
+        </router-link>
                 <router-link  class="
             sm:text-base
             xl:text-xl
