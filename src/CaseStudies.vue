@@ -16,6 +16,107 @@
       items-center
     "
   >
+
+  <div class="desktop:max-w-[584px] xl:max-w-[504px]">
+      <div class="group relative flex flex-col mx-auto">
+        <picture>
+          <source
+            media="(max-width: 639px)"
+            srcset="/src/assets/upcycle_study_card_tall.png"
+          />
+          <source
+            media="(max-width: 767px)"
+            srcset="/src/assets/upcycle_study_card_tall.png"
+          />
+          <source
+            media="(max-width: 1279px)"
+            srcset="/src/assets/upcycle_study_card_tall.png"
+          />
+          <img
+            class="
+              object-cover
+              h-auto
+              xl:border-2
+              border-gray-900
+              xl:rounded-xl
+              rounded-t-xl rounded-r-xl rounded-b-none
+              border-b-0 border-x-2 border-t-2
+            "
+            srcset="/src/assets/upcycle_study_card_tall.png"
+            alt="An image showing a logo of the Upcycle website and app design."
+          />
+
+          <!-- Overlay -->
+
+          
+            <div
+              class="
+                xl:absolute xl:bottom-0 xl:left-0
+                w-full
+                xl:h-0
+                flex flex-col
+                justify-center
+                xl:items-center
+                items-start
+ xl:bg-teal-900
+                bg-teal-400
+                xl:opacity-0
+                xl:group-hover:h-full
+                xl:group-hover:opacity-90
+                xl:duration-500
+                xl:rounded-xl
+                xl:px-16
+                rounded-b-xl
+                xl:border-none
+                border-b-2 border-x-2 border-gray-900
+                px-6
+                xl:mb-0
+                mb-4
+              "
+            >
+              <h3
+                class="
+                  h3-bold
+                  xl:text-white
+                  text-gray-900
+                  xl:mb-4
+                  mt-4
+                  xl:mt-0
+                  text-left
+                  xl:text-center
+                "
+              >
+                Upcycle
+              </h3>
+              <p
+                class="
+                  subheading-italic
+                  xl:text-white
+                  text-gray-900
+                  mb-4
+                  text-left
+                  xl:text-center
+                "
+              >
+                A new app to help sustainable consumption.
+              </p>
+              <p
+                class="
+                  subheading-bold 
+                  xl:text-white
+                  text-gray-900
+                  mb-4
+                  text-left
+                  xl:text-center
+                "
+              >
+                Coming soon.
+              </p>
+            </div>
+        </picture>
+      </div>
+    </div>
+
     <div class="desktop:max-w-[584px] xl:max-w-[504px]">
       <div class="group relative flex flex-col mx-auto">
         <picture>
@@ -58,7 +159,7 @@
                 xl:items-center
                 items-start
                 xl:bg-teal-900
-                bg-yellow-300
+                bg-teal-400
                 xl:opacity-0
                 xl:group-hover:h-full
                 xl:group-hover:opacity-90
@@ -247,7 +348,7 @@
                 xl:items-center
                 items-start
                 xl:bg-teal-900
-                bg-yellow-300
+                bg-teal-400
                 xl:opacity-0
                 xl:group-hover:h-full
                 xl:group-hover:opacity-90
