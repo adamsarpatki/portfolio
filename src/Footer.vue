@@ -44,7 +44,7 @@
           >
         </div>
         <div class="text-right">
-          <p class="footer-regular">© 2022 Ádám Sárpátki</p>
+          <p class="footer-regular">© 2023 Ádám Sárpátki</p>
         </div>
       </div>
     </div>
