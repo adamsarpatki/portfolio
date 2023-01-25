@@ -151,9 +151,8 @@
           y: 0,
         }"
         :delay="640">
-        Outside of UX, I like to spend my time knitting, cooking, and listening
-        to podcasts or music. I also love playing RPGs and video games, painting
-        miniatures, or drawing fantasy maps.
+        Outside of UX, I like to spend my time messing around in Blender, knitting, playing RPGs and video games. I also love cooking, painting
+        miniatures, and drawing fantasy maps.
       </p>
         
 </div>
