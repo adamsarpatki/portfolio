@@ -2,13 +2,9 @@
     <div class="flex flex-col">
 
     <MultiverseHeader/>
-    <GaboBackground/>
-    <GaboProcess/>
-    <GaboResearch/>
-    <GaboDefine/>
-    <GaboDevelop/>
-    <GaboDeliver/>
-    <GaboConclusion/>
+    <MultiverseBackground/>
+    <MultiverseDashboard/>
+
     </div>
 
 
@@ -16,23 +12,15 @@
 
 <script>
 import MultiverseHeader from './components/MultiverseHeader.vue'
-import GaboBackground from './components/GaboBackground.vue'
-import GaboConclusion from './components/GaboConclusion.vue'
-import GaboDeliver from './components/GaboDeliver.vue'
-import GaboDevelop from './components/GaboDevelop.vue'
-import GaboResearch from './components/GaboResearch.vue'
-import GaboProcess from './components/GaboProcess.vue'
+import MultiverseBackground from './components/MultiverseBackground.vue'
+import MultiverseDashboard from './components/MultiverseDashboard.vue';
 
 export default {
   name: "Multiverse",
   components: {
     MultiverseHeader,
-    GaboBackground,
-    GaboDeliver,
-    GaboDevelop,
-    GaboResearch,
-    GaboProcess,
-    GaboConclusion
+    MultiverseBackground,
+    MultiverseDashboard
   }
 };
 </script>
