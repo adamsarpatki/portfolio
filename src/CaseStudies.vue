@@ -33,7 +33,7 @@
 
           <!-- Overlay -->
 
-          <router-link to="/multiverse">
+          <a href="https://dribbble.com/shots/20867865-Multiverse-Comics-Dashboard-design" target="_blank">
             <div
               class="xl:absolute xl:bottom-0 xl:left-0 w-full xl:h-0 flex flex-col justify-center xl:items-center items-start xl:bg-teal-900 bg-teal-400 xl:opacity-0 xl:group-hover:h-full xl:group-hover:opacity-90 xl:duration-500 xl:rounded-xl xl:px-16 rounded-b-xl xl:border-none border-b-2 border-x-2 border-gray-900 px-6 xl:mb-0 mb-4"
             >
@@ -50,9 +50,9 @@
               <p
                 class="subheading-bold xl:text-white text-gray-900 mb-4 text-left xl:text-center"
               >
-                Coming soon.
+                Read it on Dribbble.
               </p>
-            </div></router-link
+            </div></a
           >
         </picture>
       </div>
