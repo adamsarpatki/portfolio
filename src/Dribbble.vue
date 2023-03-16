@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="h2-bold mt-20 mb-72">From Dribbble</h2>
+    <h2 class="h2-bold mt-20 mb-72">Shots from Dribbble</h2>
   </div>
 
   <div class="xl:px-32 px-4 flex xl:flex-row flex-col gap-4 justify-center items-stretch h-auto">
